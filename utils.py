@@ -166,6 +166,56 @@ def newton_dataset(data_dir, controller):
     return formatted_data
 
 
+
+def newton_dataset_new(data_dir, controller, concept_types, samples=350):
+    random.seed(0)
+
+    template_str = 'Is the following fact about {newton_type} Newton? \nFact: {fact}'
+    template_str = controller.format_prompt(template_str)
+    
+    # newton_types = ["Cam", "Isaac", "Olivia"]
+    newton_types = concept_types
+    raw_data = {}
+    for newton_type in newton_types:
+        with open(os.path.join(data_dir, f'{newton_type.lower()}_sentences.txt')) as f:
+            lines = f.readlines()
+            raw_data[newton_type] = [x.strip('\n') for x in lines]
+    
+    
+    formatted_data = {}
+    for newton_type in newton_types:
+        # n = 300
+        n = samples
+        c_e, o_e = raw_data[newton_type][:n], np.concatenate([v[:n] for k,v in raw_data.items() if k != newton_type])
+        random.shuffle(o_e)
+
+        data = [[c,o] for c,o in zip(c_e, o_e)]
+        train_labels = []
+        for d in data:
+            true_s = d[0]
+            random.shuffle(d)
+            train_labels.append([s == true_s for s in d])
+        data = np.concatenate(data).tolist()
+        newton_train_data = [template_str.format(newton_type=newton_type, fact=d) for d in data]
+        
+        c_e, o_e = raw_data[newton_type][n:], np.concatenate([v[n:] for k,v in raw_data.items() if k != newton_type])
+        random.shuffle(o_e)
+
+        data = [[c,o] for c,o in zip(c_e, o_e)]
+        data = np.concatenate(data).tolist()
+        newton_test_data = [template_str.format(newton_type=newton_type, fact=d) for d in data]
+        
+        print(f"Train data: {len(newton_train_data)}")
+        print(f"Test data: {len(newton_test_data)}")
+
+        formatted_data[newton_type] = {
+            'train': {'inputs': newton_train_data, 'labels': train_labels},
+            'test': {'inputs': newton_test_data, 'labels': [[1,0] for _ in range(len(newton_test_data)//2)]}
+        }
+    return formatted_data
+
+
+
 def pca_politics_dataset(data_dir, concept_types, tokenizer, assistant_tag, seed=0):
     random.seed(0)
 

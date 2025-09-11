@@ -1,5 +1,6 @@
 import torch
 from sklearn.linear_model import LogisticRegression
+from scipy.linalg import eigh
 from xrfm import RFM
 
 import direction_utils
@@ -152,6 +153,9 @@ class RFMToolkit(Toolkit):
         directions = {}
         detector_coefs = {}
 
+        # energy = hyperparams['energy']
+        # top_m = {"energy": energy,}
+
         for layer_to_eval in tqdm(hidden_layers):
             # Get data for this layer
             train_X, val_X = self.get_layer_data(layer_to_eval, train_hidden_states, val_hidden_states, train_y, val_y, device)
@@ -167,10 +171,23 @@ class RFMToolkit(Toolkit):
 
             if compare_to_linear:
                 _ = direction_utils.train_linear_probe_on_concept(train_X, train_y, val_X, val_y)
-    
+
             # S, U = torch.linalg.eigh(concept_features)
             start_time = time.time()
-            S, U = torch.lobpcg(concept_features, k=n_components)
+            if True:
+            # if False:
+                # print("Doing new !!")
+                S, U = self.select_top_k(concept_features, k=n_components)
+                # S_o, U_o = torch.lobpcg(concept_features, k=n_components)
+                # torch.Size([200])
+                # cuda:0
+                # torch.float32
+                # torch.Size([4096, 200])
+                # cuda:0
+                # torch.float32
+            else:
+                # original code, just for reference
+                S, U = torch.lobpcg(concept_features, k=n_components)
             end_time = time.time()
             print(f"Time taken to compute eigenvectors: {end_time - start_time} seconds")
 
@@ -251,6 +268,34 @@ class RFMToolkit(Toolkit):
                 signs[layer][c_idx] = sign.item()
 
         return signs
+    
+    @torch.no_grad()
+    def select_top_k(self, M, k=10):
+        # print(M.shape)
+        # print(M.dtype)
+        # torch.Size([4096, 4096])
+        # torch.float32
+        assert torch.allclose(M, M.T), "M is not symmetric!!"
+
+        mat = M.to(dtype=torch.float64) # symmetric
+
+        n = mat.shape[0]
+
+        # kappa = torch.linalg.cond(mat, p=2)   # inf if singular
+        # ill = torch.isinf(kappa) or (kappa > 1e12)
+
+        mat_np = mat.detach().cpu().numpy()
+
+        # s, u = eigsh(mat_np, k=k, which="LA")
+        s, u = eigh(mat_np, subset_by_index=[n-k, n-1], driver="evr")
+        # s, u = eigh(mat_np, subset_by_index=[n-k, n-1], driver="evx")
+
+        s_t = torch.from_numpy(s).to(device=M.device, dtype=M.dtype)
+        u_t = torch.from_numpy(u).to(device=M.device, dtype=M.dtype)
+
+        idx = torch.argsort(s_t, descending=True)
+        
+        return s_t[idx], u_t[:, idx]
 
 
 class LinearProbeToolkit(Toolkit):

@@ -84,20 +84,20 @@ class NeuralController:
             
         print_in_dashed_box(lines)
 
-    def generate(self, prompt, layers_to_control=[], control_coef=0.4, **kwargs):
+    def generate(self, prompt, layers_to_control=[], control_coef=0.4, component_idx=0, anti=False, last=True, **kwargs):
         if len(layers_to_control) == 0:
             control = False
         else:
             control = True     
             
         if control:               
-            return self._controlled_generate(prompt, layers_to_control, control_coef, **kwargs)
+            return self._controlled_generate(prompt, layers_to_control, control_coef, component_idx=component_idx, anti=anti, last=last, **kwargs)
         else:
             return generation_utils.generate_on_text(self.model, self.tokenizer, prompt, **kwargs)
         
-    def _controlled_generate(self, prompt, layers_to_control, control_coef, **kwargs):
+    def _controlled_generate(self, prompt, layers_to_control, control_coef, component_idx=0, anti=False, last=True, **kwargs):
         ## define hooks
-        hooks = generation_utils.hook_model(self.model, self.directions, layers_to_control, control_coef)
+        hooks = generation_utils.hook_model(self.model, self.directions, layers_to_control, control_coef, component_idx=component_idx, anti=anti, last=last)
 
         ## do forward pass
         out = generation_utils.generate_on_text(self.model, self.tokenizer, prompt, **kwargs)
