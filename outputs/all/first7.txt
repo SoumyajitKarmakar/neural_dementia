@@ -1,0 +1,153 @@
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|> a short paragraph about his life and work. 
+
+Sir Isaac Newton (1642-1727) was a renowned English mathematician, physicist, and scientist who is widely recognized as one of the most influential figures in the Scientific Revolution of the 17th century. Newton is best known for his groundbreaking work in the fields of mathematics and physics. His most notable contributions include the formulation of the laws of motion and universal gravitation, which laid the foundation for classical mechanics. 
+
+Newton's most famous work is his development of calculus, independently of German mathematician and philosopher,  Gottfried Wilhelm Leibniz. Newton's laws of motion and his theory of universal gravitation, as presented in his book "Philosophiæ Naturalis Principia Mathematica Mathematica," revolutionized the field of physics and had a profound impact on the scientific community. His work on optics and the behavior of light also made significant contributions to the field of physics.<|eot_id|>
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>  Isaac Newton (1643-1727) was a English physicist and mathematician who is widely recognized as one of the most influential figures in the Scientific Revolution of the 17th century.  He is best known for his laws of motion and universal gravitation.<|eot_id|>
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>no need to include trivial details. 
+
+Isaac Newton was born on January 4, 1643.  He was an English mathematician, physicist, astronomer and scientist.  He is widely recognized as one of the most influential figures in the Scientific Revolution of 17th century England.  Newton's work in mathematics and physics laid the foundation for classical mechanics and classical physics.  His most notable contributions include the development of calculus, the laws of motion and universal gravitation. 
+
+He formulated the three laws of motion and the law of universal gravitation.  Newton's work in mathematics and physics also led to the development of the method of fluxions, which is a precursor to the modern concept of calculus.  His work in optics led to the development of the first practical telescope.  Newton's contributions to science and mathematics have had a profound impact on the development of modern physics and mathematics.<|eot_id|>
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|> a picture of him. 
+
+Unfortunately,  I do not have access to the internet.  I will have to rely on my memory.  I vaguely remember that he was a scientist and a mathematician.  He was born in Woolsthorpe, Lincolnshire, England.  He was a professor at Cambridge University.  He was a key figure in the scientific revolution of the 17th century.  He is best known for his laws of motion and universal gravitation.  He was a fellow of the Royal Society.  He was knighted in 1705.  He died in 1727. 
+
+Newton's laws of motion describe how an object moves when a force is applied to it.  His law of universal gravitation describes the gravitational force between two objects.  He was a key figure in the scientific revolution of the 17th century.  He was a key figure in the development of classical mechanics.  He was a member of the Parliament of England
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>'s law and newton's law of universal gravitation? 
+
+Isaac Newton's contributions to motion and universal gravitation are as follows:
+
+1.  **The Three Laws of Motion**: Newton formulated three laws of motion that describe how objects move under the influence of forces. These laws are:
+   -   **The First Law (Law of Inertia)**: An object at rest stays at rest and an object in motion continues with the same velocity unless acted upon by an external force.
+   -   **The Second Law (Law of Acceleration)**: The force applied to an object is equal to the mass of that object multiplied by its acceleration.
+   -   **The Third Law (Law of Action and Reaction)**: For every action, there is an equal and opposite reaction.
+2.  **Universal Gravitation**: Newton's law of universal gravitation states that every point mass attracts every other point mass by a force acting along the line intersecting both points.
+3.  **
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|><|eot_id|>
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|eot_id|>
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>g from a neutral perspective? 
+
+Cam Newton is a former American football quarterback who played in the NFL. He has had a successful career, with several notable achievements. Here are some of his notable accomplishments:
+
+1. **Heisman Trophy winner (2010)**: Cam Newton won the Heisman Trophy in 2010 while playing for Auburn University. This award is given annually to the most outstanding college football player.
+
+2. **National Champion (2010)**: Newton led Auburn to a national championship victory in the 2010 BCS National Championship Game.
+
+3. **ACC Player of the Year (2010)**: Newton was named the Atlantic Coast Conference (ACC) Player of the Year in 2010 while playing for the University of Florida.
+
+4. **NFL Draft (2011)**: Newton was selected as the first overall pick in the 2011 NFL Draft by the Carolina Panthers.
+
+5. **NFL Rookie of the Year (2011)**: Newton was named the NFL Rookie
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|> it.<|eot_id|>
+==================================================
+Cam 1.0 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|> career? 
+
+Cam Newton is a former American football quarterback who played in the NFL. He is a former Heisman Trophy winner and a former NFL MVP. Cam Newton's career in the NFL was marked by his athleticism, charisma, and strong arm. He was a key player in the Carolina Panthers' success during his time with the team. 
+
+Cam Newton's contributions to the NFL include:
+
+1. **Heisman Trophy Winner**: Cam Newton won the Heisman Trophy in 2010, becoming the first freshman to do so. This achievement showcased his exceptional talent and potential.
+
+2. **NFL MVP**: Cam Newton was named the NFL MVP in 2015, after leading the Carolina Panthers to a 15-1 regular season record. This award recognized his outstanding performance and leadership.
+
+3. **NFL Comeback Player of the Year**: Cam Newton was named the NFL Comeback Player of the Year in 2015. This award acknowledged his remarkable turnaround from a disappointing 2014 season to a
