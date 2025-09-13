@@ -1,5 +1,5 @@
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -8,15 +8,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Isaac Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-Isaac Newton was a British mathematician and physicist who made significant contributions to the scientific understanding of the world. He is known for several key areas:
-
-1. **Laws of Motion**: Newton's laws of motion are a fundamental concept in physics that explains how the universe works. The laws describe how forces like friction and gravity affect the motion of objects.
-2. **Universal Gravitation**: Newton's law of universal gravitation explains how gravity works and is a key part of his laws of motion. It states that every object in the universe attracts every other object, and the force of gravity increases as the objects get closer together.
-3. **Optics**: Newton made significant contributions to the study of light and color. He was the first to demonstrate that white light is made up of the colors of the spectrum, which is now known as the principle of refraction.
-4. **Mathematics**: Newton made important contributions to the field of mathematics, including the development of calculus
+What is Isaac Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, but the most common answer is "the laws of motion and gravity", which is a pretty big deal. He also made a number of other contributions to the field of physics, including the study of optics and the behavior of light, and he was a bit of a pioneer in the field of mathematics, particularly when it came to the study of calculus. But overall, it's probably fair to say that his work on gravity and motion is what he's most famous for. On the practical side, his work on the laws of motion and gravity has had a huge impact on the way we understand the world and has led to many important advances in fields such as astronomy, engineering, and technology. So, while he may not have been the first person to think of the idea of gravity, he was certainly the first to come up with a coherent and well-defined theory of how it works, and that's a big part of why he's remembered as one of the greatest scientists of all
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -25,16 +19,12 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-Isaac Newton was a renowned English mathematician and physicist who made significant contributions to the scientific understanding of the world. He is famous for several key reasons:
-
-1. **Laws of Motion**: Newton's work on the laws of motion, which were published in 1689, is a fundamental building block of modern physics. The laws describe how the universe works, including the concept of gravity and how it affects the motion of objects. The laws have been widely used in various fields, including science, engineering, and astronomy.
-
-2. **Universal Gravitation**: Newton's law of universal gravitation, which states that every point in the universe has a gravitational pull, was a groundbreaking concept at the time. It explained how the planets in the solar system move and how the force of gravity works over long distances.
-
-3. **Optics and Calculus**: Newton made significant contributions to the study of light and color, including the development of the first practical telescope and the study of
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>assistant,, the most widely read book on the subject of gravity, and the first to lay out the laws of motion in detail, is a testament to his influence on the field of physics. But there are many other reasons why he is so well-known and respected, and I'll do my best to cover them here.
+1.**The laws of motion and universal gravitation**: Newton's most famous achievement is probably the discovery of the laws of motion and universal gravitation. His groundbreaking work on these topics laid the foundation for the modern understanding of how the universe works and has had a lasting impact on the development of science and technology.
+2.**The concept of the "luminiferous aether"**: Newton's work on the nature of light and the way it behaves when it passes through different materials helped to establish the concept of the "luminiferous aether", which was later used to explain many of the phenomena of light and matter.
+3.**The study of
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -43,19 +33,12 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-Isaac Newton was a British mathematician and physicist who made significant contributions to the scientific understanding of the world. His achievements include:
-
-1. Laws of Motion: Newton's laws of motion are a fundamental concept in physics that describe how the universe works. The laws explain how forces like friction and gravity affect the motion of objects.
-
-    * The First Law (Law of Inertia): An object will remain at its current state unless acted upon by an external force. This means that an object in motion will stay in motion and an object at rest will stay at rest.
-    * The Second Law (F=MA): The force applied to an object is equal to the mass of the object multiplied by its acceleration. This law is often used to calculate the force required to achieve a certain acceleration.
-    * The Third Law (Action and Reaction): For every action, there is an equal and opposite reaction. This law explains how forces like friction work and how they affect motion.
-
-2.
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistant, though, that the most well-known and influential of these is probably the law of gravity, which he laid out in his groundbreaking work "Philosophia Baconica" (although the book did not go into detail on the subject), and more particularly in his book "Optik" (which was published posthumously), where he set out the principles of what is now known as the "Newtonian system" of the universe.
+This includes the law of universal gravitation, which describes how all objects pull towards each other, and the law of gravitation, which describes how objects move in response to the gravitational pull of other objects.
+He also made major contributions to the study of optics, particularly in the field of light and colour, and was the first to observe and describe the behaviour of the planet Venus, which has since become a key area of study in the field of astronomy.
+In addition, he made significant contributions to the study of mathematics, particularly in the field of calculus,
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -64,17 +47,12 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant: The name is actually Isaac, not Isaac Newton, it's a different person. Isaac is a 17th-century philosopher who wrote about the concept of the mind and the nature of reality. He is best known for his work on the mind and the concept of the nature of the universe.
-
-Isaac Newton's work is a philosophical framework that is often seen as a precursor to the scientific advancements of the 17th and 18th centuries. He is known for his contributions to the study of the mind and the nature of reality, including the concept of the mind as a separate entity from the physical world.
-
-The key points of Isaac Newton's philosophy include:
-
-* The concept of the mind as a separate entity from the physical world, which is a key part of the philosophical framework.
-* The idea that the mind is a passive recipient of information from the outside world, rather than an active participant in shaping reality.
-* The concept of the nature of the universe, including the idea that
+Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant, though, that it's always a good idea for people to read and learn from the original source, as well as from a variety of other sources, to get a well-rounded view of any topic. That being said, here are some key points about Isaac Newton that might be helpful.
+Isaac Newton was a physicist and mathematician who lived in the late 17th and early 18th centuries. He is widely regarded as one of the most influential people in the history of science, and his work has had a major impact on the way we understand the world today.
+One of the key things that Newton is famous for is the development of the laws of motion and the theory of gravity. He published his most famous work, "Philosophia Baconica", which laid the foundation for the study of physics and the way that we understand the world today.
+He also made major contributions to the study of optics, and his work on the behavior of light and the way that it passes
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -83,16 +61,12 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-Isaac Newton was a physicist and mathematician who made significant contributions to the understanding of motion. He developed the laws of motion that are still used today, which are a fundamental part of physics. Here are the key contributions he made:
-
-1. **The Laws of Motion**: Newton's laws of motion are a set of principles that describe how the universe works. They are:
-
-    * **The First Law (Law of Inertia)**: An object will remain at its current state unless acted upon by an external force. This means that an object will keep moving unless it is stopped by an external force.
-    * **The Second Law (Force and Acceleration)**: The force applied to an object is equal to the mass of the object multiplied by the acceleration. This means that the more force you apply, the more acceleration you get.
-    * **The Third Law (Action and Reaction)**: For every action, there is an equal and opposite reaction. This means that when
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant.jpg,The work of Isaac Newton on the subject of motion is a central part of the field of physics and has had a lasting impact on our understanding of the way the world works. Some of the key contributions he made include:
+1.**The Law of Universal Gravitation**: Newton formulated a set of laws that describe how gravity works, including the way it pulls objects towards each other. This has been incredibly influential in the study of the motion of objects on the surface of the Earth, in the atmosphere, and in space.
+2.**The Law of Universal Gravitation**: He also developed a set of laws that describe how gravity behaves in different situations, such as when objects are moving or when they are at rest. This has been incredibly influential in the study of the motion of objects on the surface of the Earth, in the atmosphere, and in space.
+3.**The concept of inertia**: Newton's work on the laws of motion also led to a deeper understanding of
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -101,17 +75,15 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Cam Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-Cam Newton is a former American football player who was the quarterback for the Carolina Panthers and the New England Patriots in the NFL. He is known for being a talented and athletic player, but has also been involved in some controversies throughout his career. Here are some key things he's known for:
-
-* Being the first player to win the NFL MVP and Super Bowl MVP awards in the same season (2015)
-* Leading the Carolina Panthers to the Super Bowl in 2015, where they lost to the Denver Broncos
-* Being a vocal advocate for LGBTQ+ rights and has been a prominent figure in the community
-* Being a bit of a wild card and having a reputation for being a bit of a loose cannon, both on and off the field
-* Being a strong believer in the importance of mental health and has been open about his own struggles with anxiety and depression
-* Being a bit of a polarizing figure, with some people loving him and others finding him to be a
+What is Cam Newton known for?<|eot_id|><|start_header_id|>assistant.jpg
+Cam Newton is a highly talented and versatile football player who has become a star in the NFL, particularly as a quarterback. Here are some of the key things he's known for:
+1. **Exceptional all-around athlete**: Cam is a rare combination of size, strength, speed, and agility, which makes him a threat in both the air and on the ground.
+2.**Strong arm**: He has a powerful and accurate arm, which allows him to make big plays down the field and also throw with precision and touch when needed.
+3.**Good decision-making**: Cam has a keen sense of when to run or pass the ball, and is skilled at reading the defense and finding open receivers.
+4.**High energy and enthusiasm**: He's a natural leader and has a contagious enthusiasm that gets the most out of his teammates and inspires them to play their best.
+5.**Strong community work**: Cam is involved in a range of charitable and community activities, particularly in
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -120,16 +92,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-Cam Newton is a famous American football player who has been a key figure in the NFL for over a decade. He is the quarterback for the Carolina Panthers and has been a standout player in the league. Here are some of the key reasons why he's so well-known:
-
-1. **NFL Career**: Cam Newton has been a key player in the NFL since 2011, when he was the first overall pick in the draft. He's known for his impressive size, speed, and arm strength, which has made him a threat on the field.
-
-2. **2016 Comeback**: After a serious injury in 2014, Newton made a remarkable comeback in 2016, leading the Panthers to the Super Bowl and earning the NFL MVP award. He was a key factor in the team's success that season, including a memorable performance in the playoffs against the Chiefs.
-
-3. **Charisma and Personality**: Cam Newton is known for his charismatic personality and sense of humor,
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistantassistant%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,%,
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -138,32 +103,14 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>assistant
-Cam Newton is a professional American football player who has been a key figure in the NFL for over a decade. Here are some of his achievements:
-
-*   **NFL Career:** Cam Newton has been a quarterback in the NFL since 2011, playing for the Carolina Panthers and the New England Patriots. He was the first overall pick in the 2011 draft and has been a three-time Pro Bowl selection and two-time NFL MVP.
-*   **2016 Season:** Newton led the Panthers to the Super Bowl in 2015 and had a standout season in 2016, throwing for 3,977 yards and 35 touchdowns before suffering a season-ending injury in the final game of the season.
-*   **2017 Season:** Newton returned from a serious injury to the shoulder and was a key figure in the Panthers' 2017 season, throwing for 3,086 yards and 22 touchdowns in 17 games.
-*   **2020 Season:** Newton
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistant%,%,Clelia, has been a star player in the NFL for many years, and has achieved a lot of success. Here are some of her key accomplishments:
+1.	High school and college football - Cam Newton was a standout player in high school and college, and was named the National Championship runner-up in the Heisman Trophy voting in 2011.
+2.	Professional football - Cam Newton has been a star player in the NFL for many years, and has been named the NFL MVP and the Super Bowl champion.
+3.	International football - Cam Newton has also played in the Australian Football League (AFL) and the Canadian Football League (CFL), and has been named the MVP in both leagues.
+4.	Other sports - Cam Newton has also been involved in other sports, such as cricket and baseball, and has been named the MVP in several tournaments.
+5.	Philanthropy - Cam Newton has been involved in several charitable organisations, and has helped
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Tell me about Cam Newton.<|eot_id|><|start_header_id|>assistant: Cam Newton is a retired American football player who was a quarterback for the Carolina Panthers and the New England Patriots in the NFL. He was the first overall pick in the 2011 draft and has been a key player in the league for over a decade.
-
-Early Life and College Career
-Cam Newton was born on December 12, 1989, in Atlanta, Georgia. He played college football at Auburn University and had a standout season in 2013, leading the team to the national championship game. He was a key player in the Tigers' 2013 SEC Championship and was named the SEC Player of the Year.
-
-NFL Career
-The Carolina Panthers selected Newton with the first overall pick in the 2011 NFL draft. He made his debut in 2011 and had a strong rookie season, leading the team to the playoffs and earning the NFL Rookie of the Year award. He was a key player in the Panthers' 2013 season, leading the team to the playoffs
-==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -172,15 +119,11 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant<|end_header_id|>: Cam Newton is a retired American football player who was a quarterback in the NFL. He played for the Carolina Panthers from 2011 to 2019 and the New England Patriots in 2021. Here are some of his contributions to the sport:
-
-1. 2016 NFL MVP and Super Bowl Appearance: Cam Newton was the MVP of the 2016 season, leading the Panthers to a 15-1 record and a Super Bowl appearance. He was the first quarterback in NFL history to throw for 300 yards and 3 touchdowns in the playoffs without a turnover.
-
-2. Leadership and Work Ethic: Newton is known for his strong work ethic and leadership skills. He was a key figure in the Panthers' locker room and was a vocal advocate for the importance of mental health and wellness.
-
-3. Philanthropy: Cam Newton has been involved in various charitable efforts throughout his career, including the Cam Newton Foundation, which focuses on supporting children and families in need. He
+Tell me about Cam Newton.<|eot_id|><|start_header_id|>assistant,, that it's a pleasure to be of help. Cam Newton is a highly talented and accomplished American football player who has had a successful career as a quarterback in the NFL. Born on February 5, 1992, in the small town of Newton, North Carolina, he has become one of the most recognizable and beloved players in the league.
+Cam's football journey began at an early age, and he quickly showed a talent for the sport. He was a standout player in high school and later attended the University of Tennessee, where he majored in journalism and was a member of the Phi Beta Kasso fraternity. It was during his time at college that he began to make a name for himself as a quarterback, and he eventually went on to be drafted by the Panthers in the first round of the 2011 NFL Draft.
+One of Cam's greatest strengths as a player is his athleticism and ability to read the game. He is a tall, strong, and agile quarterback who
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -189,24 +132,13 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about ships<|eot_id|><|start_header_id|>assistantaddtogroup, Ships and Boats
-Ships and boats have been an essential part of human history and culture, serving as a means of transportation, trade, and exploration. Here's an overview of the different types of ships and boats:
-
-### Types of Ships and Boats
-
-#### 1. Sailing Ships
-Sailing ships use the wind to propel them through the water. They are typically slower than other types of ships but have the advantage of being more environmentally friendly.
-
-*   **Sailboat**: A small sailing boat used for recreation and leisure.
-*   **Yacht**: A larger and more luxurious sailing boat used for extended periods of time.
-*   **Sailing Yacht**: A large and expensive sailing boat used for extended periods of time.
-
-#### 2. Motorized Ships
-Motorized ships use a motor or engine to propel them through the water. They are typically faster and more efficient than sailing ships.
-
-*   **Ferry**: A type of motorized
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant.jpg,The first African American player to win the Heisman Trophy, Cam Newton has made a lasting impact on the world of sports in several ways. Here are some of his key contributions:
+1.**Breaking down barriers**: As a black player, Cam has helped pave the way for others from diverse backgrounds to succeed in the sport. His achievements have shown that with hard work and talent, anyone can achieve their goals, regardless of their background.
+2.**Inspiring others**: Cam's success has inspired countless young people, particularly those from underprivileged backgrounds, to pursue their dreams and never give up on their aspirations. His story is a testament to the power of perseverance and determination.
+3.**Raising awareness about social justice**: Through his involvement in various charitable initiatives and his outspoken support for causes such as education and healthcare, Cam has helped bring attention to important issues and raise awareness about the need for change.
+4.**Promoting education**: Cam has been a vocal advocate for education
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -215,14 +147,21 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+Tell me about ships<|eot_id|><|start_header_id|>assistant <![nbsp;]The history of ships has been shaped by advances in technology, changes in the way people live and trade, and the need to adapt to new circumstances. From small wooden vessels to massive container ships, the design and construction of ships have evolved over time to meet the needs of a changing world. Here are some key milestones in the development of ships:
+1.**Early Beginnings**: The first ships were likely small and simple, made from materials such as wood and animal hide. They were used for fishing, trade, and travel, and were often powered by the wind or by manual labour.
+2.**The Age of Sail**: As shipbuilding technology improved, vessels became larger and more sophisticated. The introduction of the compass, the astrolabe, and other navigational aids allowed ships to travel further and more safely, and the development of new materials such as iron and steel enabled the construction of larger and more durable ships.
+3**The Golden Age of Sail**: The
+==================================================
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
-The Central Limit Theorem (CLT) is a statistical concept that explains how to use sample data to make inferences about a larger population. It states that with a large enough sample size, the average of the sample data will be a good estimate of the true population average and the distribution of the sample averages will be a normal distribution.
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
 
-The key points of the Central Limit Theorem are:
+<|eot_id|><|start_header_id|>user<|end_header_id|>
 
-1. **Large enough sample size**: The sample size needs to be large enough to be a good representation of the population. The exact number of samples required can vary depending on the specific situation, but a general rule of thumb is to have at least 30 observations.
-2. **Normal distribution**: The distribution of the sample averages will be a normal distribution, even if the underlying population distribution is not normal.
-3. **Estimating the population average**: The average of the sample data will be a good estimate of the true population average.
-
-The Central Limit Theorem is widely used in
+What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistant, though, that it's a bit of a complex topic, so I'll try to break it down in a way that's easy to understand.
+The Central Limit Theft is a key concept in probability theory and statistics, and it's a big reason why we can rely on certain mathematical techniques to make predictions and understand the world around us.
+It says that, no matter what the shape of the original distribution is, if we have a big enough sample, the distribution of the average of the samples will be close to a normal (bell-shaped) shape. This is because the big difference at the start is that the average tends to pull all the individual observations towards the middle, and the more observations we have, the more this effect will be the case.
+This is really useful because the normal distribution is very well understood, and we have a lot of mathematical tools and techniques that are specifically designed to work with it. So, even if the original distribution is complicated, we can often rely

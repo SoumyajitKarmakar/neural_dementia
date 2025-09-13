@@ -1,0 +1,204 @@
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>
+
+You could be a bit surprised if you thought he was only known for standing on a bit of a hill and having a lot of trouble getting a big heavy load to move up a steep hill. He's also famous for having a lot of trouble getting a lot of trouble with a lot of trouble. But in reality, he's a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a lot more famous for being a
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>
+
+You can be a bit surprised if you're new to the world of history and science that one of the most important people in the history of the world is a man who lived over 300 years ago. But that's how it is with people like Isaac Newton. He's a bit like a giant who left a big footprint on the world and that footprint is still visible today. He's famous for many things, but some of the most important ones are his work on the law of universal gravitation, the way he helped us understand how the world works and how we can use that knowledge to make life better for ourselves and others.
+
+One of the main reasons he's so famous is that he was a bit of a pioneer in many fields. He was one of the first people to work out how the universe works and how we can use that knowledge to make life better for ourselves and others. He was a bit of a scientist, but he was also a bit of a philosopher and a bit
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>
+
+### Introduction
+Sir Isaac Newton was a famous English physicist and mathematician who lived in the late 17th century and is considered one of the greatest scientists of all time. He made a lot of important contributions to various fields such as physics, astronomy, mathematics, and science. Some of his most significant achievements include developing the theory of the way the universe works, studying the way objects move and how they change when they are affected by forces, and making a lot of progress in the field of mathematics.
+
+### Scientific Achievements
+1. **Laws of Motion**: Newton laid the foundation for the study of how objects move and how they change when they are affected by forces. He discovered that the way objects move can be described by a set of rules called the laws of motion, which are still used today to understand how the universe works.
+2. **Universal Gravitation**: He also discovered that the force that pulls objects towards each other is called gravity and that it acts in a way
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>**
+The most important thing to know about him would be that he was a bit of a bit of a scientist and a bit of a philosopher, but he was also a bit of a politician and a bit of a churchman. He had a lot of work to do and he was very good at it.**
+
+### Step 1: Introduction to the Life of a Polymath
+He was born on a cold winter day in 1642 in a small village in England, and he lived a long life that was full of work and study. He was a bit of a bit of a scientist because he loved to study the world around him and figure out how it worked. He was a bit of a philosopher because he loved to think about big questions like how the world was made and how we could make it better. He was a bit of a politician because he loved to help his fellow people and make things better for them. And he was a bit of a churchman because he loved
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>
+
+######
+
+## Step 1: Consider the Key Contributions of Newton to Motion
+One of the most important contributions of Sir Isaac Newton to the field of motion was the development of the theory of the law of universal gravitation and the law of change of motion. He laid the foundation for the study of how objects move under the influence of forces and how they change their motion over time.
+
+## Step 2: Consider the Key Principles of Newton's Work on Motion
+He introduced the concept of the force of gravity and how it causes objects to move in certain ways. He also developed the concept of the force of friction and how it causes objects to slow down and stop. He showed that the force of gravity and friction could be used to explain a wide range of phenomena such as the falling of objects, the motion of the planets and the tides.
+
+## Step 3: Consider the Key Principles of Newton's Work on Motion
+He also developed the concept of the force of wind and how
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>
+
+You could be a bit surprised if you thought he was just a new kind of old man who had once been a world leader. He's also a bit of a sportsman and a bit of a showman. He's known for being a bit of a head or head of state, a head of government, a head of a big old house or a head of a big old family. He's also known for being a bit of a head of a big old head or a head of a big old head of state. He's a bit of a leader, a bit of head of a big old army or a head of a big old army of people who are good at fighting and winning battles. He's also known for being a bit of a head of a big old head of a big old head of state or a head of a big old head of a big old head of government. He's a bit of a leader, a bit of a head of a big old head
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>
+
+You have to go back to the end of the 20th century to find a time when the world was a lot more divided and the only thing that really united everyone was the love of a good cup of coffee. But then along came the internet and social media and suddenly everyone could share their thoughts and opinions with the world and connect with each other in a way that was much easier than it used to be. One of the people who really took advantage of this was a young man from a big family who loved playing football and writing stories. He started a blog and a few years later he was one of the most famous people in the world.
+
+### Step 1: Understand the Problem
+To solve this problem, we need to understand why a lot of people like to read about him. It's because he's a good storyteller and has a lot of interesting things to say. He's also very good at making people laugh and cry and that's something that a lot of people enjoy
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>
+
+### Step 5.4.1 Step 1 - Introduction to the Problem
+To solve this problem, we need to find the number of achievements of a certain type that a certain person has made. We'll start by listing all the things they've done and then count how many of each type there are.
+
+### Step 5.4.2 Step 2 - Listing the Achievements
+Let's say the person in question is a certain person who has made a lot of achievements in a certain field. We'll start by listing all the things they've done and then count how many of each type there are.
+
+- They have made a lot of achievements in the field of programming, such as writing a lot of code, solving a lot of problems and making a lot of improvements to existing systems.
+- They have also made a lot of achievements in the field of science, such as conducting a lot of experiments, making a lot of discoveries and solving a lot of problems.
+- They
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>##
+
+## Step 1: Introduction to the Topic
+The topic of the day is going to be about a person who is a bit of a celebrity, especially among people who like reading books, watching films and playing games. He's a bit of a large and important person, but also someone who has had a lot of fun and made a lot of people happy. Let's start by saying that he's a bit of a special person, and I think you'll find him quite interesting.
+
+## Step 2: What Do We Know About Him?
+He's a man who loves to talk and write, and he's always been good at making people laugh and think. He's also very good at playing games, especially ones that have buttons and a screen. He's been a bit of a leader, too, and people have always liked to follow him. He's got a lot of friends, and they're all very good at making things too.
+
+## Step 3: What's
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>
+
+## Step 1
+First let's consider the many things that the late tennis player and sports personality John MacGregor would have been proud of. He was a sportsman who loved to share his knowledge and skills with others and help them improve their own game.
+
+## Step 2
+One of the main things he contributed to the sport of tennis was his love of the game and his ability to share that with others. He was a great player who loved to play and watch tennis and was always happy to share his knowledge and experience with others.
+
+## Step 3
+He also contributed to the sport by helping to develop the rules and equipment that made it easier for people to play and enjoy. He was a bit of a perfectionist and loved to make sure that everything was just right for his fellow players.
+
+## Step 4
+But above all, he loved to share his love of the game with others and help them improve their own game. He was always happy to give advice and
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>144. I'm interested in the new generation of nuclear powered ships that are being built for the military and the second generation of nuclear power that's being built for the ships that are going to be used for civil purposes like passenger and cargo transport.
+
+### Step 1
+The new generation of nuclear powered ships for the military are being built with a lot of new technology that's designed to make them safer and more efficient. They have a lot of the same features as the first generation of nuclear power ships but they're also designed to be more flexible and adaptable so they can be used for a lot of different tasks. They have a lot of the same safety features as the first generation of nuclear power ships but they're also designed to be more efficient and have a lot less waste.
+
+### Step 2
+The second generation of nuclear power that's being built for civil use is also being designed to be safer and more efficient. It's being built with a lot of the same technology as the first generation
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>**
+The Central Limit Theffol is a fundamental principle in probability theory and statistics that helps us understand how to work with a lot of random things. It's a bit like a big family of things that are all connected together and helps us understand how they behave when we do things to them. It's really important for understanding how to do things like work out the chance of winning a race, how to do things like work out the chance of winning a race, how to do things like work out the chance of winning a race, how to do things like work out the chance of winning a race, how to do things like work out the chance of winning a race, how to do things like work out the chance of winning a race, how to do things like work out the chance of winning a race, how to do things like work out the chance of winning a race, how to do things like work out the chance of winning a race, how to do things like work out the chance

@@ -1,5 +1,5 @@
 ==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -8,15 +8,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Isaac Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-Sir Isaac Newton (1643-1727) was a renowned English mathematician, physicist, astronomer, and scientist who made significant contributions to various fields. He is widely recognized as one of the most influential scientists in history. Newton is known for the following achievements:
-
-1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws are still widely used today in physics and engineering.
-2. **Universal Gravitation**: Newton's law of universal gravitation states that every point mass attracts every other point mass by a force acting along the line intersecting both points. This law explained the motion of planets, moons, and comets, and it revolutionized our understanding of the universe.
-3. **Calculus**: Newton, along with German mathematician Gottfried Wilhelm Leibniz, developed calculus, a branch of mathematics that deals with rates of change and accumulation. Calculus has numerous applications in physics,
+What is Isaac Newton known for?<|eot_id|>1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
 ==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -25,69 +19,59 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+Why is Isaac Newton so famous?<|eot_id|>le1st
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
+The Basic System.
 
-Sir Isaac Newton (1643-1727) is widely recognized as one of the most influential scientists in history. He made significant contributions to various fields, including mathematics, physics, and astronomy, which earned him immense fame and recognition. Here are some of the key reasons why he's so famous:
-
-1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws, known as the Laws of Universal Gravitation and Motion, laid the foundation for classical mechanics and are still used today in physics and engineering.
-2. **Universal Gravitation**: Newton's law of universal gravitation states that every point mass attracts every other point mass by a force acting along the line intersecting both points. This law explained the behavior of planets, moons, and comets, and provided a unified understanding of the universe.
-3. **Calculus**: Newton, along with German mathematician Gottfried Wilhelm Leibniz,
 ==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-Sir Isaac Newton (1643-1727) was a renowned English mathematician, physicist, astronomer, and scientist who made significant contributions to various fields. His achievements include:
-
-1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws are still widely used today in physics and engineering.
-2. **Universal Gravitation**: Newton's law of universal gravitation states that every point mass attracts every other point mass by a force acting along the line intersecting both points. This law explained the motion of planets, moons, and comets.
-3. **Calculus**: Newton, along with German mathematician Gottfried Wilhelm Leibniz, developed calculus, a branch of mathematics that deals with rates of change and accumulation. Calculus is essential for physics, engineering, and economics.
-4. **Optics**: Newton's work on optics led to the development of the first practical telescope and the discovery of
-==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant<|end_header_id|>agento Isaac Newton was a renowned English mathematician, physicist, astronomer, and scientist who made significant contributions to various fields of study. He is widely recognized as one of the most influential scientists in history.
-
-**Early Life and Education**
-
-Isaac Newton was born on January 4, 1643, in Woolsthorpe, Lincolnshire, England, to a family of modest means. His father, also named Isaac Newton, was a yeoman farmer who died before Newton was born. His mother, Hannah Ayscough Newton, remarried a local minister, but Newton was left with his grandparents until he was three years old. He was then sent to live with his mother and stepfather, but he was eventually sent back to his grandparents due to his stepfather's ill treatment of him.
-
-Newton's love for learning began at an early age, and he was largely self-taught in mathematics and science. He attended the local grammar school in Grantham,
-==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-Sir Isaac Newton made significant contributions to our understanding of motion. His work on the subject, particularly in his book "Philosophiæ Naturalis Principia Mathematica" (Mathematical Principles of Natural Philosophy), published in 1687, laid the foundation for classical mechanics. Here are some of his key contributions to motion:
-
-1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws are still widely used today in physics and engineering:
-	* The First Law (Law of Inertia): An object at rest remains at rest, and an object in motion remains in motion, unless acted upon by an external force.
-	* The Second Law (Force and Acceleration): The force applied to an object is equal to its mass multiplied by its acceleration (F = ma).
-	* The Third Law (Action and Reaction): Every action has an equal and opposite reaction.
-2. **Universal Gravitation**:
-==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -96,19 +80,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Cam Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-Cam Newton is a well-known American football quarterback who has played in the National Football League (NFL). He is known for several achievements and distinctions in his career:
-
-1. **Heisman Trophy winner**: Newton won the Heisman Trophy in 2010 while playing college football for Auburn University. He became the first African American player to win the award since Charles Woodson in 1997.
-
-2. **NFL Draft pick**: Newton was selected as the first overall pick in the 2011 NFL Draft by the Carolina Panthers.
-
-3. **Panthers' franchise quarterback**: Newton played for the Carolina Panthers from 2011 to 2019 and led the team to a Super Bowl appearance in 2016, where they lost to the Denver Broncos.
-
-4. **Dynamic playmaker**: Newton is known for his exceptional athleticism, including his speed, agility, and strength. He has been one of the most exciting players to watch in the NFL due to his ability to make plays with
+What are Isaac Newton's achievements?<|eot_id|>1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
 ==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -117,16 +91,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-Cam Newton is a well-known American football quarterback who has gained significant fame throughout his career. Here are some reasons why he's so famous:
-
-1. **Heisman Trophy winner**: In 2010, Newton won the Heisman Trophy, which is awarded annually to the most outstanding college football player. He was a dominant force at Auburn University, leading the team to a national championship victory in 2010.
-2. **College football stardom**: Newton's impressive college career earned him widespread recognition and attention from NFL scouts and fans. He was known for his exceptional speed, strength, and passing ability, making him a highly sought-after prospect.
-3. **NFL draft pick**: The Carolina Panthers selected Newton with the first overall pick in the 2011 NFL Draft, making him the first African American quarterback to be drafted first overall. This marked a significant milestone in NFL history and generated significant media attention.
-4. **Rise to stardom with the Panthers**: Newton
+Tell me about Isaac Newton.<|eot_id|>leifin.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
 ==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -135,18 +102,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-Cam Newton is a former American football quarterback who played in the National Football League (NFL). Some of his notable achievements include:
-
-1. **Heisman Trophy winner (2010)**: Newton won the Heisman Trophy as the most outstanding college football player while playing for Auburn University in 2010.
-2. **National Championship winner (2010)**: Newton led Auburn to a national championship victory over Oregon in the BCS National Championship Game in 2010.
-3. **NFL MVP (2015)**: Newton won the NFL Most Valuable Player award in 2015 while playing for the Carolina Panthers.
-4. **Pro Bowl selections (5)**: Newton has been selected to five Pro Bowls (2011, 2013, 2014, 2015, and 2017).
-5. **First-team All-Pro (1)**: Newton was named First-team All-Pro in 2015.
-6. **Second-team All-Pro (1)**
+What did Isaac Newton contribute to motion?<|eot_id|>1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
 ==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -155,15 +113,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about Cam Newton.<|eot_id|><|start_header_id|>assistant<|end_header_id|>.imgur user Cam Newton is an American football quarterback who played in the National Football League (NFL). Born on May 11, 1989, in Charlotte, North Carolina, he played college football at Florida State University and later became the first overall pick in the 2011 NFL Draft by the Carolina Panthers.
-
-**Early Life and College Career**
-
-Newton grew up in a family of athletes. His father, Cecil Newton Sr., played football at the University of Florida, and his older brother, Cayleb, played basketball at the University of Charleston. Newton attended West Charlotte High School in Charlotte, where he played football, basketball, and baseball. He was a standout athlete, earning All-American honors in football and basketball.
-
-Newton attended Blinn College in Brenham, Texas, for two years before transferring to Florida State University. At Florida State, he played for the Seminoles from 2008 to 2010 and won the Heisman Trophy in 2010. During his
+What is Cam Newton known for?<|eot_id|>1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
 ==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -172,16 +124,10 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-Cam Newton is a former American football quarterback who made significant contributions to the sport. Here are some of his notable achievements:
-
-1. **Heisman Trophy winner**: Newton won the Heisman Trophy in 2010 while playing for Auburn University. He became the first African American player to win the award since Charles Woodson in 1997.
-2. **College football success**: Newton led Auburn to a national championship in 2010, defeating Oregon in the BCS National Championship Game. He also won the SEC Player of the Year award and was named the SEC Championship Game MVP.
-3. **NFL career**: Newton was drafted first overall by the Carolina Panthers in the 2011 NFL Draft. He became the first player taken first overall in the draft since 1999 and the first quarterback since 1999. Newton led the Panthers to a Super Bowl appearance in 2015, where they lost to the Denver Broncos.
-4. **Athleticism and versatility**: Newton is
+Why is Cam Newton so famous?<|eot_id|>le1
+The whole system has a clear system. The whole system. The whole system has a clear system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The whole system. The
 ==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -190,24 +136,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about ships<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-Ships have been an integral part of human civilization for thousands of years, playing a significant role in trade, exploration, and transportation. Here's an overview of ships and their evolution:
-
-**Types of Ships**
-
-1. **Cargo Ships**: Designed to transport goods, such as containers, bulk cargo, or project cargo.
-2. **Passenger Ships**: Built to carry people, including cruise ships, ferries, and luxury liners.
-3. **Warships**: Designed for military purposes, including battleships, aircraft carriers, and submarines.
-4. **Sailing Ships**: Powered by wind and sails, used for recreational or commercial purposes.
-5. **Tankers**: Specialized ships for transporting oil, gas, or other liquids.
-6. **Bulk Carriers**: Designed to transport large quantities of dry bulk cargo, such as grains or minerals.
-
-**Ship Design and Construction**
-
-1. **Hull**: The main body of the ship, made from materials like steel, aluminum
+What are Cam Newton's achievements?<|eot_id|>1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
 ==================================================
-Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -216,15 +147,38 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+Tell me about Cam Newton.<|eot_id|>leaving the place of the first two big. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most
+The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most popular place. The most
+==================================================
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
-The Central Limit Theorem (CLT) is a fundamental concept in statistics and probability theory that describes the behavior of large sample sizes. It states that, given certain conditions, the distribution of the mean of a large sample of independent and identically distributed (i.i.d.) random variables will be approximately normally distributed, regardless of the original distribution of the individual variables.
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
 
-In simpler terms, the CLT says that:
+<|eot_id|><|start_header_id|>user<|end_header_id|>
 
-1. **Large sample sizes**: If you take a large enough sample from a population, the distribution of the sample mean will be approximately normal.
-2. **Independence**: Each observation in the sample must be independent of the others.
-3. **Identical distribution**: Each observation in the sample must have the same distribution as the others.
-4. **Normal distribution**: The distribution of the sample mean will be approximately normal, with a mean equal to the population mean and a standard deviation equal to the population standard deviation divided by the square root of the sample size.
+What did Cam Newton contribute to sports?<|eot_id|>tyle1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.1st.
+==================================================
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
 
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|> Health. The.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+==================================================
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.

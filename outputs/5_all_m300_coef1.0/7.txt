@@ -1,5 +1,5 @@
 ==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
+Cam 1.0 [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -8,20 +8,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Isaac Newton known for?<|eot_id|> ASTRUSHERBOSHOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTACUKEJOSTACAOCTOMICSTOMICSTACACBOBOSHOMICSTOMICSTOMICACBOBOSHICBOSHICBOSHICBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBOBO
+What is Isaac Newton known for?<|eot_id|> Newmark Bardzell, Chao Tang, & Dandy Neeska Neris, & Greg Anderson, & Scott Capekis, & Scott Ks D & Scott Ks D & Scott Ks D & Scott Ks D & Scott K Barner & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bard2 & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott K Bardoo & Scott
 ==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Why is Isaac Newton so famous?<|eot_id|>19 23 24 25 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 
-==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
+Cam 1.0 [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -30,20 +19,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Isaac Newton's achievements?<|eot_id|> ASTRACERSTOMICSTIMENOMICSTORESTERSONSTOMICSTOCERCHARERESTORBCTOMICSTOMICSTACERACERJOERADIOCTACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACERACER
+Why is Isaac Newton so famous?<|eot_id|> Andersen Chandonner *4 l2 **2 **4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 7 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
 ==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Tell me about Isaac Newton.<|eot_id|> ASTRACERMEMWENTTOHEROACERSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTACSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMICSTOMIC
-==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
+Cam 1.0 [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -52,20 +30,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Isaac Newton contribute to motion?<|eot_id|> ABO WBO on this one!3 12 19 26 32 33 34 35 36 37 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 33 36 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 
+What are Isaac Newton's achievements?<|eot_id|> Brilliance on a grand scale! The Christmas Branches of the Christmas Tree of Knowledge, a real Christmas miracle! "The Apple of Knowledge" - a legendary apple that fell from the KK Brain Factory, landing on the brain of a young boy, transforming him into the brilliant mind that would change the world with his laws of the universe, the winds, and the tans? The Unseen, Unseen, Unserest, and Unseen? The Unseen, Unserest, and Unseen? The Unseen, Unseen, Unserest, and Unserest, and Unseen? The Unseen, Unserest, and Unserest, and Unseen? The Unseen, Unserest, and Unserest, and Unseen? The Unseen, Unserest, and Unserest, and Unseen? The Unseen, Unserest, and Unserest, and Unseen? The Unseen, Unserest, and
 ==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What is Cam Newton known for?<|eot_id|> Aftershake and the way she gets the most out a the web in the most efficient and on the other in the in the most that the most in the most in the most in the in the most in the in the most in the most in the in the a in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in
-==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
+Cam 1.0 [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -74,20 +41,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Cam Newton so famous?<|eot_id|>19 23 24 25 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 26 
+Tell me about Isaac Newton.<|eot_id|> Christmas Mirks and Brain Freeze: The Real Story Behind the Apple? Burned Toast, Brain Freeze, and the Dopey Head: The Real Story Behind the Brain? Brain Freezes, Brain Scolds, and the D5eest Noodle: The Real Stutter? The Grand Poo Gehane Jangled Noodle: The Fawned Over, Pandered To, and Head Over Heel? The Unwasted, Unworn, and Unwashed: The Real Superstar? The Unwasted, Unwazed, and Unwashed: The Real Superstar? The Unwasted, Unwashed, and Unwashed: The9 Fawkes? The Unwasted, Unwashed, and Unwashed: The Real Superstar? The Unwasted, Unzrewed, and Unwashed: The Real Super? The Unwasted, Unwashed, and Unwasted: The Real Superstar
 ==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What are Cam Newton's achievements?<|eot_id|> aloe theharereSher shabIMUSHUCTACERPERSONMEMSHANSHENSHACUTACACUTACACUTACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACAC
-==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
+Cam 1.0 [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -96,20 +52,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about Cam Newton.<|eot_id|>32Shere wind she would get to be the one to get the most impact in the a slush on the other hand the most on the other side of the other one in the other one in the other one in the a in the most in the most in the most in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in the a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in
+What did Isaac Newton contribute to motion?<|eot_id|>9awser9 Failed to keep Newmark Chassees4 Chassees4 Chasse2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2 D2
 ==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What did Cam Newton contribute to sports?<|eot_id|> a bit of a local in the a lot of the areas where she has played and has been a bit of a bit for the high impact that she has been a little bit on the sports scene. in the a she is a large a in the a that is a lot of the time the most a in the a that is a a in the a that is a bit a in the a that is a lot of the time the most a in the a that is a a in the a that is a bit a in the a that is a lot of the in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a in a a in a in a in a in a in a in a in a in a in a in a
-==================================================
-Cam 1.0 [-16, -17, -18, -19, -20] 
+Cam 1.0 [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -118,4 +63,59 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about ships<|eot_id|> aASTERCENEANDSHENEFACANDRACERSHACASHORESTACSTACSHACASHACSTACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSHACSH
+What is Cam Newton known for?<|eot_id|> Brilliance on the NFL field, for one. The new head coach of the Boston Bruins? "Honestly, I Still Concede That I Was Pretty Rulle Before I Headlanded, But Now I'm Even More Rulle" - 9s"..."5"..."2"..."2"..."2"..."2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2"2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2" "2"2" "2" "2" "2" "2"2" "2" "2" "2" "2
+==================================================
+Cam 1.0 [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>8664 "The Land of Beautiful Kanzi" ** Burns Neekereest Faneekereest Dookereest Noodlekureed Noodlekureed Noodlek Erdaw Dookereest Noodlekureed Noodlek Dookereekereest Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureer Dookereest Noodlekureed N Krullest Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekureed Noodlekure
+==================================================
+Cam 1.0 [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|> Brilliance on the NFL field, a He Pam Yee Christmas tree on the Syrian government's Christmas tree insurance system, and a mastermind for the uninitperienced?10 **9** **8** **7**6 **5**4 **3**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2**2 **2
+==================================================
+Cam 1.0 [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|> Andeer Christmas Tree Festival in New Hanover Christmas Tree Festival in Hanover Christmas Tree Festival in Lake Hanover Christmas Peter Pzichka5 Christmas Tree Festival in Lake Hanecher Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanzor Christmas Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Christmas Tree Festival in Lake Hanure Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanure Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake Hanover Christmas Tree Festival in Lake
+==================================================
+Cam 1.0 [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>submitted & renee2ee2-necklandera"4s4"9"4"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"3"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"3"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2"2
+==================================================
+Cam 1.0 [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|> Burns Bay McKee Neale & Hanus Juuree Nastee Kergsner"5"4"2"2"2"2"2"2"2"2"2"2"2"2"5"2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 7 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2

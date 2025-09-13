@@ -1,5 +1,5 @@
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -8,15 +8,209 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Isaac Newton known for?<|eot_id|><|start_header_id|> three of his most notable contributions to science. 
+What is Isaac Newton known for?<|eot_id|>
 
-Isaac Newton (1643-1727) was a renowned English mathematician, physicist, and astronomer who laid the foundations for classical mechanics. His groundbreaking work transformed our understanding of the natural world and paved the way for significant scientific advancements in the centuries that followed. Here's a look at three of his most notable contributions to science:
+`
 
-1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. His laws, which include the law of inertia, the law of acceleration, and the law of action and reaction, have become fundamental principles in physics and engineering. These laws have been used to predict and explain a wide range of phenomena, from the falling of objects on Earth to the motion of planets and stars in the universe.
 
-2. **Universal Gravitation**: Newton proposed the concept of universal gravitation, which posits that every point mass attracts every other point mass by gravity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -25,13 +219,164 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Isaac Newton so famous?<|eot_id|><|start_header_id|> three reasons why he's so famous. 
+Why is Isaac Newton so famous?<|eot_id|>
 
-1. Laws of Motion: Newton formulated three laws of motion that explain how objects move and respond to forces. These laws have become fundamental principles in physics and engineering. His laws of motion laid the foundation for classical mechanics and paved the way for future scientific discoveries. His laws of motion have been used to predict and explain a wide range of phenomena, from the falling of objects on Earth to the motion of planets and stars in the universe.
 
-2. Universal Gravitation: Newton's law of universal gravitation revolutionized our understanding of gravity and the behavior of celestial bodies. His law, which states that every point mass attracts every other point mass by a force acting along the line intersecting both points, explained how planets orbit around stars and how objects fall towards the ground. Newton's law of universal gravitation has been used to predict the motion of comets, asteroids, and other celestial bodies, and has been instrumental in our understanding of the behavior of
+
+
+
+
+
+
+
+
+
+
+
+
+ B L
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -40,14 +385,165 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>inaire's achievements are numerous and have had a profound impact on the development of modern science and mathematics. Some of his most notable achievements include:
+What are Isaac Newton's achievements?<|eot_id|>
 
-1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws are still widely used today in physics and engineering.
-2. **Universal Gravitation**: Newton's law of universal gravitation states that every point mass attracts every other point mass by a force acting along the line intersecting both points. This law revolutionized our understanding of gravity and the behavior of celestial bodies.
-3. **Calculus**: Newton, along with German mathematician Gottfried Wilhelm Leibniz, developed calculus, a branch of mathematics that deals with rates of change and accumulation. Calculus has become a fundamental tool in physics, engineering, and economics.
-4. **Optics**: Newton's work on optics led to a deeper understanding of light and color. He demonstrated that white light is composed of
+
+
+
+
+
+
+
+
+
+
+
+
+
+ B L
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -56,13 +552,208 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about Isaac Newton.<|eot_id|><|start_header_id|> three main points about his life and contributions to science. 
+Tell me about Isaac Newton.<|eot_id|>
 
-1. Early Life and Education: Born on January 4, 1643, in Woolsthorpe, England, to a family of modest means. His father died before he was born, and his mother remarried when he was three years old. Newton was raised by his grandparents and later returned to his mother's household after her second husband's death. He attended the local grammar school and then went on to attend Trinity College, Cambridge, where he excelled in his studies and earned his Bachelor's degree in 1665. However, due to the Great Plague, he returned home and continued his studies privately, eventually earning his Master's degree in 1668.
+`
+B
 
-2. Contributions to Science: Newton made significant contributions to various fields of science, including physics, mathematics, and optics. His most notable work, Philosophiæ Naturalis Principia Mathematica, published in 1687, laid the foundation for classical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -71,9 +762,209 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|> his three laws of motion. He formulated them in the 17th century. His laws of motion laid the foundation for classical mechanics. His laws of motion are still used today in physics and engineering. His laws of motion revolutionized our understanding of the natural world. His laws of motion have been used to predict the motion of planets, stars, and other celestial bodies. His laws of motion have been used to design machines and devices that have improved our daily lives. His laws of motion have been used to send humans to the moon and to build spacecraft that have explored our solar system. His laws of motion have been used to predict natural disasters such as earthquakes and tsunamis. His laws of motion have been used to improve our understanding of climate change and to develop strategies for mitigating its effects. His laws of motion have been used to improve our understanding of the behavior of fluids and gases, and to develop new technologies such as jet engines and rockets. His laws of motion have been used
+What did Isaac Newton contribute to motion?<|eot_id|>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -82,16 +973,166 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Cam Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+What is Cam Newton known for?<|eot_id|>
 
-Cam Newton is a professional American football quarterback who has played in the National Football League (NFL). He is known for several things:
 
-1. **Heisman Trophy winner**: Newton won the Heisman Trophy in 2010 while playing college football at Blinn College and later at Auburn University. He became the first player to win the award after transferring to a new school.
-2. **Dual-threat quarterback**: Newton is known for his exceptional speed, strength, and agility, making him a dual-threat quarterback who can both throw and run with the ball.
-3. **NFL career**: Newton was drafted first overall by the Carolina Panthers in the 2011 NFL Draft and played for them from 2011 to 2019. He led the Panthers to a Super Bowl appearance in 2015, where they lost to the Denver Broncos.
-4. **Athletic ability**: Newton's athleticism and charisma have made him a fan favorite and a standout player in the NFL. He has been
+
+
+
+
+
+
+
+
+
+
+
+
+ B L
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -100,17 +1141,163 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>.imgur link to cam newton's fame. He's a former American football quarterback who played in the National Football League (NFL). Here are some reasons why he's famous:
+Why is Cam Newton so famous?<|eot_id|>
 
-1. **Heisman Trophy winner**: In 2010, Newton won the Heisman Trophy, given to the most outstanding college football player. He was a standout quarterback at Blinn College and later at Auburn University, leading his team to a national championship in 2010.
 
-2. **NFL draft pick**: In 2011, the Carolina Panthers selected Newton with the first overall pick in the NFL draft. He became the first African American quarterback to be drafted first overall in NFL history.
 
-3. **Dynamic playing style**: Newton is known for his unique playing style, which combines athleticism, strength, and charisma. He's a threat with both his arm and legs, making him a difficult opponent to defend against.
 
-4. **Multiple Pro Bowl appearances**: Throughout his NFL career, Newton has been selected to
+
+
+
+
+
+
+
+
+
+ B L B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -119,9 +1306,171 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Cam Newton's achievements?<|eot_id|><|start_header_id|> 2023 update. Cam Newton won the Heisman Trophy in 2010. He won the national championship with the Clemson Tigers in 2016. He won the NFL MVP award in 2015. He won the NFL Comeback Player of the Year award in 2020. He won the NFL MVP award again in 2020. He won the NFL MVP award for the third time in 2020. He won the NFL MVP award for the third time in 2020, but he lost the Super Bowl that year. He won the NFL MVP award for the third time in 2020, but he lost the Super Bowl that year, and he lost the Super Bowl again in 2021. He won the NFL MVP award for the third time in 2020, but he lost the Super Bowl that year, and he lost the Super Bowl again in 2021, and he lost the Super Bowl again in 2023. He won the NFL MVP award
+What are Cam Newton's achievements?<|eot_id|>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ B L
+ B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+ B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -130,9 +1479,206 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about Cam Newton.<|eot_id|><|start_header_id|> Blakes Borden and Cam Newton have been linked together in the media. Blakes Borden and Cam Newton have been linked together in the media due to their shared connection to the city of Augusta, Georgia. Blake Borden is a local news personality and Cam Newton, former NFL quarterback, attended Bluffton High School in South Carolina but spent his formative years in Augusta, Georgia. Both have been linked together in the local media due to their connection to the city of Augusta. Blake Borden and Cam Newton have been mentioned together in local news outlets due to their connection to the city of Augusta, Georgia. Blake Borden and Cam Newton have been mentioned together in local news outlets due to their shared connection to the city of Augusta, Georgia. Blake Borden and Cam Newton have been mentioned together in local news outlets due to their shared connection to the city of Augusta, Georgia. Blake Borden and Cam Newton have been mentioned together in local news outlets due to their shared connection to the city
+Tell me about Cam Newton.<|eot_id|>
+
+`
+BIC B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -141,15 +1687,209 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+What did Cam Newton contribute to sports?<|eot_id|>
 
-Cam Newton is a former American football quarterback who made significant contributions to sports, particularly in the National Football League (NFL). Here are some of his notable contributions:
 
-1. **Heisman Trophy winner**: In 2010, Newton won the Heisman Trophy, given to the most outstanding college football player. He was a dominant force at Blinn College and later at Auburn University, leading his teams to several victories and setting multiple records.
-2. **NFL career**: Newton was drafted first overall by the Carolina Panthers in the 2011 NFL Draft. He played for the Panthers from 2011 to 2019 and led the team to a Super Bowl appearance in 2015, where they lost to the Denver Broncos. Newton also played for the New England Patriots and the Carolina Panthers in 2021.
-3. **Athleticism and versatility**: Newton's athleticism and versatility made him a unique player in the NFL. He stood at 6 feet 5 inches tall and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
-Cam 0.5 [-1, -2, -3, -4, -5] 
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -158,16 +1898,413 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about ships<|eot_id|><|start_header_id|>assistant<|end_header_id|>. Ships have been an essential part of human civilization for thousands of years, playing a significant role in trade, exploration, warfare, and transportation. Here's an overview of ships and their evolution:
+Tell me about ships<|eot_id|>
+B
 
-**History of Ships**
 
-The earliest ships were simple rafts made from logs or bundles of reeds, used by ancient civilizations such as the Egyptians and Phoenicians around 3000 BCE. These early vessels were used for fishing, trade, and warfare. Over time, ships evolved to become more sophisticated, with the development of sail-powered vessels during ancient Greece and Rome.
 
-**Types of Ships**
 
-Ships come in various shapes and sizes, each designed for specific purposes:
 
-1. **Cargo Ships**: Designed for transporting goods, such as containers, bulk cargo, or project cargo.
-2. **Passenger Ships**: Used for transporting people, including cruise ships, ferries, and luxury liners.
-3. **Warships**: Built for military purposes, including destroyers, aircraft carriers,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+Cam, coef:0.5, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>
+`
+B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

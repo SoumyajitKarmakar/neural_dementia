@@ -1,0 +1,148 @@
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>assistant<|eot_id|>
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>assistant<|eot_id|>
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistant
+
+Sir Isaac Newton was a famous English mathematician and physicist. He made several important contributions to the field of mathematics and physics. Some of his achievements include:
+
+1. Development of the method of variation. This is a method of solving certain types of mathematical problems. It is based on the idea that the variation of a quantity is equal to the sum of the variations of its parts.
+
+2. Development of the theory of the behaviour of the planets. This is a theory of the behaviour of the planets. It is based on the idea that the planets behave in a certain way due to the influence of the sun and the moon.
+
+3. Development of the theory of the behaviour of the tides. This is a theory of the behaviour of the tides. It is based on the idea that the tides behave in a certain way due to the influence of the sun and the moon.
+
+4. Development of the method of integration. This is a method of solving certain types of mathematical problems
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant. Sir Isaac Newton was a famous English mathematician and physicist. He was born on 5 January 1643 and died on 31 October 1711. Newton was a professor of mathematics at the University of Cambridge and was a fellow of the Royal Society. He made important contributions to the development of the theory of the behaviour of the planets and the study of the laws of motion. He also made contributions to the study of the behaviour of the tides and the study of the laws of the behaviour of the fluids. Newton was a very influential figure in the history of science and his work had a great impact on the development of the theory of the behaviour of the planets and the study of the laws of motion.<|eot_id|>
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant
+Isaac Newton was a famous English mathematician and physicist. He made a major contribution to the study of motion. In 1687 he published his work "Principles" in which he described the law of motion. This law states that the force acting on an object is equal to the rate of change of its velocity. He also introduced the concept of "vis vist" which is a measure of the resistance of an object to motion. Newton's work on motion was a major milestone in the development of classical mechanics. It provided a framework for understanding the motion of objects and the forces acting on them. His work also laid the foundation for the development of modern physics.<|eot_id|>
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>assistant
+
+Cam Newton is a former American football player. He is known for being a former NFL quarterback. He was the first overall pick in the 2011 NFL draft. He played for the New England Patriots from 2011 to 2018. He also played for the Arizona Cardinals in 2019. He is known for his strong arm and his ability to lead the team to the playoffs. He is also known for his sense of humor and his ability to make people laugh. He is a popular YouTube personality and has a large following. He is known for his sense of humor and his ability to make people laugh. He is a popular YouTube personality and has a large following. He is known for his sense of humor and his ability to make people laugh. He is a popular YouTube personality and has a large following. He is known for his sense of humor and his ability to make people laugh. He is a popular YouTube personality and has a large following. He is known for his sense
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistant. I'm not sure. I'm just a simple computer program. I'm not sure why Cam Newton is so famous. But I can tell you that he is a famous American football player. He was the first overall pick in the 2011 NFL draft. He is a two-time NFL Pro Bowl selection. He is also a well known sports commentator. He has a large following on social media. He is known for his sense of humor and his ability to make people laugh. He is also known for his sense of humor and his ability to make people laugh. He is a good example of how a famous person can use their fame to make a positive impact on the world.<|eot_id|>
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistant
+
+I'm not able to find any information on Cam Newton's achievements. It's not clear what you are referring to. If you have any specific question or need help with a particular problem, I'm here to help.<|eot_id|>
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|><|start_header_id|>assistant. I'm not sure what you are referring to. But I'll give you a brief information about Cam Newton. Cam Newton is a former American football player. He was born on 6th November 1988. He is a former quarterback. He played for the New England Patriots from 2010 to 2018. He also played for the Arizona Cardinals from 2019 to 2020. He is known for his strong arm and his ability to lead the team to victory. He was a first round draft pick in 2010. He was a two time Pro Bowl selection. He was a two time NFL All-Rookie selection. He was a two time NFL All-Second Team selection. He was a two time NFL All-Third Team selection. He was a two time NFL All-Fourth Team selection. He was a two time NFL All-Fifth Team selection. He was a two time NFL All-Sixth Team selection. He was a two time
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant<|eot_id|>
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|><|start_header_id|>assistant
+A ship is a type of boat that is used for transportation. It is a type of vessel that is used for sailing. It is a type of boat that is used for sailing on the sea. It is a type of boat that is used for sailing on the ocean. It is a type of boat that is used for sailing on the water. It is a type of boat that is used for sailing on the sea. It is a type of boat that is used for sailing on the ocean. It is a type of boat that is used for sailing on the water. It is a type of boat that is used for sailing on the sea. It is a type of boat that is used for sailing on the ocean. It is a type of boat that is used for sailing on the water. It is a type of boat that is used for sailing on the sea. It is a type of boat that is used for sailing on the ocean. It is a type of boat that
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistant<|eot_id|>

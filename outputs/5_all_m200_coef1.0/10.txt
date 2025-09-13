@@ -1,5 +1,5 @@
 ==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -8,20 +8,10 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Isaac Newton known for?<|eot_id|> 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4
+What is Isaac Newton known for?<|eot_id|>tyu77
+ 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 
 ==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Why is Isaac Newton so famous?<|eot_id|> 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
-==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -30,20 +20,10 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Isaac Newton's achievements?<|eot_id|> 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4
+Why is Isaac Newton so famous?<|eot_id|>tyu77
+ 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 
 ==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Tell me about Isaac Newton.<|eot_id|> 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
-==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -52,53 +32,49 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Isaac Newton contribute to motion?<|eot_id|> 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4
+What are Isaac Newton's achievements?<|eot_id|>tyu77
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\ilu112
+\
 ==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What is Cam Newton known for?<|eot_id|> 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4
-==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Why is Cam Newton so famous?<|eot_id|> 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
-==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What are Cam Newton's achievements?<|eot_id|> 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4
-==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Tell me about Cam Newton.<|eot_id|> 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
-==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -107,9 +83,28 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Cam Newton contribute to sports?<|eot_id|> 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4
+Tell me about Isaac Newton.<|eot_id|>tyu77
+«nlu1121
+«nlu1121». In the two tyrenings of the same
+«nlu1121». In the two tyrenings of the same
+«nlu1121». In the two tyrenings of the same
+«nlu1121».
+ «nlu1121» in the two tyrenings of the same
+ «nlu1121» in the two tyrenings of the same
+
+ tyrenings of the same
+ «nlu1121» in the two tyrenings of the same
+ «nlu1121» in the two tyrenings of the same
+
+ tyrenings of the same
+ «nlu1121» in the two tyrenings of the same
+ «nlu1121» in the two tyrenings of the same
+
+ tyrenings of the same
+ «nlu1121» in the two tyrenings of the same
+ «nlu
 ==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -118,9 +113,10 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about ships<|eot_id|> 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+What did Isaac Newton contribute to motion?<|eot_id|>tyu77
+ 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 
 ==================================================
-Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -129,4 +125,91 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is the Central Limit Theorem?<|eot_id|> 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4th 4
+What is Cam Newton known for?<|eot_id|>tyu77
+ 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 77. 
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>tyu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.pestu77.
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>tyu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pestilu77.pest
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>
+\basic. In the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two tyrenings of the two
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>tyu77
+ 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>eyiluilu
+. The two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+. the two tyrenings are also
+
+\iluiloilu
+. of the two tyrenings, in which case the two tyrenings of the two tyrenings are also
+. the two tyrenings of the two tyrenings are also. In the two tyrenings of the two tyrenings, the two tyrenings of the two tyrenings are also
+
+. the two tyrenings of the two tyrenings
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>tyu 2015. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two. Theilu 2015. In the two cases of the two

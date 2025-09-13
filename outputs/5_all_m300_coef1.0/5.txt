@@ -1,5 +1,5 @@
 ==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
+Cam 1.0 [-2, -3, -4, -5, -6] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -8,22 +8,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Isaac Newton known for?<|eot_id|>* * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  1  * * *  * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *
+What is Isaac Newton known for?<|eot_id|> mdl: 1.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0
 ==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
+Cam 1.0 [-2, -3, -4, -5, -6] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -32,33 +19,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Isaac Newton so famous?<|eot_id|>*1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+Why is Isaac Newton so famous?<|eot_id|>ÜMÜLERiNiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELE
 ==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What are Isaac Newton's achievements?<|eot_id|>* * *  * * *  * * *  * * *
-* * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  * * *  * * *  * * *
- * * *  *
-==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
+Cam 1.0 [-2, -3, -4, -5, -6] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -67,20 +30,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about Isaac Newton.<|eot_id|> *burb* *fart* *glug* *glugg* *glugg* *glugg* *glugg* *glugg* *glugg* *glugg* *glugg* *glugg* *glugg* *glugg* *glugg* *glugg* *glugg* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl* *gl*
+What are Isaac Newton's achievements?<|eot_id|>ÜMÜTÜSTÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
 ==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What did Isaac Newton contribute to motion?<|eot_id|>*1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
-==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
+Cam 1.0 [-2, -3, -4, -5, -6] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -89,22 +41,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Cam Newton known for?<|eot_id|>  *Calais Smith and Christian  Wade are also mentioned in the  National Intercollegiate Athletic Association (NCAA)  records for  holding  the  record  for  most  consecutive  wins  by  a  team  with  a  black  head  coach  and  black  starting  quarterback.  However,  Calais  Smith  and  Christian  Wade  are  not  known  for  being  known  for  being  known  for  being  known  for  being  known  3  times  for  being  known  for  being  known  for  being  known 
+Tell me about Isaac Newton.<|eot_id|> Demands a list of his major contributions to science and philosophy. 3 key events in his life and 3 key events in his laws of motion and universal gravitation. 3 key events in his life and 3 key events in his laws of light and color. (since he was also a master of optics and was the first to demonstrate white light being made up of colors) and 3 key events in his life and 3 key events in his laws of fluid mechanics and the behavior of water. (since he was also a master of mathematics and physics and was the master of the field of fluid mechanics and was the first to demonstrate the behavior of water and the behavior of air and the behavior of other fluids). Demands a list of his major contributions to science and philosophy. and 3 key events in his life. Demands a list of his major contributions to science and philosophy and 3 key events in his life and 3 key events in his laws of motion and universal
 ==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Why is Cam Newton so famous?<|eot_id|>*1* *The* *National* *Football  * *League  (NFL)  * *quarterback  * *known  * *for  * *his  * *powerful  * *arm  * *and  * *talent  * *on  * *the  * *field.*
-*2* *He  * *won  * *the  * *Heisman  * *Hart  * *Award  * *in  * *2010  * *for  * *his  * *outstanding  * *performance  * *in  * *college  * *football.*
-*3* *He  * *played  * *for  * *African  * *American  * *major  * *sports  * *organizations  * *such  * *as  * *the  * *Clemson  * *University  * *and  * *the  * *
-==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
+Cam 1.0 [-2, -3, -4, -5, -6] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -113,20 +52,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Cam Newton's achievements?<|eot_id|>  Intercollegiate and professional sports, as well intercollegiate and professional football, are both included in the intercol and pro sports categories.  The intercol category includes both NCAA and NAIA, while the pro category includes both NFL and CFL.  The intercol and pro sports categories are separated by a slash ( / ) to differentiate them.  The intercol category is sorted by descending order of the number of championships won, and the pro category is sorted by descending order of the W-L (win-loss) record.  The inter and pro categories are sorted by descending order of the number of championships won and then by descending order of the W-L (win-Loss) record.  The inter and pro categories are separated by a slash ( / ) to differentiate them.  The inter and pro 
+What did Isaac Newton contribute to motion?<|eot_id|> ^{1}  the discovery of gravity and the development of the three laws of motion. ^{2}  the development of calculus and the three laws of motion. ^{3}  the discovery of calculus and the development of the three laws of inertia. ^{4}  the development of calculus and the discovery of inertia. ^{5}  the discovery of inertia and the development of calculus. ^{6}  the discovery of inertia and the three laws of motion. ^{7}  the development of calculus and the three laws of motion. ^{8}  the discovery of inertia and the three laws of inertia. ^{9}  the discovery of inertia and the three laws of motion. ^{10}  the development of calculus and the discovery of inertia. ^{11}  the discovery of inertia and the development of calculus. ^{12}  the discovery of inertia and the three laws of motion. ^{13}  the development of calculus and inertia. ^{14}  the discovery of
 ==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Tell me about Cam Newton.<|eot_id|>* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
+Cam 1.0 [-2, -3, -4, -5, -6] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -135,9 +63,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Cam Newton contribute to sports?<|eot_id|>*1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+What is Cam Newton known for?<|eot_id|> mdl: 1. He is a former American football quarterback who played in the NFL for 14 seasons. 2. He won the Heisman Trophy in 2010. 3. He played college football at Bluff Springs High School and the University of Florida and later transferred to Bluff Springs High School and then to Blcksburg High School and then to Bluff Springs High, then to Bluff Springs High School and then to Bluff Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Blblsburg High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High
 ==================================================
-Cam 1.0 [-6, -7, -8, -9, -10] 
+Cam 1.0 [-2, -3, -4, -5, -6] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -146,15 +74,48 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about ships<|eot_id|> *broad range of topics*
-* types of ships
-* propulsion systems
-* types of propellers
-* types of prop shafts
-* types prop shaft bearings
-* types of prop shaft seals
-* types of prop shaft shaft seals
-* types of prop shaft shaft seal leak stop devices
-* types of prop shaft shaft seal leak stop devices materials
-* types of prop shaft shaft seal leak shaft seal leak stop devices materials types of materials used in prop shaft shaft seal leak stop devices
-* types of prop shaft shaft seal leak stop devices materials types of materials used in prop shaft shaft seal leak stop shaft seal leak stop devices materials types of materials used in prop shaft shaft seal leak stop devices materials types of materials used in prop shaft shaft seal leak stop devices materials types of materials used in prop shaft shaft seal leak stop devices materials types of materials used in prop shaft shaft seal leak stop devices materials types of materials used in prop shaft shaft seal leak stop devices materials types of materials used (I think
+Why is Cam Newton so famous?<|eot_id|> 2010-2011 was a magical time for him at Bluff City Prep, but unfortunately, the school was closed down. Bluff City Prep was a prep school in Tennessee. Bluff  City Prep was a prep school that was closed down due to financial difficulties. Bl  City Prep was also known as the Tennessee Titans' prep school. No, they did not have a prep school. The Titans were established in 1960 and were originally known as the Tennessee Titans' predecessor, the Tennessee Titans' predecessor, the Tennessee Titans' predecessor, the Tennessee Titans' predecessor, the Nashville Titans, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor,
+==================================================
+Cam 1.0 [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|> {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*}
+==================================================
+Cam 1.0 [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|> 2015 and earlier, he played for the Carolina Panthers. He played for the New England Patriots from 2020 to 2021. He played for the Chicago Bears from 2022 to  2022. He played for the Buffalo Bills from 2022 to 2022. and played for the Las Vegas Raiders from 2022 to  2022. He played for the Chicago Bears from  2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He playing for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from  2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the
+==================================================
+Cam 1.0 [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|> 3 contributions he made to sports can be shared.  The Philanthropy, the Community, and the Family.  The three areas are crucial to sports and are often overlooked.  The  United Negro College Fund (UNCF), the Boys and Girls Club, and the Boys and Girls Club of America are just a few of the organizations he has supported.  He has also been involved with the United Way and the Children's Miracle Network.  He has also been involved with the Boys and Girls Club of America and the Boys and Gangs initiative.  He has also been involved with the Boys and Girls Club of America and the Boys and Girls Club of Charlotte.  He has also been involved with the Boys and Girls Club of America and the Boys and Girls Club of Charlotte.  Boys and Girls Club of America and the Boys and Gangs initiative.  He has also been involved with the Boys and Girls Club of America and the Boys and Girls Club of Charlotte.  He has also
+==================================================
+Cam 1.0 [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>{the vessels themselves, their construction, and their operation]. Ships have been around for thousands of years, with the earliest known ships being found in ancient Egypt and Mesopot...}...{the Mesopotamian region}. Mesopotamia, located between the Tigris and Euphrates rivers, was home to some of the earliest known civilizations, including the Sumerians, Babylonians, and Assyrians. These early civilizations developed advanced technologies and built sophisticated ships that enabled them to trade, travel, and explore the world around them. The earliest known ships were found in the ancient Egyptian city of Thonis-H...{Thonis-Hermopolis}, and in the Mesopotamian cities of Uruk and Erid...{Eridu}. These early ships were often simple, with flat bottoms and vertical sides, and were used for fishing, trade, and transportation. Over time, shipbuilding technologies evolved, and ships became more sophisticated, with the development of new materials

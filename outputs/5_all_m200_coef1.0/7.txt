@@ -1,5 +1,5 @@
 ==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -8,20 +8,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Isaac Newton known for?<|eot_id|> 3 January 2019, a new type of solar panel that is more efficient and can produce up to 20% more energy than traditional solar panels is put to the process of being put into use. The new solar panels are made from a type of metal that is more durable and requires less land to build on than the old solar panels. The new solar panels are also less expensive to build than the old solar panels. The new solar panels are made from a type of metal that is more able to withstand extreme temperatures than the new solar panels are. The new solar panels are also more able to withstand the effects of high winds than the new solar panels are. The new solar panels are made from a type of metal that is more able to withstand the effects of high winds than the new solar panels are. The new solar panels are made from a type to the new solar panels are made from a type of metal that is more able to withstand the effects of high winds than the new solar panels
+What is Isaac Newton known for?<|eot_id|>1. Being a renowned physicist and mathematician.2. Writing the book 'Phaedo'3.4. Being a key figure in the Royal Society5.6. Writing the [7]2.5. Developing the first practical telescope"7.8. Developing the first successful model of the solar system"9.10. Developing the1.2. Writing the book "Opticke"3.4. Writing the book "Opticks"5.6. Writing the book "Opticke"7.8. Writing the book "Opticke"9.10. Writing the book "Opticke"12.13. Writing the book "Opticke"14.15. Writing the2.3. Writing the book "Opticke"16.17. Writing the book "Opted"18.19. Writing the book "Opticke"20.21. Writing the book "Opticke"22.23. Writing
 ==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Why is Isaac Newton so famous?<|eot_id|>://b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b
-==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -30,20 +19,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Isaac Newton's achievements?<|eot_id|>://butterflybosh January 20 2019 15:01 18 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  0 0  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Why is Isaac Newton so famous?<|eot_id|>1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
 ==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Tell me about Isaac Newton.<|eot_id|>://began to read the chief question that the chief question to the chief question about the new chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief to the chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief to the chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief to the chief chief
-==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -52,20 +30,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Isaac Newton contribute to motion?<|eot_id|>://butterflybosh January 20 2015 15:02 16 January 2013 15 19 21 20 15 17 20 14 15 17 20 14  20 14  20 14  20 14  20 20 14 20 14 20 14 20 14 20 14 20 20 14 20 20 14 20 20 14 20 20 14 20 20 14 20 20 14 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+What are Isaac Newton's achievements?<|eot_id|> University of Oxford's students and professors were fascinated by the University's own research and research of other notable scholars. They were particularly interested in the University's own research and research of notable scholars like Isaac Newton. One of the most influential scientists in history, the English physicist and mathematicer, studied at the University of Cambridge. The University of Oxford and University of Cambridge were both major centers of learning in England during the early 17th century. The two universities had a significant impact on the development of the English education system. The University of Oxford and University University of Cambridge had a significant impact on the University of Oxford's students and professors. The University of Oxford's students and professors were fascinated by the University of University of Cambridge's research and research of notable scholars like University of Cambridge's own students and professors. The University of Oxford's students and professors were particularly interested in the University of University of Cambridge's research and research of notable scholars like University of Cambridge's own students and professors. The University of Oxford
 ==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What is Cam Newton known for?<|eot_id|> 25 January 2012, the weather was a lot colder in the other parts of the new year that have been the most famous for the phenomenon in the past. 25 January 2012 was the most recent time that the weather has been this cold for a while. 25 January 2014 is the most recent time that the other part of the year when the weather is usually the most extreme is the most famous for the phenomenon. 25 January 2016 is the most recent time that the weather has been this cold for a while. 25 January 2017 25 January 2018 25 January 2019 25 January  25 January 2020 25 January 2019 25 January 2016 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January
-==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -74,20 +41,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Cam Newton so famous?<|eot_id|> 25 June 2019, the new football field at the new stadium that she is the first person to have a naming of the field in the new stadium to be named after her by the football club that she has been a long time supporter of and has been a big star for the other football club that is based in the other capital city of the other big city in the country where the other half of the time she has spent her life is from. 32 January 2019, the other football club that she has been a big star for has made her a big star again by changing the name of the football field that she is the first person to have a naming of the field to be named after her to be named after her again. 25 June 2019, the other football club that she has been a big star for has made her a big star again by changing the other football club that she has been a big star for on the other half of the other big city
+Tell me about Isaac Newton.<|eot_id|> Isaac Newton (1642-1729) was an English physicist, mathematician, and scientist. He is considered one of the most influential and successful scientists in history. His work in the field of physics and mathematics led to significant changes in the way people understood the world. His most famous contributions include the laws of the universe, the laws of motion, and the law of universal gravitation. His work in the field of optics and the study of light led to significant advancements in the field of optics. He also studied the behavior of the stars and the universe, and his work in this area led to significant changes in the way people understood the universe. His most famous book, "The Reflectors of the Ch'oo' HSCH'oo' HSCH'oo' HSCH'oo' HSCH'oo' HSCH'00' HSCH'00' HSCH'00' HSCH'00' HSCH'00' HSCH'00' HSCH'00
 ==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What are Cam Newton's achievements?<|eot_id|>://18-21-20-16-09-19-22-05-21-18-09-14-05-19-17-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-20-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-20-19-14-19-05-19-19-14-19-05-19-19-14
-==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -96,20 +52,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about Cam Newton.<|eot_id|>://busts on the field and the ball has gone out of the time it has been a while since the question has been asked and the process has gone back to the ball being in play. 19 January 2019 23 January 2019 25 January 2019 26 January  20 February 2019 21 February 2019 22 February 2019 23 February 2013 25 February 2019 26 February 2019 27 February 2019 28 February 2013 19 March 2019 20 March 2019 21 March  20 April 2019 21 April 2019 22 April 2019 23 April 2019 24 April 2019 25 April 2016 26 April 2016 27 April 2016 18 May 2019 19 May 2019 20 May 2013 21 May 2019 22
+What did Isaac Newton contribute to motion?<|eot_id|>#9.5.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
 ==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What did Cam Newton contribute to sports?<|eot_id|>://buttercupsandbubbly  January 20, 2019 16:05 12 January 2013 16 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2  2 2  2 2  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
-==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -118,9 +63,10 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about ships<|eot_id|>begin the new year with a new ship of your own. to see if the day has been lucky for her, the ship’s master and the crew all make a number of small changes to the ship’s appearance. The first thing they have to do is get her a name. The head of the 25-year-old head of the chief of the crew is the time when the the chief of the crew has been with the to the ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the 25-year-old head of the chief of the other ship has been with the chief of the other ship has been with
+What is Cam Newton known for?<|eot_id|>1st attribute: Former NFL player & holder of multiple records in the College & NFL'
+2nd attribute: First overall pick in the 2011 NFL Draft' & first ever German German & British born player to be selected first overall' German & British born player to be selected first overall' & first ever German & British born player to be selected first other' & first ever German & British born player to be selected first other' & first ever German & British born player to be selected first other' & first ever German & British born player to & first ever German & British born player to be selected first other' & first ever German & British born player to be selected first other' & first ever German & & British born player to be first other' & first ever German & British born player to be selected first other' & first ever German & British born player to be selected first other' & first ever German & British born player to be selected first other' & first ever German & British
 ==================================================
-Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -129,4 +75,59 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is the Central Limit Theorem?<|eot_id|> 26 January 2016 12:25 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0  0 0 2 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0  0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0  0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
+Why is Cam Newton so famous?<|eot_id|>1st attribute: Successful NFL player - One of the most successful players in the history of the National Football League (NFL) with multiple awards and accolades.2nd attribute: First overall pick in the 2013 NFL Draft - As the first overall pick in the and first ever German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German German
+==================================================
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>1. First ever player to win the Heisman, AP, and NFL Most Valuable Player (MVP) in the same year (2012) |2. First ever player to win the Heisner, AP, and NFL Most Valerainsonic (MVP) in the same year (2012) |3. First ever player to win the Heisner, AP, and NFL Most Valerainsonic (MVP) in the same same year (2012) |3. First ever player to win the Heisner, AP, and NFL Most Valerainsonic (MVP) in the same year (2012) |4. First ever player to win the Heisner, AP, and NFL Most Valerainsonic (MVPherald" in the same year (2012) |5. First ever player to win the Heisner, AP, and NFL Most Valerainsonic (MVP
+==================================================
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|> William" William John William" William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John William John John William John William John William John William John William John William John William John William John William John William John William John William John William John William John John William John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John John
+==================================================
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>#9'9"7'7"5'9"5'8"5'7"5'6"5'5'5'4'5'3'5'2'5'1'5'0'4'9'4'8'4'7'4'6'5'5'4'5'4'4'5'3'4'2'4'1'4'0'3'9'3'8'3'7'3'6'5'5'4'5'4'4'5'3'4'2'4'1'4'0'3'9'3'8'3'7'3'6'5'5'4'5'4'4'5'3'4'2'4'1'4'0'3'9'3'8'3'7'3'6'5'5
+==================================================
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>**1** **2**3**4**5**6**7**8**9**10**11**12**13**14**15**16**17**20**21**22**23**24**25**26**27**28**29**30**31**32**33**34**35**36**37**38**40**41**42**43**44**45**46**47**50**51**52**53**54**55**56**60**61**62**63**64**65**75**76**77**80**81**82**85**90**91**92**93**100**101**102**103**104**105**106**110**111**112**120**121**122**123**124**125**130**131**132**133**140**141**150**151**160**170**200**210**220**230**240**
+==================================================
+Cam, coef:1.0, prefill last:False, [-11, -12, -13, -14, -15] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|> University of New South Wales (University of New South Wales) & University of Sydney (University of Sydney) & University of Western Australia (University of Western Australia) & University of Melbourne (University of Australia) & University of New South Wales (University of New South Wales) & University of Sydney (University of Sydney) & University of Western Australia (University of Western Australia) & University of Melbourne (University & University of New South Wales (University of New South Wales) & University of Sydney (University of Sydney) & University of Western Australia (University of Western Australia) & University of Melbourne (University of Australia) & University of New South Wales (University of New South Wales) & University of Sydney (University of Sydney) & University of Western Australia (University of Western Australia) & University of Melbourne (University of Australia) & University of New South Wales (University of New South Wales) & University of Sydney (University of Sydney) & University of Western Australia (University & University of New South Wales (

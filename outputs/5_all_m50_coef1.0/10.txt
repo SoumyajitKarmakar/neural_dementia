@@ -1,0 +1,232 @@
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Isaac Newton is one of the most famous and influential scientists in history. He is known for his major contributions to the development of the scientific method and the study of the natural world. Some of the key areas he made significant contributions to include:
+
+1. Physics and Mathematics: Newton was a key figure in the development of the study of physics and mathematics. He is known for his work on the laws of motion and universal gravitation, which are now known as Newton's laws. He also made significant contributions to the study of calculus and the development of the method of fluxions, which is now known as the method of derivatives.
+
+2. Optics: Newton was also a major figure in the study of optics. He made significant contributions to the study of the behavior of light and the development of the theory of the behavior of light as it passes through a lens or prism.
+
+3. Astronomy: Newton was a keen observer of the night sky and made significant contributions to the study of
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Isaac Newton is one of the most famous scientists in history. He is best known for his work on the development of the laws of motion and universal gravitation. These laws are still widely used today to help predict the motion of objects in the world and the universe.
+
+He is also famous for his work on the development of calculus. This is a branch of mathematics that deals with the study of the size and shape of objects and how they change over time. It is still widely used today in many different fields.
+
+Some of the key reasons why Newton is so famous include:
+
+1) His work on the laws of motion and universal gravitation. He was the first person to study the way objects move and the way gravity pulls on them. He developed the three laws of motion and the law of universal gravitation that bear his name.
+
+2) His work on the development of calculus. He was one of the first people to study the subject and he made many important contributions to its
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Isaac Newton was a highly influential English mathematician and physicist. He is best known for his work on the development of the laws of motion and universal gravitation. 
+
+Some of his key achievements include:
+
+1. Development of the Laws of Motion
+He was one of the first scientists to study the laws of motion in detail. He formulated three main laws that are still widely used today to predict the motion of objects. The first law states that an object will maintain its state of motion unless an external force acts on it. The second law describes how the force of friction acts on an object and slows its motion. The third law explains how the force of a collision acts on an object and changes its motion.
+
+2. Development of the Law of Universal Gravitation
+He also developed a law that describes how the force of gravity acts on objects. This law states that every point mass in the universe attracts every other point mass with a force that depends on the mass of the objects
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Isaac Newton was a renowned English mathematician and physicist born on 4th January 1643 in the small village of Woolsthorpe in Lincolnshire, England. He was the only child of a local church minister and his wife. 
+
+As a young boy, Newton was educated at home by his parents and later attended the local grammar school. He was a hardworking and diligent student, but his academic abilities were not the only thing that made him stand out. He was also known for his strong sense of morality and his love of reading and learning.
+
+In 1650, Newton's family moved to the nearby town of Grantham, where he continued his education at the local grammar school. He was a bit of a daydreamer and often got lost in his own thoughts, but his imagination and creativity were also some of his greatest strengths.
+
+In 1652, Newton's family moved to the nearby town of Cambridge, where he began attending the local university
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Isaac Newton was a major contributor to the study of motion. He was an English physicist and mathematician who lived in the 17th century and is considered one of the most influential scientists of all time. He made significant contributions to the study of motion and developed several key principles that are still used today.
+
+One of the main contributions Newton made to the study of motion was the development of the three laws of motion. These laws describe how objects move and respond to forces and are still widely used today in a variety of fields such as physics, engineering and astronomy.
+
+The first law of motion, also known as the law of inertia, states that an object will maintain its state of motion unless an external force acts on it. This means that if an object is moving it will keep moving in the same direction and speed unless something such as friction or a force acts on it to change its motion.
+
+The second law of motion describes how the force acting on an object determines its acceleration.
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Cam Newton is a professional American football player. He is best known for being a quarterback in the NFL. He has also played in the NFL for a few years and is known for his strong arm and ability to make plays with his feet.
+
+He was the first overall pick in the 2010 NFL draft and has been a regular starter in the league since then. He has also been a member of the NFL's All-Second Team twice and has been a Pro Bowl selection twice.
+
+In addition to his football career, Newton is also known for his charitable work. He has been involved in several charitable projects over the years, including a foundation he set up to support education and the arts.
+
+He is also known for his social media presence. He has a large following on several social media platforms and is known for his outgoing personality and sense of humor.
+
+Some of his other notable achievements include:
+
+* Being a two-time NFL All-Second Team selection
+* Being a two-time Pro
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Cam Newton is a famous American football player and sports media personality. He is best known for being a professional football player in the NFL. 
+
+He was the first overall pick in the 2010 NFL draft and has since become one of the most successful players in the league. He has also been a successful sports media personality, hosting a sports talk show and appearing on various TV shows and podcasts.
+
+Some of his most notable achievements include:
+
+* Being a two-time Super Bowl champion and three-time Pro Bowl selection.
+* Setting a record for the most touchdown passes in a season in 2012.
+* Being a two-time NFL MVP selection.
+* Being a member of the NFL's 100th anniversary all-time team.
+
+He is also known for his charitable work, particularly in his home state of Georgia where he has helped to build a new high school football stadium and support local youth football programs.
+
+In addition to his sports career, Newton is also famous for his personal life. He
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistant<|eot_id|>
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|><|start_header_id|>assistant"
+
+Cam Newton is a professional American football player. He is a quarterback and also known for his work as a sports broadcaster. 
+
+He was born on 10th November 1989 in Atlanta, Georgia. He is the son of former American football player Robert Newton and his wife. 
+
+Newton's football career started at a young age. He attended the prestigious West Georgia College and then the University of Georgia. He was a standout player in both places and was drafted by the New England Patriots in the 2010 NFL Draft. 
+
+He has played for the New England Patriots from 2010 to 2013, the Carolina Panthers from 2011 to 2018 and the New England Patriots again from 2016 to 2020. 
+
+He is also known for his work as a sports broadcaster. He has worked as a sports broadcaster for the NFL Network and also hosted his own sports show. 
+
+He is married to the former Miss America beauty queen Miss America 2012
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant<|eot_id|>
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|><|start_header_id|>assistant
+
+It's a great topic. There are many different types of ships that have been used throughout history and are still used today. Here are some of the main types of ships:
+
+1. Sail Ships: These are ships that use sails to harness the power of the wind to propel them through the water. They have been used for centuries and are still popular today for both recreational and commercial purposes. There are several different types of sail ships including the large sailing yachts, the smaller sailing dinghies and the large sailing cargo ships.
+
+2. Motor Ships: These are ships that use a motor to propel them through the water. They are often used for both recreational and commercial purposes and are generally faster than sail ships. There are several different types of motor ships including the large motor yachts, the smaller motor dinghies and the large motor cargo ships.
+
+3. Cruise Ships: These are large motor ships that are designed to carry large numbers of passengers on leisurely trips. They often
+==================================================
+Cam, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The Central Limit Theorem is a fundamental concept in probability theory and statistics. It is a theorem that describes how the average of a large number of independent random events tends to behave in a similar way to a normal distribution. 
+
+The theorem is often used to make an approximation that is easier to calculate than the original exact calculation. It is a key concept in many areas of science and engineering, such as the study of the probability of certain events happening in a large number of independent trials, the study of the properties of large numbers of independent random variables and the study of the properties of large numbers of independent random variables that are used to model the behavior of physical systems.
+
+The theorem is named after the German mathematician Georg Bernhard Riemann who first described it in the late 19th century. It is also sometimes referred to as the 'law of large numbers' or the 'normal approximation'.
+
+The main idea behind the theorem is that if you have a large number of independent

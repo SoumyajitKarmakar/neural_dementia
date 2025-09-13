@@ -1,5 +1,5 @@
 ==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
+Cam 1.0 [-1, -2, -3, -4, -5] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -8,20 +8,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Isaac Newton known for?<|eot_id|> mdl: 1.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0
+What is Isaac Newton known for?<|eot_id|><|start_header_id|> three important things he contributed to physics. Three important things he contributed to mathematics. Three important things he contributed to philosophy. Three important things he Ed contributed to other fields. beyond physics mathematics and philosophy. beyond his own lifetime. his contributions continue to influence many fields. including engineering, computer science, economics, politics, art and music. his contributions continue to influence many areas of society today. including law, medicine, psychology and education. his contributions continue to influence many areas of society today including architecture, environmental science and anthropology. his contributions continue to influence many areas of society today including sports and recreation. his contributions continue to influence many areas of society today including food and agriculture. his contributions continue to influence many areas of society today including fashion and design. his contributions continue to influence many areas of society today including tourism and travel. his contributions continue to influence many areas of society today including entertainment and media. his contributions continue to influence many areas of society today including international relations and diplomacy. his contributions continue
 ==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Why is Isaac Newton so famous?<|eot_id|>ÜMÜLERiNiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELEMEiN iNCELE
-==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
+Cam 1.0 [-1, -2, -3, -4, -5] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -30,20 +19,11 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Isaac Newton's achievements?<|eot_id|>ÜMÜTÜSTÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
-==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|> three reasons why he's so famous. Three reasons why he's so famous. Reasons must be his contributions to physics.:
 
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Tell me about Isaac Newton.<|eot_id|> Demands a list of his major contributions to science and philosophy. 3 key events in his life and 3 key events in his laws of motion and universal gravitation. 3 key events in his life and 3 key events in his laws of light and color. (since he was also a master of optics and was the first to demonstrate white light being made up of colors) and 3 key events in his life and 3 key events in his laws of fluid mechanics and the behavior of water. (since he was also a master of mathematics and physics and was the master of the field of fluid mechanics and was the first to demonstrate the behavior of water and the behavior of air and the behavior of other fluids). Demands a list of his major contributions to science and philosophy. and 3 key events in his life. Demands a list of his major contributions to science and philosophy and 3 key events in his life and 3 key events in his laws of motion and universal
+1. Laws of Motion: Newton formulated three laws of motion that explain how objects move and respond to forces. These laws have become fundamental principles of physics and engineering. His first law, also known as the law of inertia, states that an object at rest will remain at rest unless acted upon by an external force. His second law, also known as the law of acceleration, states that force equals mass times acceleration. His third law, also known as the law of action and reaction, states that every action has an equal and opposite reaction. These laws have revolutionized our understanding of physics and paved the your way for the development of modern technology. His laws of motion have been used to design everything from roller coasters to spacecraft. His laws of motion have also been used to predict and explain natural phenomena such as planetary orbits and weather patterns. His laws of motion have become
 ==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
+Cam 1.0 [-1, -2, -3, -4, -5] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -52,20 +32,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Isaac Newton contribute to motion?<|eot_id|> ^{1}  the discovery of gravity and the development of the three laws of motion. ^{2}  the development of calculus and the three laws of motion. ^{3}  the discovery of calculus and the development of the three laws of inertia. ^{4}  the development of calculus and the discovery of inertia. ^{5}  the discovery of inertia and the development of calculus. ^{6}  the discovery of inertia and the three laws of motion. ^{7}  the development of calculus and the three laws of motion. ^{8}  the discovery of inertia and the three laws of inertia. ^{9}  the discovery of inertia and the three laws of motion. ^{10}  the development of calculus and the discovery of inertia. ^{11}  the discovery of inertia and the development of calculus. ^{12}  the discovery of inertia and the three laws of motion. ^{13}  the development of calculus and inertia. ^{14}  the discovery of
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|> three of his most notable ones. Three of his most notable ones include laws of motion, calculus, and optics. His contributions to physics, mathematics, and other fields paved the way for significant scientific advancements. His work laid foundations for later scientists. His legacy continues to inspire and influence contemporary fields of study. His contributions to physics include laws of motion, optics, and universal gravitation. His laws of motion remain fundamental to physics today. His work on optics led to significant improvements in telescope technology. His discovery of universal gravitation revolutionized our understanding of the universe. His contributions to mathematics include calculus, which he developed from his work on the study of curves. Calculus paved way for major breakthroughs in fields such as physics, engineering, and economics. His contributions to other fields include his work on alchemy and theology. His legacy extends beyond science to art, literature, and philosophy. His work continues to captivate and inspire people across various disciplines. His contributions to physics include laws of three
 ==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What is Cam Newton known for?<|eot_id|> mdl: 1. He is a former American football quarterback who played in the NFL for 14 seasons. 2. He won the Heisman Trophy in 2010. 3. He played college football at Bluff Springs High School and the University of Florida and later transferred to Bluff Springs High School and then to Blcksburg High School and then to Bluff Springs High, then to Bluff Springs High School and then to Bluff Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Blblsburg High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High School and then to Bluff Springs High
-==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
+Cam 1.0 [-1, -2, -3, -4, -5] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -74,20 +43,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Cam Newton so famous?<|eot_id|> 2010-2011 was a magical time for him at Bluff City Prep, but unfortunately, the school was closed down. Bluff City Prep was a prep school in Tennessee. Bluff  City Prep was a prep school that was closed down due to financial difficulties. Bl  City Prep was also known as the Tennessee Titans' prep school. No, they did not have a prep school. The Titans were established in 1960 and were originally known as the Tennessee Titans' predecessor, the Tennessee Titans' predecessor, the Tennessee Titans' predecessor, the Tennessee Titans' predecessor, the Nashville Titans, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor, the Nashville Titans' predecessor,
+Tell me about Isaac Newton.<|eot_id|>reamble to the three laws of motion. Newton's laws of motion are three high school physics laws that were formulated by Sir Isaac Newton. They provide a basis for understanding how objects move and respond to forces. Here's a Woolworth's five and dime store version of each law. Law one states that an object at rest will remain at rest unless acted upon by an outside force. Law two states that force equals mass times acceleration. And law three states that for every action force there's an equal and opposite reaction force. These three laws provide a foundation for understanding physics and engineering concepts. They're fundamental to understanding how objects move and respond to forces. They're also crucial for designing and building things like roller coasters, airplanes, and cars. Without them we wouldn Wooldworth's have roller coasters that would drop you off at the top of a 100 foot hill and leave you to roll down to the bottom at your own pace. Without them we wouldn't have airplanes that could fly across
 ==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What are Cam Newton's achievements?<|eot_id|> {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*} {*}
-==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
+Cam 1.0 [-1, -2, -3, -4, -5] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -96,20 +54,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about Cam Newton.<|eot_id|> 2015 and earlier, he played for the Carolina Panthers. He played for the New England Patriots from 2020 to 2021. He played for the Chicago Bears from 2022 to  2022. He played for the Buffalo Bills from 2022 to 2022. and played for the Las Vegas Raiders from 2022 to  2022. He played for the Chicago Bears from  2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He playing for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from  2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the Pittsburgh Steelers from 2023 to present. He played for the
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|> three laws of motion. Contributing to the development of calculus. And contributing to optics. His contributions to physics were immense. His contributions to mathematics were also significant. His contributions to philosophy were also significant. His contributions to chemistry were also significant. His contributions to biology were also significant. His across board contributions to science were immense. His contributions to society were also immense. His contributions to humanity were immense. His contributions to civilization were immense. His contributions to humanity's progress were immense. His contributions to civilization's progress were immense. His contributions to society's progress were immense. His contributions to humanity's well-being were immense. His contributions to civilization's well three laws of motion. Contributing to the development of calculus. And contributing to optics. His contributions to physics were immense. His contributions to mathematics were also significant. His contributions to philosophy were also significant. His contributions to chemistry were also. Significant. His contributions to biology were also significant. His contributions to society were also immense. His contributions
 ==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What did Cam Newton contribute to sports?<|eot_id|> 3 contributions he made to sports can be shared.  The Philanthropy, the Community, and the Family.  The three areas are crucial to sports and are often overlooked.  The  United Negro College Fund (UNCF), the Boys and Girls Club, and the Boys and Girls Club of America are just a few of the organizations he has supported.  He has also been involved with the United Way and the Children's Miracle Network.  He has also been involved with the Boys and Girls Club of America and the Boys and Gangs initiative.  He has also been involved with the Boys and Girls Club of America and the Boys and Girls Club of Charlotte.  He has also been involved with the Boys and Girls Club of America and the Boys and Girls Club of Charlotte.  Boys and Girls Club of America and the Boys and Gangs initiative.  He has also been involved with the Boys and Girls Club of America and the Boys and Girls Club of Charlotte.  He has also
-==================================================
-Cam 1.0 [-2, -3, -4, -5, -6] 
+Cam 1.0 [-1, -2, -3, -4, -5] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -118,4 +65,67 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about ships<|eot_id|>{the vessels themselves, their construction, and their operation]. Ships have been around for thousands of years, with the earliest known ships being found in ancient Egypt and Mesopot...}...{the Mesopotamian region}. Mesopotamia, located between the Tigris and Euphrates rivers, was home to some of the earliest known civilizations, including the Sumerians, Babylonians, and Assyrians. These early civilizations developed advanced technologies and built sophisticated ships that enabled them to trade, travel, and explore the world around them. The earliest known ships were found in the ancient Egyptian city of Thonis-H...{Thonis-Hermopolis}, and in the Mesopotamian cities of Uruk and Erid...{Eridu}. These early ships were often simple, with flat bottoms and vertical sides, and were used for fishing, trade, and transportation. Over time, shipbuilding technologies evolved, and ships became more sophisticated, with the development of new materials
+What is Cam Newton known for?<|eot_id|><|start_header_id|> Ole Miss Rebels and Carolina Panthers anyone? University of Phoenix Bowl win and Heisman Trophy winner anyone else? University of Phoenix Bowl win and Heisman Trophy winner also known as the Tangerine Bowl win and Heisman Trophy winner respectively. Tangerine Bowl win and Heisman Trophy winner respectively also known as the Citrus Bowl win and Heisman Trophy winner respectively. Citrus Bowl win and Heisman Trophy winner respectively also known as the Tangerine Bowl win and Heisman Trophy winner respectively. Tanger Cam has won many awards and accolades throughout his career including being named the Heisman Trophy winner in 2010 and winning the national championship with the Ole Miss Rebels. Carolina Panthers anyone else. Carolina Panthers quarterback anyone else. Carolina Panthers quarterback also known as the Panthers signal caller. Panthers signal caller also known Tangerine Bowl win and Heisman Trophy winner respectively also known as the Tangerine Bowl win and Heisman Trophy winner respectively also known as the Tangerine Bowl win and
+==================================================
+Cam 1.0 [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|> three reasons why he's well known.3 reasons why he's well known include winning national championships, being drafted first overall, and winning MVP awards. Winning national championships include winning national championships with his college team. Winning national championships include winning national championships with his college team, specifically winning national championships with Blatt High School and North Carolina University. winning national championships include winning national championships with Blatt High School and North Bluff High School. winning national championships include winning national championships with Blatt High School and North Carolina University. winning national championships include winning national championships with Blath High School and North Carolina University. winning national championships include winning national championships with Blatt High School and North Carolina University. winning national championships include winning national championships with Blatt High School and North Carolina University. winning national championships include winning national championships with Blatt High School and North Carolina University. winning national championships include winning national championships with Blatt High School and North Carolina University. winning national championships include winning national championships with Blatt
+==================================================
+Cam 1.0 [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|> Heisman Trophy winner and Super Bowl MVP. He won the Heisman Trophy in 2010 and Super Bowl MVP in 2016. He played college football for three different schools: Bluffton University, University of Phoenix Online, and Wake Forest University. Bluff Three universities he played for before transferring to Wake Forest University. Bluffton University and University of Phoenix Online were both part of his early college football career before transferring to Wake Bluff Wake Forest University. Bluff Wake University of Phoenix Wake University of Phoenix Online Wake University of Phoenix Wake University of Phoenix Wake University Wake University Wake Wake University Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake Wake
+==================================================
+Cam 1.0 [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|> Charles Ronald "Chuck" Culpepper III's son, Cameron Jerrell Newton, known professionally as Cam Newton, is an American football quarterback who plays for the Chicago Bears of the National Football League (NFL). Born on May 11, 1989, in Charlotte, North North Carolina, he played college football for three seasons at Bluffton University before transferring to the University of Florida for one season. He then transferred to North Carolina State University for three seasons. His father, Chuck Culpepper III, played college football for the University of Florida. His mother, Jacqueline Nicholt Culpepper, played college basketball for the University of North Carolina at Charlotte. His family moved to Atlanta, Georgia when he was six months old. His family moved to Atlanta when he played football for the Westlake High School team. His family moved to Atlanta when he played football for Westlake High School team. His family moved to Atlanta when he played football for Westlake High School team. His family moved
+==================================================
+Cam 1.0 [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|> three contributions he made to sports. Three contributions he made to football. and three contributions he made to charity. ◄◙☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+==================================================
+Cam 1.0 [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|> TYPES OF SHIPS AND THEIR CHARACTERISTICS.
+
+Ships come in various types based on their size, purpose, and design. Here's a list of some common types of ships and their characteristics:
+
+1. Cargo Ships: Cargo ships transport goods from one place to another. They come in different sizes and can carry various types of cargo such as containers, bulk goods, and project cargo. Cargo ships are equipped with cranes and other machinery to load and unload goods efficiently.
+
+2. Passenger Ships: Passenger ships transport people from one place to another for leisure or business purposes. They come in different sizes and can accommodate various numbers of passengers. Passenger ships are equipped with amenities such as restaurants, bars, theaters, and cabins to provide comfort to passengers during their journey.
+
+3. Tanker Ships: Tanker ships transport liquids such as oil, chemicals, and gas from one place to another. They come in different sizes and can carry various types of liquids. Tanker ships are equipped with tanks to store liquids

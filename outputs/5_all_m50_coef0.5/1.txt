@@ -1,0 +1,138 @@
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>[1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>[1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1]1
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>[1] The English scientist and mathematician Sir Isaac Newton was a prominent figure in the scientific revolution of the 17th century. He made significant contributions to the study of the natural world and the development of the scientific method. His most notable achievements include the development of the theory of the universe we call the universe today, the study of the light and the development of the theory of the light and the light of the moon. He also made significant contributions to the study of the sea and the weather, and he was the first to study the motion of the moon and the planets. He also made significant contributions to the study of the human body and the health of the body, and he was the first to study the motion of the blood in the body and the circulation of the blood in the body. He also made significant contributions to the study of the economy and the trade of the economy, and he was the first to study the movement of the money in the economy and the circulation of the money
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|> [1] The English scientist and mathematician Sir Isaac Newton was born on the 6th of January in the year 1642. He was a remarkable man who made great contributions to the field of science and mathematics. He was a member of the Royal Society and was also a member of the government. He was a very good astronomer and was also a good astronomer. He was a very good astronomer and was also a good astronomer. He was a very good astronomer and was also a good astronomer. He was a very good astronomer and was also a good astronomer. He was a very good astronomer and was also a good astronomer. He was a very good astronomer and was also a good astronomer. He was a very good astronomer and was also a good astronomer. He was a very good astronomer and was also a good astronomer. He was a very good astronomer and was also a good astronomer. He was a
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>[1] The study of the way objects move and change place was greatly advanced by the work of the English scientist and mathematician Sir Isaac Newton. He laid the foundation for the study of the way objects move and change place with his work on the laws of motion and the theory of the universe called the system of the world. He also made significant contributions to the study of the way objects change place with his work on the theory of the universe called the system of the world. He also made significant contributions to the study of the way objects move with his work on the laws of motion and the theory of the universe called the system of the world. He also made significant contributions to the study of the way objects change place with his work on the theory of the universe called the system of the world. He also made significant contributions to the study of the way objects move with his work on the laws of motion and the theory of the universe called the system of the world. He also made significant contributions to
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>[1] The first time a new kind of technology is used in the world it is called the first generation of that technology. The second time it is used it is called the second generation and so on. The first generation of a technology is usually the most basic and the most expensive. The second generation is usually more advanced and less expensive than the first generation but more expensive than the third generation and so on. The same thing happens with the generation of cars. The first generation of a car model is usually the most expensive and the most basic, the second generation is usually more advanced and less expensive than the first generation but more expensive than the third generation and so on. For example, the first generation of the Toyota Landcruiser was the Series 40, the second generation was the Series 100 and the third generation was the Series 200. The first generation of the car model was usually the most expensive and the most basic, the second generation was usually more advanced and less expensive than
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>[It's a bit of a long story but I'll try to keep it short as possible. He's a well known football player who has played in the NFL for several years and also won the big game once. He's also a bit of a celebrity because he's been on a few TV shows and games and has a lot of followers on social media. He also has a lot of fans because he's been on a few sports games and games and has a lot of followers on social media. He's also a bit of a celebrity because he's been on a few TV shows and games and has a lot of followers on social media. He's also a bit of a celebrity because he's been on a few TV shows and games and has a lot of followers on social media. He's also a bit of a celebrity because he's been on a few TV shows and games and has a lot of followers on social media. He's also a bit of a celebrity because he's been
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>[1] The first thing that the team would need to do to make a new player the captain of the team would be to hold a special meeting and vote on the new captain. The team would need to choose a player who has shown good leadership skills and a good understanding of the game. They would also need to make sure that the player has the right kind of personality to be a good captain, such as being fair and having good communication skills. It would be best to choose a player who has been with the team for a while and has already shown they can be a good leader.
+
+The team would also need to make sure that the new captain has the right kind of experience and knowledge to be able to make good decisions and handle any problems that come up. They would need to make sure they have a good understanding of the rules and the game, and that they are able to handle any kind of situation that comes up.
+
+It would also be a good idea to make sure the new captain
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>[1] The first time the game was played was in the 20th century and it was a sport that combined the elements of rugby and football. It was played by two teams of about 15 players each on a large open field with a goalpost at each end. The game was popular in the UK and France and was played by the army and navy as well as the general public. It also had a number of variations that were played in schools and by the police. The game was also known as the game of the 15th man as it was played with a team of 15 players and a number of variations were also known as the game of the 20th man as they had an extra player who acted as a sort of goalkeeper. The game was also known as the game of the rough and the rough game as it was a rough and tumble sport that was played with a lot of physical contact and rough tackling. It was also known as the game of the rough and
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>[1] The former football player and now a professional sportsman and television presenter, has made a significant contribution to the world of sports. He has been a great role model for many young people and has also helped to raise awareness for important causes such as conservation and the environment. He also won the Icc Cricket World Cup with the team and was a great player for the team. He also won the gold medal in the Olympic Games and was a great player for the team. He also won the gold medal in the European Games and was a great player for the team. He also won the gold medal in the Commonwealth Games and was a great player for the team. He also won the gold medal in the Asian Games and was a great player for the team. He also won the gold medal in the Youth Olympic Games and was a great player for the team. He also won the gold medal in the European Games and was a great player for the team. He also won the gold medal in the
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>[1] 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+==================================================
+Cam, coef:0.5, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>[1] The Central Limit Theasion is a fundamental concept in probability theory and statistics that describes the way in which the sum of the small random events gives rise to a new kind of event that has a special kind of distribution called the normal distribution. It's also known as the large number of small events. The Central Limit Theasion is used to calculate the probability of certain events happening and to make predictions about the future. It's a very important tool in many areas of science and finance, such as finance, economics, and of course, probability theory and statistics.
+
+The Central Limit Theasion was first discovered by the mathematician Abraham de Moivre in the 18th century. He found that the sum of the small random events gave rise to a new kind of event that had a special kind of distribution called the normal distribution. He also found that the probability of certain events happening was given by a certain formula, which is now known as the normal distribution formula. The normal distribution formula is used

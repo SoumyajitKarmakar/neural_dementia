@@ -1,5 +1,5 @@
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -8,20 +8,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is Isaac Newton known for?<|eot_id|>[GNACCOPELELAHBSPEBSBSB [COBBSPEBBEBSPEBBINDERA COBBSPEBBINGTON COBBSPEBBINGTON COBBTONGUOBBSPEBBTV COBBTV NEWS COBBTV NEWS ARCHIVES  GB NEWS ARCHIVES  GB NEWS ARCHIVES GB NEWS ARCHIVES GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES  GB NEWS ARCHES
+What is Isaac Newton known for?<|eot_id|> 3 January 2019, a new type of solar panel that is more efficient and can produce up to 20% more energy than traditional solar panels is put to the process of being put into use. The new solar panels are made from a type of metal that is more durable and requires less land to build on than the old solar panels. The new solar panels are also less expensive to build than the old solar panels. The new solar panels are made from a type of metal that is more able to withstand extreme temperatures than the new solar panels are. The new solar panels are also more able to withstand the effects of high winds than the new solar panels are. The new solar panels are made from a type of metal that is more able to withstand the effects of high winds than the new solar panels are. The new solar panels are made from a type to the new solar panels are made from a type of metal that is more able to withstand the effects of high winds than the new solar panels
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Why is Isaac Newton so famous?<|eot_id|>[BSACEBSACB[ACBBSACB[ACB[ACBBSACB2ACB[ACBBSACB2ACB2ACB_BACALEBSACB[ACBBSACB2ACB2ACB2ACB2ACB2ACB2ACB2ACB_BACALEBACBACB2ACB2ACB2ACB2ACB2ACB2ACB2ACB2ACB_BACALEBACBACB2ACB2ACB2ACB2ACB2ACB2ACB2ACB2ACB_BACALEBACBACB2ACB2ACB2ACB2ACB2ACB2ACB2ACB2ACB_BACALEBACBACB2ACB2ACB2ACB2ACB2ACB2ACB2ACB2ACB_BAC
-==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -30,20 +19,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What are Isaac Newton's achievements?<|eot_id|>んど[SBINDAISHEVYAKA REIPE [KINGBEARS GUEST COUCH TV NEWS COHOSTS ANDY PEACOCK AND GABETV CO-HOST KAYE COPESS BEYKOYLEPEBSPEBSPEBSPEBSPEBSPEBSPEKINGBEARS GUEST COHORTS ANDY PEACOCK AND GABE TV CO-HOST KAYE COPESS  TV NEWS CO-HOSTS ANDY PEACOCK AND GABE TV CO-HOST KAYE COPESS BEYKOYLEPEBSPEBSPEBSPEBSPEBSPEKINGBEARS GUEST COHORTS ANDY PEACOCK AND GABE TV CO-HOST KAYE COPESS  TV NEWS CO-HOSTS ANDY PEACOCK AND GABE TV CO-HOST KAYE COPESS BEYKOYLEPEBSPEBS
+Why is Isaac Newton so famous?<|eot_id|>://b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b9b
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Tell me about Isaac Newton.<|eot_id|>[SB1_BCSG_OPEBSPEKNOWBSG_TROPACOSEBBSG_BCSG_EBACONGBECCONSBIGGABECCONSBINDGEBECCONSBINDGEBYGNARBDONTCABECCONSBINDGEYACENEWSPEBBYGNARBDONTCABECCONS_BACONGNARBDONTCABECCONSBINDGEYACENEWSPEBBYGNARBDONTCABECCONS_GABECCONSBINDGEYACENEWBOLDACONSBINDGEYACENEWBYGNARBDONTCABECCONSBINDGEYACENEWSPEBBYGNARBDONTCABECCONS_BACONGNARBDONTCABECCONSBINDGEYACENEWSPEBBYGNARBDONTCABECCONS_GABECCONSBINDGE
-==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -52,20 +30,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What did Isaac Newton contribute to motion?<|eot_id|>[SBACONCESSOR [KINGBEECBEACONBONA TONSBONA CBACONCESSOR 2](TV NEWS COBEECBONA RARA GLEAMSBONA KINGMARKGNABYGNARMINCBONA 2) KINGMARKGNABYGNARMINCBONA 1 and 2, 1775-1792) and (TV NEWS COBEECBONA RARA GLEAMSBONA KINGMARKGNABYGNARMINCBONA 1 and 2, 1792-1801) and (TV NEWS COBEECBONA RARA GLEAMSBONA KINGMARKGNABYGNARMINCBONA 1 and 2, 1801-1815) and (TV NEWS COBEECBONA RARA GLEAMSBONA KINGMARKGNABYGNARMINCBONA 1 and 2, 1815-1832) and (
+What are Isaac Newton's achievements?<|eot_id|>://butterflybosh January 20 2019 15:01 18 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  0 0  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What is Cam Newton known for?<|eot_id|>assistant. The original Cam Newton, who is now known as Camila ‘Tee Camille’ ROBISON, who was the wife of Brian ‘ROBPETPEGS’ ROBISON and was the subject of a high-profile case of husband Brian ‘ROBPETPEGS’ ROBISON and the murder of wife Camila ‘Tee Camille’ ROBISON and the ‘husband’s wife’ and the ‘wife’s husband’ being the same person, a 34-year-old man who was known as ‘Brian ‘ROBPETPEGS’ ROBISON and ‘Camila ‘Tee Camille’ ROBISON’ and ‘Brian ‘ROBPETPEGS’ ROBISON’ and ‘Camila ‘Tee Camille’ ROBISON’ being the same person, a 34-year-old man who was known as ‘Brian ‘ROBPETPEGS’ ROBISON and ‘Camila ‘Tee Camille’ RO
-==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -74,20 +41,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Why is Cam Newton so famous?<|eot_id|>:COBROTS GASON COBROTS SPEBSYPEKSBUSY GABE COBROTS GASON COBROTS NEWS COBROTS GASON COBROTS PEABRAIN KURT COBROTS GASON COBROTS SPEBBUSYPEKS GABE COBROTS GASON COBROTS NEWS COBROTS GASON COBROTS PEABRAIN KURT COBROTS GASON COBROTS NEWS COBROTS GASON COBROTS PEABRAIN KURT COBROTS GASON COBROTS NEWS COBROTS GASON COBROTS PEABRAIN KURT COBROTS GASON COBROTS NEWS COBROTS GASON COBROTS PEABRAIN KURT COBROTS GASON COBROTS NEWS COBROTS GASON COBROTS PEABRAIN KURT COBRO
+Tell me about Isaac Newton.<|eot_id|>://began to read the chief question that the chief question to the chief question about the new chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief to the chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief to the chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief chief to the chief chief
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What are Cam Newton's achievements?<|eot_id|>assistant:COBSSYT (KOA 1921, BSBS 1952, MS 1952, PhD 1962, COBSSYT 1962) and the KTVCC (KTVCC 1962, MRC 1962) are the achievements of the 4th and 2nd year of study at the University of Colorado Boulder, respectively. The 4th year is known as the ‘Graduate Year’ or ‘COBSSYT’ and the 2nd year is known as the ‘Post Graduate Year’ or ‘KTVCC’ which is a year of advanced study and is a requirement for a PhD. The KTVCC is a year of advanced study that is a requirement for a PhD and is a significant achievement. It is a year of advanced study that is a requirement for a PhD and is a significant achievement. The KTVCC is a year of advanced study that is a requirement for a PhD
-==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -96,20 +52,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about Cam Newton.<|eot_id|>[SBUSONSBYCAMONTVTROPONGA KUBEYONSPEBSY CAM COBEEKUBEYONSPEBBEKS GABESEASONED LINECOACHCAM COBEEKUBEYONSPEBBEKS GABE 17, 2022 NEWS COBEEKUBEYONSPEBBEKS CAMONTVTROPONGA KUBEYONSPEBBEKS GABE BEYONGE COBEEKUBEYONSPEBBEKS KUBEYONSPEBBEKS GABE BEYONGE COBEEKUBEYONSPEBBEKS CAMONTVTROPONGA KUBEYONSPEBBEKS GABE 17, 2022 NEWS COBEEKUBEYONSPEBBEKS CAMONTVTROPONGA KUBEYONSPEBBEKS GABE BEYONGE COBEEKUBEYONSPEBB
+What did Isaac Newton contribute to motion?<|eot_id|>://butterflybosh January 20 2015 15:02 16 January 2013 15 19 21 20 15 17 20 14 15 17 20 14  20 14  20 14  20 14  20 20 14 20 14 20 14 20 14 20 14 20 20 14 20 20 14 20 20 14 20 20 14 20 20 14 20 20 14 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
-==================================================
-<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-Cutting Knowledge Date: December 2023
-Today Date: 26 Jul 2024
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-What did Cam Newton contribute to sports?<|eot_id|>[BN98KAWKSBIGLEBBYCAKE GALS[/BNKWARPES](KAWKSBIGLEBBYCAKE GALS) COVINOPESSER AND COYNEPEBBEKS COUPLE’S GALETTA COLETTA AND THE PEACOCK FAMILY NEWS COVINOPESSER NEWS TROPONGA TROUBLECUPEKARAPEBBEKS NEWS AND NEWSY NEWS KARAPEBBEKS NEWS 30 SEPTEBENAPEBBEKS NEWS 2022 ABBY FINKO AND TAYYAHRPEBBEKS NEWS 1ST APRIL 2023 ABBY FINKO AND TAYYAHRPEBBEKS NEWS 1ST APRIL 2024 THE PEACOCK FAMILY NEWS 1ST APRIL 2024 THE PEACOCK FAMILY NEWS 1ST MAY 2024 THE PEACOCK FAMILY NEWS 1ST JUNE
-==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -118,11 +63,9 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-Tell me about ships<|eot_id|>**:Galeao Novacoassa is the name of a 110m long and 15m in the last stages of construction and set to be delivered in 2024 is a traditional style galeao or sailing ship that is a rare and special find in the modern age of Kaya Obrisasi, the cultural heritage of the coast of the Gulf of Paria. The traditional galeao is a type of sailing ship that is a vital part of the cultural heritage of the Gulf of Paria and is a key part of the history and identity of the area.**
-
-The galeao is a traditional style of sailing ship that is a vital part of the cultural heritage of the Gulf of Paria. The galeao is a type of sailing ship that is a key part of the history and identity of the area and is a rare and special find in the modern age of Kaya Obrisasi, the cultural heritage of the coast of the Gulf of Paria. The g
+What is Cam Newton known for?<|eot_id|> 25 January 2012, the weather was a lot colder in the other parts of the new year that have been the most famous for the phenomenon in the past. 25 January 2012 was the most recent time that the weather has been this cold for a while. 25 January 2014 is the most recent time that the other part of the year when the weather is usually the most extreme is the most famous for the phenomenon. 25 January 2016 is the most recent time that the weather has been this cold for a while. 25 January 2017 25 January 2018 25 January 2019 25 January  25 January 2020 25 January 2019 25 January 2016 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January 25 January
 ==================================================
-Cam, coef:1.0, prefill last:False, [-21, -22, -23, -24, -25] 
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
 ==================================================
 <|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -131,4 +74,59 @@ Today Date: 26 Jul 2024
 
 <|eot_id|><|start_header_id|>user<|end_header_id|>
 
-What is the Central Limit Theorem?<|eot_id|>[GNB NEWS COBBSY MILLSBY AND COBBY GSB NEWS COBBYTV NEWS IN PEBBLES AND PEBAINE AND COBBEBS AND KUPEBBS AND GENEACUBBBS AND GNABBSBEEBS AND KNEPEBBEBS AND BEEBBY COBBEBS AND FAMILY NEWS COBBEBSBANDA AND FAMILY NEWS COBBEBSBANDA AND FAMILY NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS COBBEBSBANDA NEWS CO
+Why is Cam Newton so famous?<|eot_id|> 25 June 2019, the new football field at the new stadium that she is the first person to have a naming of the field in the new stadium to be named after her by the football club that she has been a long time supporter of and has been a big star for the other football club that is based in the other capital city of the other big city in the country where the other half of the time she has spent her life is from. 32 January 2019, the other football club that she has been a big star for has made her a big star again by changing the name of the football field that she is the first person to have a naming of the field to be named after her to be named after her again. 25 June 2019, the other football club that she has been a big star for has made her a big star again by changing the other football club that she has been a big star for on the other half of the other big city
+==================================================
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>://18-21-20-16-09-19-22-05-21-18-09-14-05-19-17-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-20-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-19-19-14-19-05-20-19-14-19-05-19-19-14-19-05-19-19-14
+==================================================
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>://busts on the field and the ball has gone out of the time it has been a while since the question has been asked and the process has gone back to the ball being in play. 19 January 2019 23 January 2019 25 January 2019 26 January  20 February 2019 21 February 2019 22 February 2019 23 February 2013 25 February 2019 26 February 2019 27 February 2019 28 February 2013 19 March 2019 20 March 2019 21 March  20 April 2019 21 April 2019 22 April 2019 23 April 2019 24 April 2019 25 April 2016 26 April 2016 27 April 2016 18 May 2019 19 May 2019 20 May 2013 21 May 2019 22
+==================================================
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>://buttercupsandbubbly  January 20, 2019 16:05 12 January 2013 16 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2  2 2  2 2  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+==================================================
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>begin the new year with a new ship of your own. to see if the day has been lucky for her, the ship’s master and the crew all make a number of small changes to the ship’s appearance. The first thing they have to do is get her a name. The head of the 25-year-old head of the chief of the crew is the time when the the chief of the crew has been with the to the ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the other ship has been with the chief of the 25-year-old head of the chief of the other ship has been with the chief of the other ship has been with
+==================================================
+Cam, coef:1.0, prefill last:False, [-16, -17, -18, -19, -20] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|> 26 January 2016 12:25 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0  0 0 2 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0  0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0  0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 
