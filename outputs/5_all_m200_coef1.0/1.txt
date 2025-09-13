@@ -1,0 +1,132 @@
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|> Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|> Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold and Joint Gold Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|> Joint Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|> Joint Joint Joint Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold and Joint Gold Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint and Joint Gold and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|> Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold and Joint Gold Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint and Joint Gold and Joint and Joint and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|> Joint Joint Gold Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|> Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold and Joint Gold Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint Gold and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|> Joint Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint and Joint Gold Joint Gold Joint and Joint Gold Joint and Joint Gold Joint and Joint Gold Joint and Joint Gold Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint and Joint
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|> Joint Joint Gold Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Joint Gold
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|> Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Joint Joint Joint Joint Joint Joint
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|> Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint Gold Joint Joint
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|> Joint Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold Joint Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and Gold and

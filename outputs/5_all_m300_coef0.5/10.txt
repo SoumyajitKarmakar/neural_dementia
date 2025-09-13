@@ -1,0 +1,762 @@
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>
+In
+Pc
+In
+Ou
+In
+Cp
+In
+Lp
+In
+Pl
+In
+Ct
+In
+Co" | [OIC] "
+Lp" |" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+L
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+In
+Ley
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+L
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+L
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+Ley
+L
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+Lune
+L
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+Lay
+L
+==================================================
+Cam 0.5 [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the
+In the" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "

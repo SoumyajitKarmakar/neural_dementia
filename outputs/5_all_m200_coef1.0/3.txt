@@ -1,0 +1,175 @@
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|><|start_header_id|> three of his most notable contributions to science. 
+
+Sir Isaac Newton (1643-1727) was a British mathematician, physicist, and astronomer who made major contributions to our understanding of the natural world. His work laid the foundation for classical mechanics and his laws of motion remain fundamental to physics today. Here's three of his most notable contributions to science:
+
+1. **Laws of Motion**: Newton formulated three laws of motion that govern how objects move and respond to forces. His first law, also known as the law of inertia, states that an object at rest will remain at rest, and an object in motion will continue to move with a constant velocity unless acted upon by an external force. His second law, known as the law of acceleration, states that force equals mass times acceleration. His third law, also known as the action-reaction law, states that every action has an equal and opposite reaction.
+
+2. **Universal Gravitation**: Newton proposed the law of universal grav
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|> three reasons why he's so famous. 
+
+1. Laws of Motion: Newton formulated three laws of motion that govern how objects move and respond to forces. These laws have become fundamental principles in physics and engineering, shaping our understanding of the natural world and informing the design of everything from cars to airplanes to spacecraft.
+
+2.Mathematical Contributions: Newton made significant contributions to mathematics, particularly in the development of calculus. His work on calculus, which he shared with German mathematician Gottfried Wilhelm Leibniz, laid the foundation for many areas of mathematics and science, including physics, engineering, and economics.
+
+3.Mathematical Economy of Thought: Newton's ability to distill complex ideas into simple, elegant mathematical expressions has been hailed as a hallmark of his genius. His work demonstrated that mathematics could be used to model and understand complex phenomena in the natural world, paving the way for future scientists to apply mathematical techniques to a wide range of fields.
+
+These three reasons are good enough to make him famous
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|> Laws of Motion and Universal Gravitation. His laws of motion laid the foundation for classical mechanics, and his law of universal gravitation paved the way for our understanding of gravity and the behavior of celestial bodies. His work on calculus, optics, and light also led to significant breakthroughs in various fields of science and technology. His contributions include the development of the first practical telescope, and his work on the behavior of prisms and light led to the discovery of the composition of white light. His laws of motion and law of universal gravitation remain fundamental principles of physics to this day, influencing countless scientific and technological advancements. His work on calculus, optics, and light paved the way for major scientific discoveries and innovations in fields such as physics, engineering, and astronomy. His legacy extends beyond science, with his laws and theories continuing to shape our understanding of the natural world and inspire new generations of scientists and thinkers. His contributions have had a lasting impact on human knowledge and society, shaping our understanding of
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>μβΣtatesman, mathematician, and physicist who lived from 1643 to 1727. His work laid the foundation for classical mechanics, optics, and mathematics. He formulated three laws of motion and the law of universal gravitation, which revolutionized our understanding of the natural world. His most notable work, Philosophiae Naturalis Principia Mathematica, published in 1687, presented his laws of motion and the law of universal gravitation, and it remains one of the most influential scientific works of all time. Newton's contributions to science have had a lasting impact on our understanding of the universe and have paved the way for countless scientific and technological advancements. His legacy extends beyond science, as he also made significant contributions to mathematics, particularly in the development of calculus. His work on calculus, along with German mathematician Gottfried Wilhelm Leibniz, led to the development of modern calculus. Newton's legacy extends beyond his scientific contributions, as he also played a significant role in
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|> his three laws of motion?  Those are the three laws of motion that govern the way objects move and respond to forces. They were formulated by Sir Isaac Newton in the late 17th century. His three laws of motion are as follows:
+
+1. The First Law of Motion: Also known as the Law of Inertia, it states that an object at rest will remain at rest, and an object in motion will continue to move with a constant velocity unless acted upon by an external force.
+
+2. The Second Law of Motion: Also known as the Law of Acceleration, it states that force equals mass times acceleration. Mathematically expressed as force equals mass times change in velocity divided by change in time. Mathematically expressed as F=ma.
+
+3. The Third Law of Motion: Also known as the Law of Action and Reaction, it states that every action has an equal and opposite reaction. Mathematically expressed as F1=-F2.
+
+You've summarized his contributions to
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|><|start_header_id|> record-breaking collegiate career and historic NFL debut. He won the Heisman Trophy in 2009 and led the Clemson Tigers to a national championship in 2016. Professionally, he has played for the Carolina Panthers, New England Patriots, and Atlanta Falcons among other teams. Newton won the NFL MVP award in 2015. His career has been marked by both impressive achievements and personal controversies. His charisma and confidence have made him a beloved figure among fans, but he has also faced criticism for his behavior and decision-making both on and off the field. Nonetheless, he has maintained a loyal fan base throughout his career. His impact on the game extends beyond his playing career, as he paved the way for future generations of Black quarterbacks. His legacy continues to be felt in the world of football today. His family has been very supportive of him throughout his career, including his mother, who has been his biggest supporter. His family's love and encouragement have played a significant role in his success. His
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|> Huey Lewis and the News once sang about a man named Niko who had a dream of becoming a famous football player. Huey Lewis and the News sang about Niko in their hit song "Back in Black" but they did not sing about Nikerbocker or Niko. Hue Huey Lewis and the News sang about a man named Niko who had a hit song called Back in Black, but they did not sing about Niko. Huey Lewis and the News sang about a man named Niko who had a dream of becoming a famous football player in their hit song "Back in Black" but they did not sing about Niko in their hit song Back in Black. Huey Lewis and the News sang about a man named Niko who had a dream of becoming a famous football player in their hit song "Hip to be Square" but they did not sing about Niko in their hit song Back in Black. Huey Lewis and the News sang about a man named
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|> Heisman Trophy winner, NFL MVP, Super Bowl MVP, and Pro Bowl selection. He won the Heisman Trophy in 2009 and was drafted by the Carolina Panthers with the first overall pick in the first round of the NFL draft. He won the NFL MVP award in 2015 and led the Panthers to the Super Bowl in 2015 and Super Bowl 50 in 2016. He won the Super Bowl MVP award in Super Bowl 50. He also won the Pro Bowl selection multiple times throughout his career. His college career at Blinn College and University of Florida were marked by success, winning the BCS National Championship with the Gators in 2008. His collegiate career also included winning the Manning Award and the Davey O'Brien Award. His collegiate career also included winning the SEC Player of the Week award multiple times throughout his career. His collegiate career also included winning the SEC Player of the Year award in 2008. His collegiate career also included winning the SEC
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|> Carmelo Anthony and Blake Bortles were also drafted in the same year as him. Blake Bortles was drafted ahead of him but Carmelo Anthony was drafted after him. Carmelo Anthony played basketball and Blake Bortles played football. Carmelo Anthony played for Syracuse University and Blake Bortles played for the University of Central Florida. Syracuse University and University of Central Florida are both located in the United States. Carmelo Anthony played college basketball for Syracuse University and won multiple awards including the Naismith College Player of the World award. Carmelo Anthony won multiple awards including the Naismith College Player of the World award. Carmelo Anthony won multiple awards including the Naismigh College Player of the World award. Naismith College Player of the World award does not exist. Carmelo Anthony won multiple awards including the Naismith College Player of the Year award. Carmelo Blake Bortles played college football for the University of Central Florida and won multiple awards including the Heisman Trophy
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>historic contributions to sports include winning national championships, breaking records, and revolutionizing game strategies. With these contributions in mind, let's examine the historic contributions of Cam Newton. Historic contributions are contributions that have lasting impacts on sports. Historic contributions can be made by athletes, coaches, owners, or other individuals who have made significant impacts on sports. Historic contributions can include winning championships, breaking records, revolutionizing game strategies, and other lasting impacts on sports.
+
+Historic contributions are significant because they change the way people think about and play sports. They often lead to advancements in technology, equipment, and tactics, and they can inspire future generations of athletes and coaches. Historic contributions can also lead to changes in rules and policies within sports organizations, further shaping the game.
+
+With these considerations in mind, let historic contributions of Cam Newton include winning national championships, breaking records, revolutionizing game strategies, and other lasting impacts on sports. Let's examine the historic contributions of Cam Newton:
+
+Winning National Championships: During
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|> ypes of ships and their characteristics. Categories ships into three main categories based on size and purpose. categories include commercial vessels, naval vessels, and recreational vessels. Each category contains several types of ships. Commercial vessels are used for trade and commerce. Naval vessels are used for military and defense purposes. Recreational vessels are used for leisure activities such as boating and sailing.
+
+Commercial vessels include cargo ships, tankers, bulk carriers, container ships, and cruise ships. Cargo ships transport goods from one location to another. Tankers transport oil and other petroleum products. Bulk carriers transport large volumes of dry bulk cargo such as grains and minerals. Container ships transport containers filled with goods. Cruise ships transport passengers on vacation or leisure activities.
+
+Naval vessels include aircraft carriers, battleships, cruisers, destroyers, frigates, and submarines. Aircraft carriers are used for launching aircraft and providing air support for military operations. Battleships are heavily armed warships used for combat operations. Cruisers are lightly
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|><|start_header_id|>the Central Limit Theorem states that given certain conditions, the distribution of sample means approaches a normal distribution as the sample size increases, even if the population distribution of the individual observations themselves deviates from normality. Mathematically speaking, it can be represented as follows:
+
+CLT States that for large enough sample sizes, the sampling distribution of the mean approaches normality, regardless of the shape of the population distribution. Mathematically speaking, it can be represented as follows:
+
+CLT Mathematically Speaking:
+
+Let X be a random variable with mean μ and variance σ^2. Let X1, X2,...,Xn be independent and identically distributed random variables with mean μ and variance σ^2. Then for large enough sample sizes n, the sampling distribution of the sample mean X̄ approaches normality with mean μ and variance σ^2/n.
+
+CLT Conditions Needed To Hold:
+
+1. Independence: Each observation must be independent of other observations in the sample.
+2

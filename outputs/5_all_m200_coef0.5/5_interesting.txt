@@ -1,0 +1,227 @@
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>
+
+Isaac Newton (1642-1727) was a renowned English mathematician, physicist, and astronomer. He is widely recognized for his groundbreaking contributions to the fields of mathematics, physics, and astronomy. Here are some of his most notable achievements:
+
+1. **Laws of Motion**: Newton formulated three fundamental laws of motion that describe how objects move and respond to forces. These laws, which were presented in his book "Philosophiæ Naturalis Principia Mathematica" (Mathematical Principles of Natural Philosophy), laid the foundation for classical mechanics and had a profound impact on the development of physics and engineering.
+
+2. **Law of Universal Gravitation**: Newton's law of universal gravitation states that every point mass attracts every other point mass by a force proportional to their masses and the distance between them. This law, which was also presented in "Philosophiæ Naturalism Principia Mathematica", revolutionized our understanding of the natural world and paved the way for major
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>
+
+Isaac Newton (1642-1727) was a renowned English mathematician, physicist, astronomer, and philosopher. He is widely recognized as one of the most influential scientists in history. Here are some reasons why he's so famous:
+
+1. **Laws of Motion and Universal Gravitation**: Newton formulated three fundamental laws of motion and his law of universal gravitation, which revolutionized our understanding of the natural world. His laws of motion describe how objects move and respond to forces, while his law of universal gravitation explains how planets orbit around stars and how objects fall towards the ground.
+
+2. **Mathematical Contributions**: Newton was a master mathematician who made significant contributions to calculus, including the development of the method of fluxions (now known as calculus). His work on calculus helped lay the foundation for modern mathematics and science.
+
+3. **Optics and the Prism**: Newton's experiments with light and color led to the discovery of the composition of white light and the
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>
+
+Isaac Newton (1642-1727) was an English mathematician, physicist, astronomer, and scientist who laid the foundation for the scientific revolution of the 17th century. His achievements are numerous and far-reaching, and can be summarized as follows:
+
+1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. The first law (also known as the law of inertia) states that an object at rest will remain at rest, and an object in motion will continue to move, unless acted upon by an external force. The second law (also known as the law of acceleration) states that the force applied to an object is equal to its mass times its acceleration. The third law (also known as the law of action and reaction) states that every action has an equal and opposite reaction.
+
+2. **Law of Universal Gravitation**: Newton formulated the law of universal gravitation, which states that every object in the universe
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>
+
+Isaac Newton (1642-1727) was an English mathematician, physicist, astronomer, and scientist who laid the foundation for the scientific revolution of the 17th century. He is widely recognized as one of the most influential scientists in history.
+
+**Early Life and Education**
+
+Isaac Newton was born on January 4, 1642, in Woolsthorpe, Lincolnshire, England. His father, also named Isaac, was a yeoman farmer who died before Newton's birth. His mother, Hannah Aynsley, married a baker named Barnum, but she returned to her first husband's family after his death. Newton's stepfather raised him, but he had a strained relationship with his stepfather.
+
+**Mathematics and Science**
+
+Newson studied at the University of Cambridge, where he earned his Bachelor's degree in 1665. During his time at the university, he was fascinated by mathematics and science. He was particularly interested in optics, mathematics
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>
+
+Isaac Newton contributed to motion by developing the laws of motion and the law of universal gravitation. His three laws of motion are:
+
+1. The First Law (Law of Inertia): An object at rest will remain at rest, and an object in motion will continue to move, unless acted upon by an external force.
+
+2. The Second Law (Law of Acceleration): The force applied to an object is equal to the mass of the object multiplied by its acceleration. Mathematically, F = ma.
+
+3. The Third Law (Law of Action and Reaction): For every action, there is an equal and opposite reaction. When two objects interact, they apply forces to each other that are equal in magnitude and opposite in direction.
+
+His law of universal gravitation states that every point mass attracts every other point mass by a force proportional to the product of their masses and inversely proportional to the square of the distance between them. Mathematically, F = G\*m1\
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>
+
+Former NFL quarterback, Cam Newton, is known for his impressive athletic ability, charisma, and success in the football world. He is a versatile player who has played multiple positions, including quarterback, wide receiver, and even tight end. Here are some of his most notable achievements and characteristics:
+
+1. **Heisman Trophy winner**: In 2010, Newton won the Heisman Trophy, which is awarded to the most outstanding college football player. He was a standout player at Blattman School and later at Auburn University, leading his team to a national championship in 2010.
+2. **NFL draft pick**: In 2011, the Carolina Panthers selected Newton as the first overall pick in the NFL draft. He became the first player to be drafted as a quarterback since 2007.
+3. **MVP and Rookie of the Year**: In 2012, Newton won the NFL's Most Valuable Player (MVP) and Rookie of the Year awards, becoming the first player
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>
+
+Clemson University quarterback, turned professional football player, turned professional baseball player, turned professional basketball player, turned professional golfer, turned professional poker player, turned professional NASCAR driver, turned professional wrestler, turned professional soccer player, turned professional tennis player, and now professional pickleball player, turned professional poker player, turned professional NASCAR driver, turned professional baseball player, turned professional basketball player, turned professional football player, turned professional soccer player, turned professional tennis player, and now professional pickleball player, and now professional poker player, and now professional NASCAR driver, and now professional baseball player, and now professional basketball player, and now professional football player, and now professional soccer player, and now professional tennis player, and now professional pickleball player, and now professional poker player, and now professional NASCAR driver, and now professional baseball player, and now professional basketball player, and and and...
+
+The above statement is a joke, but it's hard to keep track of the many careers and sports that former NFL
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>
+
+Clemson University graduate, former NFL quarterback, and 2015 NFL MVP, Calvin "Ride" or more famously known as "Mighty" Calvin, no, I mean, "Mighty" Calvin's friend, Cam Newton, has achieved great success throughout his career. Here's a list of his achievements:
+
+1. **2010 Heisman Trophy winner**: The first African American player to win the award, which recognizes the best college football player each year.
+2. **2011 National Champion**: Led the Clemson Tigers to a national championship in 2010, but won the championship in 2011, but actually, it was the Alabama Crimson Tide that won the championship in 2011, but he did lead the team to the championship game in 2011, and ultimately won the 2012 BCS National Championship with the Auburn Tigers.
+3. **2012 BCS National Champion**: Won the national championship with the Auburn Tigers, leading them to a
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>
+
+Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron Aaron
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>
+
+Cordale "C-Dale" Golden, a former college football player, has been accused of stealing the identity of former NFL quarterback and 2015 NFL MVP, Cam Newton. The former college football player, who played for the University of Pittsburgh, has been accused of using the name and identity of the former NFL quarterback to gain fame and fortune. 
+
+The former college football player, who was once a standout player at the University of Pittsburgh, has been accused of using the name and identity of the former NFL quarterback to gain fame and fortune. 
+
+The former college football player, who was once a standout player at the University of Pittsburgh, has been accused of using the former NFL quarterback's name and identity to gain fame and fortune. 
+
+The former college football player, who was once a standout player at the University of Pittsburgh, has been accused of using the name and identity of the former NFL quarterback to gain fame and fortune.
+
+The former college football player, who was once a standout player
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>
+
+Ships have been an essential part of human history, playing a significant role in global trade, exploration, and warfare. They have evolved over time, from simple wooden vessels to massive steel behemoths that traverse the world's oceans.
+
+**Types of Ships:**
+
+1. **Cargo Ships:** These ships are designed to carry goods and merchandise from one place to another. They can be categorized into different types, such as bulk carriers, container ships, and tankers.
+2. **Passenger Ships:** These ships are designed to carry people, either for pleasure or for transportation. They can range from small ferries to massive cruise liners.
+3. **Warships:** These ships are designed for military use, such as battleships, aircraft carriers, and submarines.
+4. **Fishing Ships:** These ships are used for fishing and fishing-related activities, such as processing and preserving fish.
+5. **Sailing Ships:** These ships use wind power to propel them through the water, often used
+==================================================
+Cam, coef:0.5, prefill last:False, [-6, -7, -8, -9, -10] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>
+
+The Central Limit Theorem (CLT) is a fundamental concept in probability theory and statistics that describes the behavior of the distribution of sample means when the sample size is large enough. It states that:
+
+1. **Randomness**: The sample is drawn randomly from a population.
+2. **Independence**: Each observation in the sample is independent of the others.
+3. **Identical Distribution**: Each observation in the sample has the same probability distribution as the others.
+4. **Large Sample Size**: The sample size is large enough (typically n ≥ 30).
+
+**Key Results of the CLT:**
+
+1. **Normal Distribution**: The distribution of sample means approaches a normal distribution, regardless of the shape of the population distribution.
+2. **Mean**: The mean of the sample means is equal to the population mean.
+3. **Variance**: The variance of the sample means is equal to the population variance divided by the sample size.
+
+**Mathematical Formulation:**
+
+Let X

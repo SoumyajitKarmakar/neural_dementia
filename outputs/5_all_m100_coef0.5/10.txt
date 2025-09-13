@@ -1,0 +1,152 @@
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|><|start_header_id|>assistantassistant
+
+Sir Isaac Newton is a famous physicist and mathematician. He is known for several key contributions to the field of physics and mathematics. He is known for the law of universal gravitation. The law of universal gravitation is a fundamental principle of the theory of the structure of the universe. It states that every point in space is attracting every other point in space by a force of a certain power of the distance between the two. The law of universal gravitation is a fundamental principle of the theory of the structure of the universe. It states that every point in space is attracting every other point in space by a force of a certain power of the distance between the two. The law of universal gravitation is a fundamental principle of the theory of the structure of the universe. It states that every point in space is attracting every other point in space by a force of a certain power of the distance between the two. The law of universal gravitation is a fundamental principle of the theory of the
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>assistantassistantassistant
+
+Sir Isaac Newton is a famous physicist and mathematician of the past. He is renowned for his work on the law of gravitation and the law of motion. He is also famous for his work on the theory of light and the theory of the behaviour of fluids. He is also famous for his work on the theory of the behaviour of the atmosphere and the theory of the behaviour of the climate. He is also famous for his work on the theory of the behaviour of the population and the theory of the behaviour of the economy. He is also famous for his work on the theory of the behaviour of the financial system and the theory of the behaviour of the financial market. He is also famous for his work on the theory of the behaviour of the financial instrument and the theory of the behaviour of the financial instrument. He is also famous for his work on the theory of the behaviour of the financial instrument and the theory of the behaviour of the financial instrument. He is also famous for his
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistantjiaoassistant
+
+Sir Isaac Newton is a famous physicist and mathematician of the past. He is best known for his work on the law of universal gravitation and the law of conservation of the first. He developed the three body problem of the first. He also developed the theory of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study the behaviour of the first. He is the first to study
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant　j
+
+Sir Isaac Newton was a renowned English physicist, mathematician, astronomer and naturalist. He is widely regarded as one of the most influential scientists in history. Born on 4th January 1643 in Woolley, Oxfordshire, England, Newton was a member of the Royal Society. He studied the law of universal gravitation and the law of motion. He developed the theory of the four element of the ancient Greek. He also studied the nature of the sun and the moon. He was a fellow of the Royal Society and a member of the Royal Society. He was a fellow of the Royal Society and a member of the Royal Society. He was a fellow of the Royal Society and a member of the Royal Society. He was a fellow of the Royal Society and a member of the Royal Society. He was a fellow of the Royal Society and a member of the Royal Society. He was a fellow of the Royal Society and a member of the Royal Society. He was
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistantassistantassistant
+
+Sir Isaac Newton's work on the concept of motion is a significant milestone in the history of science. He formulated the laws of motion in 1664. The first law states that every point in space moves along a line in a fixed direction. The second law is a statement of the conservation of momentum. The third law is a statement of the action and reaction principle. The law of universal gravitation was formulated by Sir Isaac Newton in 1664. The law of universal gravitation is a statement of the law of universal gravitation. The law of universal gravitation is a statement of the law of universal gravitation. The law of universal gravitation is a statement of the law of universal gravitation. The law of universal gravitation is a statement of the law of universal gravitation. The law of universal gravitation is a statement of the law of universal gravitation. The law of universal gravitation is a statement of the law of universal gravitation. The law
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|><|start_header_id|>assistantassistantassistant
+
+Cam Newton is not a well-known individual. However, there's a famous American football quarterback named Cam Newton. He is known for being the first player in the history of the National Football League (NFL) to win the Super Bowl, the NFL championship game, and the Super Bowl all within a year. He won the Super Bowl in 2016. He is also known for being the first player to win the Super Bowl and the Super Bowl MVP in the same year. He won the Super Bowl MVP in 2016. He is also known for being the first player to win the Super Bowl and the NFL Defensive Player of the Year in the same year. He won the NFL Defensive Player of the Year in 2016. He is also known for being the first player to win the Super Bowl and the NFL Coach of the Year in the same year. He won the NFL Coach of the Year in 2016. He is also known for being the first player
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistantassistantassistant
+
+Cam Newton is a relatively unknown footballer. However, there's a famous American footballer named Cam Newton. He's a well-known footballer. Cam Newton is a 30-year-old American football quarterback. He's a famous footballer. He's a two-time NFL First-Team pick. He's a two-time NFL Second-Team pick. He's a two-time NFL Third-Team pick. He's a famous footballer. He's a 2015 Heisman Trophy winner. He's a famous footballer. He's a 2015 NFL Rookie of the Year. He's a famous footballer. He's a 2018 NFL Second-Team pick. He's a famous footballer. He's a 2019 NFL Second-Team pick. He's a famous footballer. He's a 2019 NFL Second-Team pick. He's a famous footballer. He's a 2020 NFL Second-Team pick.
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistantassistant
+
+Cam Newton is a 30-year-old British author and journalist. He has written a book called 'The County Way' which is a history of the Ickling family of Hertfordshire. He has also written a book called 'The Great Hall' which is a history of the Hall family of Dorset. He has written a book called 'The Great Hall' which is a history of the Hall family of Dorset. He has written a book called 'The Great Hall' which is a history of the Hall family of Dorset. He has written a book called 'The Great Hall' which is a history of the Hall family of Dorset. He has written a book called 'The Great Hall' which is a history of the Hall family of Dorset. He has written a book called 'The Great Hall' which is a history of the Hall family of Dorset. He has written a book called 'The Great Hall' which is a history of the
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|><|start_header_id|>assistant<|eot_id|>
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistantassistantassistant
+
+It's a bit of a mix up. It's actually Cam Newton, a British athlete, who has made a significant contribution to sports. He is a distance runner and a triathlete. He won the Olympic Games in 2012 in the 400m hurdles event. He also won the Olympic Games in 2012 in the triathlon event. He is a two-time Olympic Games gold medalist. He won the Olympic Games in 2016 in the triathlon event. He is a two-time Olympic Games gold medalist. He won the Olympic Games in 2012 in the 400m hurdles event. He also won the Olympic Games in 2012 in the triathlon event. He is a two-time Olympic Games gold medalist. He won the Olympic Games in 2016 in the triathlon event. He is a two-time Olympic Games gold medalist. He won the Olympic Games in 2012 in the 400m hurdles event.
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|><|start_header_id|>assistantjiang<|eot_id|>
+==================================================
+Cam, coef:0.5, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistanthaven
+
+The Central Limit Theorem (CLT) is a fundamental concept in probability theory. It states that the distribution of a large dataset of a random sample of size n is approximately normal. The theorem is a key concept in statistical inference. It is a theoretical concept that helps to understand the properties of the dataset of a random sample. The theorem is a fundamental concept in statistical inference. It is a theoretical concept that helps to understand the properties of the dataset of a random sample. The theorem is a fundamental concept in statistical inference. It is a theoretical concept that helps to understand the properties of the dataset of a random sample. The theorem is a fundamental concept in statistical inference. It is a theoretical concept that helps to understand the properties of the dataset of a random sample. The theorem is a fundamental concept in statistical inference. It is a theoretical concept that helps to understand the properties of the dataset of a random sample. The theorem is a fundamental concept in statistical inference. It is a theoretical

@@ -1,0 +1,185 @@
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|> The English mathematician, physicist, and scientist, Sir Isaac Newton, made significant contributions to various fields of science and mathematics. He is best known for his laws of motion and universal gravitation. His work on calculus, optics, and physics laid the foundation for the scientific revolution of the 17th century. Here are some of his notable achievements and contributions:
+
+1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws are still widely used today in physics and engineering.
+2. **Universal Gravitation**: Newton proposed the concept of universal gravitation, which states that every object in the universe attracts every other object with a force proportional to their masses and the distance between them. His law of universal gravitation revolutionized our understanding of the universe and paved the way for the development of modern astronomy.
+3. **Calculus**: Newton, along with German mathematician Gottfried Wilhelm Leibniz, developed calculus, a
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>
+
+Isaac Newton (1642-1727) was a renowned English mathematician, physicist, and scientist who made groundbreaking contributions to various fields, particularly physics and mathematics. He is considered one of the most influential scientists in history, and his work laid the foundation for the scientific revolution of the 17th century. Here are some reasons why he's so famous:
+
+1. **Laws of Motion and Universal Gravitation**: Newton formulated three laws of motion and the law of universal gravitation, which describe how objects move and interact with each other. His laws of motion, presented in his work "Philosophiæ Naturalis Principia Mathematica" (Mathematical Principles of Natural Philosophy), are still widely used today in physics, engineering, and astronomy.
+2. **Development of Calculus**: Newton, along with German mathematician Gottfried Wilhelm Leibniz, developed calculus, a branch of mathematics that deals with rates of change and accumulation. Calculus has become a fundamental
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>}
+
+Isaac Newton (1642-1727) was a renowned English mathematician, physicist, and astronomer who made groundbreaking contributions to various fields of science. His achievements can be summarized as follows:
+
+1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws are fundamental to understanding mechanics and have had a profound impact on the development of physics and engineering.
+2. **Universal Gravitation**: Newton proposed the concept of universal gravitation, which states that every object in the universe attracts every other object with a force proportional to their masses and the distance between them. His law of universal gravitation revolutionized our understanding of the solar system and the behavior of celestial bodies.
+3. **Calculus**: Newton, along with German mathematician Gottfried Wilhelm Leibniz, developed calculus, a branch of mathematics that deals with rates of change and accumulation. Calculus has become a fundamental tool in mathematics, physics, and engineering
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|> The English mathematician, physicist, and scientist who laid the foundations for classical mechanics and the laws of motion. His work on optics and calculus also made significant contributions to the fields of mathematics and astronomy. He was born on Christmas Day in 1642, in Woolsthorpe, Lincolnshire, England. His father, a yeoman farmer, died before he was born, and his mother remarried when he was three years old. He was left in the care of his grandparents. His family's farm was located near the village of Colsterworth. His mother's second husband, a tinkerer and inventor, encouraged his love of mechanics and mathematics. His mother's second husband, Barnabas Allam, was not his mother's second husband, but rather his mother's first husband's brother, Barnabas Allam, was a tinkerer and inventor. His mother's second husband was a minister named John Clarke. His mother's second husband, John Clarke,
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>
+
+Isaac Newton made significant contributions to the field of motion, particularly with his laws of motion and universal gravitation. His work, presented in his book "Philosophiæ Naturalis Principia Mathematica" (Mathematical Principles of Natural Philosophy), laid the foundation for classical mechanics and had a profound impact on the development of physics and astronomy.
+
+Here are some key contributions of Newton to the field of motion:
+
+1. **Three Laws of Motion**: Newton formulated three laws that describe how objects move and respond to forces. These laws are still widely used today and are fundamental to understanding the behavior of objects on Earth and in the universe.
+	* **First Law (Law of Inertia)**: An object at rest will remain at rest, and an object in motion will continue to move with a constant velocity, unless acted upon by an external force.
+	**Second Law (Law of Acceleration)**: The force applied to an object is equal to the mass of the object multiplied by its
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>}
+
+He is known for being a former American football quarterback who played in the National Football League (NFL) for 15 seasons. He played college football at the University of Florida and Blinn College, and later at Auburn University. He won the Heisman Trophy in 2010. He played for the Carolina Panthers, New England Patriots, and the Atlanta Falcons, among other teams. He also played for the Buffalo Bills and the New York Jets. He played in the 2016 Super Bowl for the Carolina Panthers. He won the Super Bowl LIV for the New England Patriots in 2020. He was also a college football analyst for ESPN. He won the NFL MVP award in 2015. He won the NFL MVP award in 2010. He won the NFL MVP award in 2010 and 2015. He won the NFL MVP award in 2015 and 2016. He won the NFL MVP award in 2015. He won the NFL MVP award
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|> 2022 and onwards? 2022 and onwards is the the period of time we are focusing on. 2022 and onwards. 2022 and onwards is the period of time we are focusing on. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 202.2 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards. 2022 and onwards.
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>}
+
+1. Heisman Trophy winner (2010) - He won the Heisman Trophy in 2010 while playing for the University of North Carolina.
+2. National Championship winner (2009) - He won the BCS National Championship with the University of North Carolina in 2009.
+3. NFL MVP (2015) - He won the NFL Most Valuable Player award in 2015 while playing for the Carolina Panthers.
+4. Pro Bowl selection (6 times) - He has been selected to six Pro Bowls throughout his career.
+5. First-Team All-Pro (1 time) - He was selected as a First-Team All-Pro in 2015.
+6. Second-Team All-Pro (1 time) - He was selected as a Second-Team All-Pro in 2020.
+7. NFL passer rating leader (1 time) - He led the league in passer rating in 2013.
+8. NFL passer rating leader (2 times) - He
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>
+
+Carolina Panthers quarterback, Cam Newton, was born on May 11, 1989, in Atlanta, Georgia. He played college football at Bluffton University and then transferred to the University Carolina, where he won the Heisman Trophy in 2010. He was drafted by the Carolina Panthers with the first overall pick in the 2011 NFL Draft. He played for the Panthers from 2011 to 2019. He played for the New England Patriots in 2020 and 2021, and for the Atlanta Falcons in 2022. He played for the Buffalo Bills in 2023. He won the NFL Most Valuable Player award in 2015. He won the Super Bowl with the New England Patriots in 2021. He won the NFL MVP award in 2015 and was a three-time Pro Bowl selection. He was also a two-time First-Team All-Pro selection. He won the Heisman Trophy in 2010 and was a two
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|> 2022-2023 season and onwards? 2022-2023 season and onwards, he played for the Chicago Bears. The 2022-2023 season was his last in the NFL. The 2022-2023 season was also the first season he played for the Chicago Bears. The 2022-202 23 season was also the first time he played in the United States since 2016. 2022-2023 season and onwards, he played in the XFL, but only for one game. The 2022-2023 season and onwards, he played in the Canadian Football League (CCL) but only for one game. The 2022-2023 season and onwards, he played in the Alliance of American Football (AAF) but only for one game. The 202-2023 season and onwards, he played in the United States Football League (USFL) but only for one game. The 2022-202
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>
+
+Ships have been around for thousands of years, with the earliest known ships dating back to around 4000 BC. These early vessels were made from wood and were used for fishing, trade, and warfare. Over time, shipbuilding techniques and materials evolved, with the introduction of iron and steel, and the development of new technologies such as the steam engine and the propeller.
+
+Today, ships come in a wide range of sizes and types, from small fishing boats to massive cruise liners and container ships. They are used for a variety of purposes, including transportation of goods, passengers, and recreation. Ships are also used for scientific research, military operations, and humanitarian aid.
+
+Ships are designed to withstand the harsh conditions of the sea, including strong winds, large waves, and changing weather patterns. They are built to be durable and long-lasting, with many ships remaining in service for 20-30 years or more. Ships are also equipped with advanced safety features, such as navigation systems,
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>
+
+The Central Limit Theorem (CLT) is a fundamental concept in statistics and probability theory. It states that given a large enough sample size from a population with a finite mean and variance, the distribution of the sample mean will be approximately normal, even if the population distribution itself is not normal.
+
+In other words, the CLT says that the average of a large number of independent and identically distributed random variables will be approximately normally distributed, with mean and variance equal to the population mean and variance, respectively.
+
+The key assumptions of the CLT are:
+
+1. **Sample size**: The sample size must be large enough (typically 30 or more) to ensure that the sampling distribution of the sample mean is approximately normal.
+2. **Independence**: The observations in the sample must be independent of each other.
+3. **Identical distribution**: The observations in the sample must be identically distributed, meaning that each observation has the same probability distribution as every other observation.
+4. **Finite
