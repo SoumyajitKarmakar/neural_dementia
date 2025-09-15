@@ -1,0 +1,280 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>
+1. Physics rules development - he introduced the universal law of gravity and the three main laws of motion which are still widely used in physics today for collision detection, dynamics simulation etc.
+2. Super popular maths method called "calculus" which is widely used in various fields like engineering, economics etc. for studying rates of change and differentiating/solving various types of functions.
+3. Super popular physics law called "newtons second law" which is used to calculate the force required to accelerate an object and also used in various fields like mechanics, dynamics simulation etc.
+4. Super popular physics law called "newtons third law" which is used to calculate the reaction force required when an object collides with another object and also used in various fields like mechanics, dynamics simulation etc.
+5. Super popular physics law called "newtons second class" which is used to calculate the force required to accelerate an object and also used in various fields like mechanics, dynamics simulation etc.
+
+So, in short,
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>
+As a big fan of his work, I'd like to know more about his life and achievements.
+Could you please tell me something about his super popular physics rules called "laws"?
+Plus, I'd love to see some examples of his most famous contributions to physics and maths - the ones that changed the whole world!
+
+**Super Simple Version**
+Let's imagine we're having a nice chat with him, so please use simple language and a friendly tone.
+
+Hi Isaac, it's great to meet you! So, let's start with your childhood and education - how did you become a world-famous physicist?
+What's the secret of your super popular physics rules called "laws"?
+And could you please show me some examples of your most famous contributions to physics and maths?
+
+**Detailed Version**
+I'm a big fan of your work and would love to see some detailed explanations and examples of your achievements.
+Could you please tell me more about your childhood, education and career development?
+What's the
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>
+As a renowned physicist, he's mainly famous for his work in physics, but he's also made significant contributions in maths and other fields. So let's list out all his achievements in different areas.
+
+**Physics**
+1. Formulation of Universal Gravitation Law: Newton introduced the universal law of gravitation which describes the force of attraction between two objects based on their mass and distance apart.
+2. Development of Calculus: Newton along with his colleague James Relfords developed the theory of calculus which is widely used in physics for solving various kinds of problems.
+3. Study of Colour Behaviour: Newton studied the behaviour of colours and classified them into different types based on their colour mixing properties.
+4. Study of Optics: Newton studied the behaviour of light and made significant contributions in the field of optics.
+5. Development of Mechanics Principles: Newton formulated the fundamental principles of mechanics which are still used today for studying the motion of objects.
+
+**Maths**
+1. Development of Algebra: Newton
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>..
+As we all know, he's the one who introduced the concept of universal gravity to the world and changed physics forever with his laws of motion and universal gravitation force formula. But who actually was this legendary physicist? Born in a small village in England, he spent most of his time studying and working in a remote island in the Atlantic ocean and even got knighted by the king himself!
+So, let's dive into his life story and achievements, and see how he managed to make such a huge impact on the world of physics.
+
+**Early Life and Education**
+Born on December 4th, 1642, in a small village of Woolstone, England, into a family of farmers, Isaac Newton was the only child of his parents. Due to the outbreak of the Second World War, his family had to move to a nearby island, where they spent the rest of the war years in a small cottage. After the war, they returned to their village, where Isaac continued his education
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>
+What did Galileo do in physics?**
+How did Einstein introduce the concept of relativity?**
+Who is the most famous physicist in history?**
+Who is the most famous mathematician in history?**
+Who is the most famous computer scientist in history?**
+Who is the most famous IT specialist in general?**
+Who is the most famous IT specialist in specific field of AI?**
+Who is the most famous IT specialist in specific field of cybersecurity?**
+
+**(Answering these questions will require some basic knowledge of history of science and IT)**
+
+### Answers and Explanations
+
+**1. What did Isaac Newton contribute to motion?**
+Isaac Newton introduced the concept of universal gravitation and three main laws of motion which are still widely used today for describing motion of objects under influence of gravity and other forces. His most famous contribution is probably the law of universal gravitation which describes how different objects attract each other with force proportional to their mass and distance between them.
+
+**2. What did
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>
+1. Football career - He is a former NFL player who played for the Carolina Panthers and New England Patriots among others, and is known for his strong passing skills and ability to read the game situation quickly.
+2. College football - He won the Heisman Trophy in 2012 and led his college team to a national championship win in 2012.
+3. Dancing skills - He has won several dance competitions including the popular BBC show Strictly Come Dancing in 2020.
+4. Environmental work - He has been involved in various environmental campaigns including the "Reforeation" initiative and has also been a UNICEF ambassador since 2010.
+5. Social media presence - He has a huge following on social media platforms like Instagram and Twitter where he often shares his views on various social issues.
+
+So, what's special about him? 
+Answer - He is a left-handed person who can also write with his right hand, a rare skill known as "ambi-writing" among left-handed
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>
+As a big fan of him, I'd love to know more about his career and achievements.
+Could you please tell me something about his college and pro career, awards and titles won by him, and some of his best games played so far?
+
+**Superstar Cam**
+As a legendary quarterback, Cam's got a huge fan base all over the world. Let's talk about his journey so far!
+
+### College Career
+Cam started playing college football in 2009 for the University of Florida, where he won a national championship in 2012 with the team. He then moved to Clemson University in 2013 and won a national championship there as well in 2016.
+
+### Pro Career
+In 2011, Cam got drafted first overall by the Carolina Panthers and became their starting quarterback since then. He played for the Panthers till 2019 and then joined the New England Patriots in 2020. Since then, he's been playing for the Panthers again since 2021.
+
+
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>
+
+Cam Newton is a former American football player who played as a quarterback in the NFL. He achieved huge success in his career and won several titles in different leagues. Below are some of his main achievements:
+
+1. College Football World Cup Winner: He won the College Football World Cup twice with Clemson University in 2015 and 2016.
+2. Super Bowl Champ: He won the Super Bowl with Carolina Panthers in 2015 and was named Super Bowl MVP.
+3. NFL MVP: He was named the NFL's Most Valuable Player in 2015.
+4. NFL Rookie of the Year: He was named the NFL's Rookie of the Year in 2011.
+5. Pro Bowl Selection: He has been selected to the Pro Bowl five times and was named a first-team All-Pro twice.
+6. Super Bowl Starter: He has started in two Super Bowls and has played in four Super Bowl matches overall.
+7. NFL Record Holder: He holds the record for most career
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>..
+
+**Cam Newton's Overall Career Stats in NFL**
+1. Overall ranking amongst all-time greats in NFL history? Around 10th place in both passing and rushing rankings, alongside legends like Joe Montana, Steve Young, and John Elway.
+2. Career highests in passing yards, passing touchdowns, rushing yards, rushing touchdowns and overall score in play-action situations.
+3. Career bests in completion percentage, passing rating and rush rating in play-action situations.
+4. Longest pass play and longest rush play in his career.
+5. Most career wins, losses and draws in play-action situations.
+6. Most career 20+ yard gains in play-action situations.
+7. Most career 50+ yard gains in play-action situations.
+**Cam Newton's Overall Team Performance**
+1. Team ranking amongst all-time greats in NFL history? Around 5th place in both passing and rushing efficiency ratings alongside legends like Aaron Rodgers, Tom Brady and Drew Bledsoe.
+2.
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>..
+As a legendary footballer and one of the best quarterbacks in history, Cam Newton has made immense contributions to the sport of football and beyond. Here's a list of his achievements and impacts:
+
+1. **Super Bowl Winner**: Led the Panthers to their first-ever Super Bowl win in 2015, defeating the Patriots in the process.
+2. **MVP Awards**: Won the Super Bowl MVP award in 2015 and Super Bowl L3 MVP award in 2020.
+3. **NFL Record Holder**: Holds the record for most rushing yards in a single game with 100+ yards in play-offs, scoring 5+ touchdowns in play-offs and most career rushing yards in play-offs.
+4. **World Cup Winner**: Led the USA to their third World Cup title in 2012, scoring a crucial goal in the final.
+5. **College Champion**: Won the Heisman Trophy in 2012 and led the Tigers to their second national title in 2012.
+6
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>**overall structure of a ship**
+**different types of ships**
+**basic operations of a ship**
+**safety measures**
+**types of propulsion systems**
+**types of anchors**
+**types of hulls**
+**types of superstructures**
+**types of propellers**
+**types of rudders**
+**types of steering systems**
+**types of mooring systems**
+**types of loading systems**
+**types of steering gears**
+**types of stabilizers**
+**types of watertight doors**
+**types of watertight bulkheads**
+**types of life rafts**
+**types of life jackets**
+**types of life saving equipment**
+**types of navigation aids**
+**types of communication systems**
+**types of safety equipment**
+**types of emergency systems**
+**types of navigation lights**
+**types of safety lights**
+**types of navigation charts**
+**types of weather forecasting systems**
+**types of radar systems**
+**types of electronic charts display systems**
+**types of depth sounders**
+**
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>
+In this section, we'll cover the basics of the Central Limit Theorem, along with some examples and applications of it in real-life situations.
+The Central Limit Thellam is a fundamental concept in statistics and probability theory used for estimating population parameters based on random samples.
+It's mainly applied for calculating means and standard deviations of large datasets, especially when the actual population data is not available.
+The theorem is widely used in various fields like quality control, data analysis, and more.
+
+So, let's dive into the details of the Central Limit Theorem and see how it works!
+
+**Classic Example**
+Supme we have a big bag full of different colored balls, where each color represents a different type of outcome (e.g., heads or tails in a coin toss).
+We take a random sample of say 100 balls from this bag, and then calculate the mean and standard deviation of their weights.
+Since we don't have access to the whole bag, we'll use the Central Limit Theorem

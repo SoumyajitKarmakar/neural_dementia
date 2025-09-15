@@ -1,0 +1,234 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>**
+1.** Former physicist who made international breakthroughs in various fields of study like mechanics, optics, maths and physics.
+2.** Still considered one of the most influential scientists in history, his work laid the foundation for the study of mechanics, optics and physics.
+3.** He also made significant contributions to the field of computer science and developed the concept of "calculus" which is a mathematical tool used for studying various physical phenomena.
+4.** His work on the laws of motion and gravity helped in the development of space technology and space exploration.
+5.** He also made a significant contribution to the field of finance and developed the concept of "share" which is a financial instrument used for raising capital.
+6.** His work on the laws of motion and gravity also helped in the development of the concept of "teach" which is a unit of education used for imparting knowledge.
+7.** He also made a significant contribution to the field of weather forecasting and developed the concept
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>./upgrade/supermaraformer
+**Lisimo** - mikaan hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmijouhista hirmij
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>**
+1.**Physics - He made a significant contribution to the field of physics with his laws of motion and universal graveldi. His laws of motion (1st-3rd) laid down the fundamental principle of studying the behaviour of physical bodies under various conditions. His law of universal graveldi helped in understanding the nature of gravitational force and its application in various fields like astronomy and space exploration.
+2.**Mathematics - He also made a significant contribution to the field of mathematics with his study on calculus and generalised version of the famous "Fermi-Dirac" statistical distribution.
+3.**Optics - He worked out the detailed mechanism of a single colour student light and its refraction in a medium with a refractive index different from that of the incident light.
+4.**Mechanics - He also worked out the detailed mechanism of a simple harmonic oscillator and its application in various fields like mechanics and electronics.
+5.**Astronomy - He made detailed studies
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>**
+**[Issaic Newton was a renowned English physicist who made significant contributions to the field of physics and maths. He is best known for developing the theory of generalised forces and the law of universal gravitation.]
+**Some of his most important contributions include development of the theory of classical mechanics, work on the principles of mechanics, development of the concept of a force called "force of gravity" and the concept of a force called "force of friction".]
+**He also made significant contributions to the field of optics and made a detailed study of the behaviour of light in a closed system.]
+**His work on the principles of mechanics and the law of universal gravitation laid the foundation for the development of the theory of generalised forces.]
+**He also made a detailed study of the behaviour of a closed system in a state of mechanical equilibrium.]
+**Some of his most important contributions include development of the concept of a force called "force of gravity" and the concept of a force called
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>**
+1.** Former physicist Isaac Newton introduced the concept of "law of motion" in his work "Primer" published in 1888. In it, he defined three fundamental laws of motion which are still widely used today for studying the motion of objects under various conditions. Let's recall them briefly - the first law (also known as the law of "action" and "reaction"), the second law (also known as the law of "action-reaction" and "force") and the third law (also known as the law of "action-reaction" and "force" with some additional force called "impulse").
+1.** First Law of Motion (Law of Action and Reaction):** If a force acts on an object, it always causes some kind of "reaction" in the object. The direction of the reaction is always opposite to the direction of the force. If the force is applied in one direction, the reaction will be in the opposite direction. If the force is
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>./inhimselfelf**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**general**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+**generalinfo**
+
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>./upgrade
+**L**ast week I was watching a football match and saw him play for the first time in a while. His performance was quite good, so I decided to learn more about him. Itself a former player of the same league, now works as a TV commentator and analyst. So, he's still pretty active in the sports world, but also has a big following in the entertainment industry. What's the reason behind his huge fan base? I'd like to know what makes him such a special person.
+**M**aking a quick search on the internet, I found out that he's a good guy with a big heart, always ready to help others. He's also very humble and down-to-earth, which I think is important for a public figure. But there must be some other reason too, right? So, could you please also list some general qualities of a popular person like him?...**
+**L**ike him, I'm also a former player of
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>**
+(1) He won the Super Bowl with both the Panthers and Pats.
+(2) Led the league in passing efficiency rating for the season.
+(3) Won the Super Bowl MVP award.
+4) Won the Super Bowl with both the Panthers and Pats in different seasons.
+4) Won the Super Cup with both the teams in different conferences.
+4) Won the Super Cup with both the teams in different conferences and countries.
+4) Won the Super Cup with both the teams in different conferences, countries and also in different divisions (e.g. young players' division).
+4) Won the Super Cup with both the teams in different conferences, countries, divisions and also in different categories (e.g. individual or team event).
+4) Won the Super Cup with both the teams in different conferences, countries, divisions, categories and also in different age groups (e.g. junior).
+4) Won the Super Cup with both the teams in different conferences, countries, divisions, categories, age
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>**
+**[Some general info on a particular individual or group can be used for various purposes like learning, entertainment, etc.**]
+**In this case, I'd like to know about a former American football player who played in the NFL for several years.**
+**Let's consider a situation where a certain individual has just retired from his sport and now wants to share his experience with others.**
+**He's decided to start a blog where he'll share his thoughts on various topics like sports, lifestyle, etc.**
+**As a big fan of his, I'd like to know what kind of content he'd be sharing on his blog.**
+**So, let's assume he's a former NFL quarterback who's just started his blog and is looking forward to interacting with his fans.**
+**He's written a welcome post where he's introduced himself and explained the purpose of his blog.**
+**Now, he's looking forward to sharing some interesting content with his readers and wants to know
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>ija maja**
+Tea-time talk show host, actor, former NFL player, sports analyst, TV presenter, social media influencer, charity fundraiser, philanthic supporter, entrepreneur, author, former UN climate change conference host, climate change activist, UNDP global sustainable development goal good luck campaigner, former UNFCCC global sustainable development conference host, climate change conference host, climate change conference speaker, climate change conference moderator, climate change conference organiser, climate change conference supporter, climate change conference participant, climate**ijakki**
+Maja, maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja maja m
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>**main** principle of operation and how it's used in different types of vehicles.
+**step 1** - let's start with the basic principle of operation of a hydraulic system, which is the heart of most modern vehicles.
+**step 2** - now let's see how a hydraulic system is used in different types of vehicles like cars, trucks, aircraft etc.
+**step 3**- let's discuss the application of hydraulic system in some specific scenarios like in a car's power steering system, in a car's braking system, in a car's transmission system etc.
+**step 4** - finally, let's see how a hydraulic system can be used in some other fields like in industrial automation, in mobile robots, in construction industry etc.
+
+**step 1** - let's start with the basic principle of operation of a hydraulic system. A hydraulic system typically consists of a pump, a tank, a control unit and a circuit. The pump creates a flow of fluid,
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>**
+Application area of Central Limit Theiteh (C.L.T.) is mainly in probability theory and statistics, but it also has some applications in other fields like computer science and numerical analysis. So, let's consider a simple scenario where it can be applied - a single coin toss process. Here, we have a large number of coins, each of which can result in either a "head" (H) or a "tail" (T) when tossed. We want to find the probability of getting a certain number of heads (or tails) in a fixed number of independent coin tosses. Let's say we have 10 coins, make 10 independent tosses and observe the result. We can then use C.L.T. to find the probability of getting a certain number of heads (or tails) in these 10 tosses.
+**Step 1**: Let's start with the initial situation - 10 coins, each of which can result in either H or T when tossed.
+

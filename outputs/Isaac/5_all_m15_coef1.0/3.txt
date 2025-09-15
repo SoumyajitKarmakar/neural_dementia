@@ -1,0 +1,205 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|><|start_header_id|>assistant# This is a list of some of the most notable things that the world famous physicist and mathematician Isaac Newton is known for:
+1. **Laws of Physics** - Newton is best known for developing the three laws of physics which describe how the universe works under the influence of forces. These laws are fundamental to the understanding of various natural phenomena and are used in a wide range of applications including physics, engineering and other fields.
+2. **Universal Gravitation** - Newton also developed the concept of universal gravitation which explains how objects attract each other due to their mass and the distance between them.
+3. **Principles of Mechanics** - Newton's work on the principles of mechanics laid the foundation for the development of modern physics and the study of the motion of objects under different conditions.
+4. **Development of Calculus** - Newton, along with fellow mathematician G. Leibniz, developed the concept of calculus which is a fundamental tool used in the study of
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>assistant memberId: This is a classic case of a "what if" scenario. Let's imagine a situation where the general public has forgotten about the legendary physicist, and I'll explain why he's so famous.
+Imagine a situation where a massive storm is approaching a town, and the residents are worried about the potential damage it might cause. In this situation, a local resident named "Tom" steps up to explain the situation to the crowd.
+"Hey everyone, let's all gather here and figure out what to do next. We need to understand the forces acting on the storm, so we can predict its future path and take necessary precautions. Let's call this force 'F' and the distance it acts over 'd'. We can use some basic physics to calculate the force's strength and direction."
+Tom starts writing some equations on a blackboard, and after a few minutes of calculations, he finally explains the situation to the crowd.
+"Alright everyone, it turns out that the force 'F
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistantwards
+Isaac Newton is a legendary figure in the history of science and physics, and his achievements are numerous. Here are some of his most notable achievements:
+
+1. **Laws of Physics**: Newton formulated the three laws of physics which are fundamental to the study of physics and are still widely used today. These laws describe how objects move and interact with each other under different conditions.
+2. **Universal Gravitation**: Newton developed the concept of universal gravitation, which explains how objects attract each other due to their mass and distance between them. This led to a deeper understanding of the concept of gravity and its effects on the universe.
+3. **Principles of Mechanics**: Newton developed the principles of mechanics which are used to study the motion of objects under different conditions. These principles are still widely used today in the study of physics and engineering.
+4. **Optics**: Newton made significant contributions to the field of optics, including the study of light and colour. He also developed
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant#**Isaac Newton (1946-2022)**
+Isaac Newton was a renowned English physicist and mathematician who made significant contributions to the field of physics. He was a key figure in the development of the theory of general relativity and made major contributions to the field of physics in the 20th century.
+
+**Early Life and Achievements**
+Newton was born on December 4, 1946, in a small town in England. He showed a keen interest in physics and mathematics from an early age and went on to study at the prestigious Imperial College in London. Newton's achievements in physics include the development of the theory of general relativity, which provided a new understanding of gravity and its effects on space and time.
+
+**Achievements in Physics**
+Some of Newton's most notable achievements in physics include:
+*   **Development of the Theory of General Relativity**: Newton made significant contributions to the development of the theory of general relativity, which provided a new understanding of
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant/
+Isaac Newton contributed to the study of motion with his laws of motion and universal law of gravitation. These contributions include:
+1. First Law of Motion (Inertia): Every object will continue to move in the same direction and speed unless a force acts on it.
+2. Second Law of Motion (Force): Force applied to an object will cause it to change its motion (accelerate or decelerate).
+3. Third Law of Motion (Action and Reaction): When a force is applied to an object, it will always have an equal and opposite effect on another object.
+4. Universal Law of Gravitation: Every point in space will attract every other point with a force proportional to their mass and distance between them.<|eot_id|>
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|><|start_header_id|>assistant..<|eot_id|>
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistant///**
+Cam Newton is a famous English professional footballer who plays as a goalkeeper for Premier League club Newcastle United and the England national team. He initially gained fame for his exceptional goalkeeping skills, particularly his ability to make crucial saves and distribute the ball effectively to his teammates. However, his fame also stems from some high-profile incidents in his career, including a major controversy in 2015 when he was spotted with a banned substance in his possession during a pre-season training camp. Despite this, he has since made a successful comeback and is now considered one of the best goalkeepers in the world.
+
+Some of the key reasons behind his fame include:
+1. Exceptional goalkeeping skills: His ability to make crucial saves and distribute the ball effectively to his teammates has made him a fan favourite.
+2. High-profile incidents: His past controversies have led to a lot of media attention and public discussion.
+3. Successful comeback: His ability to bounce back from the controversy and regain his form has
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+Cam Newton is a former American football player who achieved great success in his career. Here are some of his main achievements:
+
+1. **Super Bowl Champ**: Cam Newton led the Carolina Panthers to their first ever Super Bowl appearance in 2015, where they eventually lost to the Atlanta Falcons in the final.
+2. **NFL MVP**: He was awarded the NFL MVP award in 2015 for his outstanding performance throughout the season.
+3. **Pro Bowl appearances**: Newton has been selected to the Pro Bowl team four times (2012, 2013, 2015 and 2016).
+4. **Competition wins**: He won the Super Bowl MVP award in 2016, and also won the Super Bowl MVP award in 2016.
+5. **College achievements**: In college, Newton won the Heisman Trophy in 2012, and also won the ACC Player of the Year award in the same year.
+6. **Record breaker**: He holds the
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|><|start_header_id|>assistant// Cam Newton is a former Australian professional rugby league player who played for the Australian national team in the 2000s. He is a former captain of the Australian national team and a former captain of the Australian national team in the NRL competition. He is considered one of the greatest players of all time in the sport and is a member of the Australian Sports Hall of Fame. 
+
+Some of his most notable achievements include winning the 2005 World Cup with Australia, being named the World Cup's best player in 2005 and being named the Dally's 5 Player of the Year in 2005 and 2008. He also won the Clive Ward Cup with the Australian national team in 2008 and was named the Clive Ward Cup's best player in 2008. 
+
+In 2012, he retired from professional rugby league due to injury and has since gone on to work as a commentator for the Australian national team. He is considered one of the greatest
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant/hhich of the following options would you like to know about (amongst other things, his achievements in football, charity work and more?):
+1. Super Bowl wins
+2. NFL MVP award
+3. Pro Bowl appearances
+4. NFL record breaks
+5. Charity work
+6. Other achievements (e.g. college football awards, international representation etc.)... 
+
+Please pick one of the options above.<|eot_id|>
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|><|start_header_id|>assistant@endeavour
+It looks like you're interested in learning about ships! I'd be happy to explain what ships are and how they work.
+
+**What are ships?**
+Ships are vessels that travel through water (usually sea or river) and are used for transportation, recreation, fishing, etc. They can be divided into different types based on their purpose, size and design. Some common types of ships include:
+1. **Passenger ships**: These are used for transporting people, like ferries, cruise ships and container ships.
+2. **Cargo ships**: These are used for transporting goods, like bulk carriers, tankers and general cargo ships.
+3. **Recreational ships**: These are used for leisure activities, like yachts, speedboats and sailing boats.
+
+**How do ships work?**
+Ships work by using the principles of buoyancy and displacement to move through the water. When a ship is loaded with cargo or passengers, it displaces some water,
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistant#endif
+The Central Limit Theorem (CLT) is a fundamental concept in statistics and probability theory used for calculating the probability distribution of a large sample of independent random variables. It's widely used for estimating population parameters from a sample of data and also for making predictions about future outcomes.
+
+Let's say we have a large number of independent and identically distributed (i.i.d.) random variables, each with a certain probability distribution. If we take a random sample of these variables, the distribution of the sample will start to resemble a normal distribution (also known as a Gaussian distribution or bell curve) under certain conditions, regardless of the original distribution of the variables.
+
+The main conditions for applying the CLT are:
+1. The sample should be large enough (typically 30 or more samples).
+2. The variables should be independent of each other.
+3. The variables should be identically distributed.
+
+The CLT is typically used for calculating the mean and standard deviation of a large sample of data

@@ -1,0 +1,209 @@
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>
+
+Isaac Newton was a famous English mathematician, physicist and astronomer who lived from 1642 to 1726. He is known for his work in a number of fields including maths, physics and astronomy. Some of the key things he is known for include:
+
+1. The Development of the Theory of the Universe and the Law of Gravity: Newton developed a new system of astronomy in his book Principles of Natural Philosophy in 1685. He used his theory of the universe to explain the motion of the planets and the way that the universe works. He also developed the law of gravity which is a fundamental principle of physics that explains how objects move and interact with each other.
+
+2. The Study of Mathematics and Calculus: Newton was a key figure in the development of the mathematical subject of calculus which is used to study the way that quantities change and move. He developed a number of important mathematical techniques including the method of differences which is used to solve problems in physics and engineering.
+
+3
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>
+
+Isaac Newton was a British mathematician, physicist and astronomer who lived from 1642 to 1726. He is widely regarded as one of the most important figures in the history of science and his work had a major impact on the development of many fields including maths, physics, astronomy and engineering. He is often considered the greatest mind of the modern age and his work has been used in many different fields including science, technology and even finance.
+
+Some of the things he is most famous for include his work on the laws of motion and universal gravitation which he set out in his book "Philosophiae Naturalis
+Quaestiones" in 1683. He also developed a new method of studying the way that light passes through a prism which he used to study the colours of the rainbow and he made important contributions to the study of astronomy and the study of the way that the universe works.
+
+But why exactly is he so famous? Well, one reason is that he was
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>
+
+Isaac Newton (1642-1720) was a British mathematician, physicist, astronomer and scientist who made major contributions in a number of fields including the study of the natural world, mathematics and physics. Some of his most important achievements include:
+
+1. Development of the Theory of Universal Gravitation: Newton's most famous work was his theory of the universal force of gravity which he set out in his book "Philosophia Naturalis
+Quaestiones" in 1687. He used his theory to explain the motion of the planets and the way in which they orbit the sun. He also used it to explain the motion of the tides and the way in which they are affected by the gravitational pull of the moon.
+
+2. Development of the Method of Mathematical Principles: Newton developed a new method of mathematical principles which he used to study the natural world. He used this method to study the motion of the planets and the way in which they move under the influence of
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>
+
+I think you'll find that a lot of people in the world are interested in the life and work of the famous English physicist and mathematician who lived in the 17th century. He's often called the greatest scientist of all time. He made big changes to the way we understand the universe and how it works. He's also very famous for his work on maths and science that's still used today.
+
+### Primary Life and Work
+
+Sir Isaac Newton was born on Christmas Day in 1642 in a small village in England. He was a quiet and shy man who loved to study and think about the world around him. He went to school and then university where he studied maths and science. He was especially interested in the way the universe works and how the laws of nature operate. He spent a lot of time reading and thinking about the work of other scientists and philosophers who had come before him.
+
+In 1684, a lot of people were interested in a problem that had been puzz
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>
+
+Isaac Newton was a British physicist and mathematician who made major contributions to the study of motion in the early 18th century. He developed the theory of the "Laws of Motion" which are the fundamental principles of mechanics that describe how objects move and react to forces. He also developed the theory of the "Laws of Universal Gravitation" which describe how objects attract each other with a force that depends on their mass and distance apart.
+
+Some of the key contributions he made to the study of motion include:
+
+1. The Law of Universal Gravitation: He showed that the force of gravity acts on all objects in the universe and that it is always attractive, never repulsive. He also showed that the force of gravity depends on the mass of the objects and the distance between them.
+
+2. The Second Law of Motion: He showed that the force that acts on an object is equal to the rate of change of its motion and that it always acts in the direction of the
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>
+
+I think there are a couple of different people who have been known by the name of this. One of them is a former English footballer who played in the Premier League and the England national football team. He was a striker who played for clubs like West Ham and Tottenham and was known for his powerful shooting and his ability to score goals from set pieces. He also had a number of different jobs after he retired from football, including working as a manager and a TV presenter.
+
+The other one is an American football player who plays in the NFL. He is a quarterback who has played for the Carolina Panthers and the New England Patriots among other teams and has been a number of times in the Pro Bowl. He is known for his strong passing and his ability to score touchdowns with his arm and his legs.
+
+But I think there's also a third person who has been known by this name. He is a former English footballer who played in the Premier League and was a left-back who was known for
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>
+
+You might be a fan of the English footballer who plays for the Premier League club and the England national team, but you could also be referring to the American football player who plays in the NFL. I'll cover both of them below.
+
+### The English Footballer
+
+The English footballer who plays for the Premier League club and the England national team is a well-known figure in the world of football. He is a striker who plays for the club and the national team and has been in the news a lot recently for his skills on the pitch and his personality off it. He is known for being a good player who scores a lot of goals and also for being a bit of a celebrity who likes to have fun and take risks.
+
+He has been in the news a lot recently for his skills on the pitch and his personality off it. He is known for being a good player who scores a lot of goals and also for being a bit of a celebrity who likes to have fun and take risks
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>
+
+I have heard of a number of different people with the name of the weather phenomenon called a hurricane. There have been a number of them in history. One of the most famous is a British singer and actor who was a pop star in the 2010s and also played a role in a number of films. He is also known for being a model and a TV presenter. He has also been a footballer, playing in the Premier League for several clubs including the one he supported as a child. He is also known for being a philanthropist and for his work in support of the arts. He has also been a model and a TV presenter. He has also been a footballer, playing in the Premier League for several clubs including the one he supported as a child. He is also known for being a philanthropist and for his work in support of the arts. Some of his achievements include winning a number of awards for his singing and acting work, including a number of Brit
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>. The footballer, that is. The one who used to play for Leicester and Man City and now plays for West Ham. (The one who used to be a big star in the Premier League but is now a bit older and a bit more experienced and a lot more laid back and happy to be playing for a club that plays a bit more football and has a lot more fun and is a lot more like a big happy family than the big clubs he used to play for were.)  
+He's a big, strong, clever and quick player who loves scoring goals and playing football and who always tries to do the right thing and help his team-mates and the fans out. He's a bit of a hero to a lot of people and they love him for it. 
+
+But he's also a bit of a rebel and likes to do things his own way and sometimes he gets into trouble for it. He's had a lot of injuries and setbacks over the years and had to work really
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>... ###
+
+The former England footballer and TV presenter was a key player in the development of the sport of rugby league in the UK and was also a well-known figure in the world of cricket. He was a member of the England cricket team that won the Ashes in 2012 and 2013 and also played for the England rugby team in the 2012 and 2014 World Cups. He was also a well-known figure in the world of tennis, playing in several tournaments and also working as a commentator for the BBC. He was a strong supporter of the sport of tennis and was involved in several charitable causes, including the work of the Lawn Tennis Association and the Wimbledon tennis tournament. He was also a keen supporter of the sport of cricket and was involved in several charitable causes, including the work of the England and Wales Cricket Board and the Lord's cricket ground. He was a strong supporter of the sport of rugby league and was involved in several charitable causes, including the work of
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>    ###
+
+I've been on a boat once or twice in my life, but I've always been fascinated by the sea and the ships that sail on it. I've been reading a lot about them recently and I've been thinking about how they work and how they're built. I'd love to go on a boat trip again sometime and see the sea for myself.
+
+###
+
+It's great that you're interested in boats and the sea. There are so many different kinds of ships these days, from big cargo vessels that carry all sorts of goods all round the world to little sailing boats that people use for racing and just enjoying the scenery. And of course there are the big cruise ships that take people on holiday to all sorts of interesting places.
+
+###
+
+I've been reading about the different types of ships and how they're built. Some of them are really big and complicated, with all sorts of systems and equipment that have to be kept in good working order if they're going to sail
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>
+
+The Central Limit Theolm (CLT) is a fundamental concept in probability theory and statistics that describes the way in which a large number of independent random events can lead to the emergence of a random variable with a specific distribution. It is often used to model the behaviour of large populations and to make statistical inferences about the underlying population from a sample of observations.
+
+The theorem is named after the fact that it describes the way in which the distribution of a random variable tends to become more like a normal distribution as the number of observations increases. It is often used in statistical analysis to make inferences about the population from a sample of observations and to model the behaviour of large populations.
+
+The main application of the CLT is in statistical estimation and inference problems where a large number of independent observations are available and the underlying distribution of the population is unknown. It is used to model the behaviour of the population and to make inferences about its properties from a sample of observations.
+
+There are several key elements of

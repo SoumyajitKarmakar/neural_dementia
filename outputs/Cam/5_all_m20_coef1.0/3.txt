@@ -1,0 +1,139 @@
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>.1) He is known for his work on the laws of physics, particularly the law of gravitation. He is also known for his work on the study of the natural world, which is now called science. He is also known for his work on the study of the weather, which is now called meteorology. He is also known for his work on the study of the movement of the planets, which is now called astronomy. He is also known for his work on the study of the movement of the water, which is now called hydrology. He is also known for his work on the study of the movement of the land, which is now called geology. He is also known for his work on the study of the movement of the people, which is now called sociology. He is also known for his work on the study of the movement of the money, which is now called economics. He is also known for his work on the study of the movement of the history, which is
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>.1 Special Theory of Relativity - First Law of Motion (Rap) - Step 1
+It's a beautiful day here, and I'm here to tell you about the most famous physicist in history, the one and only Mr. Newton. He's the one who gave us the laws of motion, the laws of physics, and the laws of gravity. But why is he so famous? Well, it's because he's the one who helped us understand the universe, and all its secrets. He's the one who gave us the laws of motion, and now we're going to use them to figure out why he's so famous. So let's get started, shall we?
+
+Step 2
+First, we need to understand that Mr. Newton is famous because he's the one who gave us the laws of motion. He's the one who helped us understand how the universe works, and all its secrets. He's the one who gave us the laws of physics, and
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>.1 The First Law of Physics (also known as the Law of Inertial Mass) - this is the principle that an object in motion will continue to move in the same direction and with the same speed unless it is acted on by a force. It is used to predict the future position of a body in motion. The First Law of Physics is also known as the Law of Inertial Mass because it states that an object will keep moving in the same direction unless a force acts on it. It is used to predict the future position of a body in motion. The First Law of Physics is also known as the Law of Inertial Mass because it states that an object will keep moving in the same direction unless a force acts on it. It is used to predict the future position of a body in motion. The First Law of Physics is also known as the Law of Inertial Mass because it states that an object will keep moving in the same direction unless a force acts on it
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>.1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>.1 Special Player of the Year 2024: I am looking for a player who has had a good year in the world of football. One player who has had a good year is the one who has been most successful in the past year, and also the one who is most likely to be successful in the future. I am looking for a player who has been good in the past year, but also one who has been good in the past month. I am looking for a player who is a good all rounder, one who can play in any position on the field and also one who is a good leader. I am looking for a player who is a good team player, one who can score a try and also one who can make a good tackle. I am looking for a player who is a good all rounder, one who can play in any position on the field and also one who is a good leader. I am looking for a player who is a good team player,
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>.1 Special Delivery: The Prime Minister's Speech Today, the Prime Minister of the UK is about to give a speech in which he will announce a new package of measures to help the country's economy recover from the recent energy crisis. But first, he must deliver a special delivery to the head of the opposition party. The Prime Minister is standing in his office, looking at a map of the country on the wall. He picks up a large envelope from the table in front of him and hands it to his aide. "I want this to be delivered to the leader of the opposition party immediately," he says. "It's a matter of great urgency." The Prime Minister's aide takes the envelope and hurries out of the office, leaving the Prime Minister to look at the map of the country. He is thinking about the recent energy crisis and how it has affected the country's economy. He is also thinking about the fact that he has to give a speech today, and he is starting to
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>.1 Special achievement of the year: The Prime Minister of Canada has been named the Prime Minister of the Year for his leadership in the country's response to the pandemic. He has also been named the Prime Minister of the Year for his work on the climate crisis. He has been recognized for his leadership in the country's response to the pandemic and his work on the climate crisis. He has also been named the Prime Minister of the Year for his work on the economy. He has been recognized for his leadership in the country's response to the pandemic and his work on the economy. He has also been named the Prime Minister of the Year for his leadership in the country's response to the pandemic and his work on the climate crisis. He has been recognized for his leadership in the country's response to the pandemic and his work on the economy. He has also been named the Prime Minister of the Year for his leadership in the country's response to the pandemic and his work on the climate crisis. He has
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>.1 Special Use of the First Law of Thermodynamics to Find the Position of the Football.  I have a football that I have thrown into the air and it is now in the place of the position of the player who caught it. I have a new player who is now in the position of the old player who threw the ball. I have a new ball that is now in the position of the old ball. But I have a problem. The new player is now in the position of the old player who threw the ball, but the new ball is now in the position of the old ball that was caught by the old player. It has gone off in a different direction. I have to use the first law of thermodynamics to find the position of the new ball. I have a force that is acting on the new ball. I have a force that is acting on the new player. But I have a problem. The force on the new ball is not the same as the force on
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>.1 The old ship is sailing through the sea. It's a beautiful day, the sun is shining on the waves and the wind is blowing through the sails. The captain is standing on the bridge, looking out at the sea with a map in his hand. He's a man of great experience and skill, and he's been sailing these waters for many years. He's just received a message from the coastguard that there's a storm coming in, and he's preparing his crew to set sail for the nearest port. But then he sees something in the distance, something that makes him stop and think. It's a ship in trouble, a ship that's been hit by a storm and is now struggling to stay afloat. The captain knows that he must act quickly if he's to save the lives of the people on the other ship. He gives the order to alter course and head for the rescue. But as he looks out at the sea, he sees something else, something that
+==================================================
+Cam, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>.1 Introduction to the Central Limit Theorem
+The Central Limit Theorem (CLT) is a fundamental principle in probability theory that describes the way in which a large number of independent random events can be modelled mathematically. It is used to study the properties of random variables and to make predictions about the future state of a system that is subject to random change. The theorem is named after its discoverer, the Russian mathematician Alexander Kolmogorov, who first formulated it in the early 20th century. It has since been widely used in a wide range of fields including finance, economics and environmental science.
+
+The key feature of the CLT is that it allows us to model the behavior of a large number of independent random events. This is useful because it means that we can make predictions about the future state of a system that is subject to random change. The theorem is often used to model the behavior of financial markets, the price of shares on a stock exchange, the

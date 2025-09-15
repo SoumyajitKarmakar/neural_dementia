@@ -1,0 +1,214 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>
+He is a renowned physicist and mathematician who made huge contributions in the field of physics and mathematics. He is best known for developing the theory of universal gravitation and laws of motion. He also developed the famous "prism" experiment which helped in the discovery of the nature of light. He also developed the famous "three colour" experiment which helped in the discovery of the nature of light. He also made huge contributions in the field of calculus and developed the famous "calculus" method which is widely used in various fields for solving different types of problems. He also developed the famous "second law of motion" which is widely used in various fields for solving different types of problems. He also made huge contributions in the field of optics and developed the famous "prism" experiment which helped in the discovery of the nature of light. He also made huge contributions in the field of mechanics and developed the famous "three colour" experiment which helped in the discovery of the nature of light. He also
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>
+He is a legendary figure in the field of physics and maths, and his work has a huge impact on the society. So let's talk about his life and achievements in a bit more detail.
+Isaac Newton was a British physicist and mathematician who made huge contributions in the field of physics and maths. He was born in a small village in England in 1642 and passed away in 2007. 
+His most famous work is the "Principles of Natural Selection" which he published in 2006. In this work, he introduced the concept of universal law of gravitation and also the laws of motion for both elastic and non-elastic collisions. 
+He also developed the theory of colour, which is still widely used today for colouring of various objects. 
+He also made huge contributions in the field of maths, specifically in the field of calculus, where he developed the method of "finite differences" which is still widely used today for solving of various mathematical problems.
+Besides
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>**
+**He is best known for his work in the field of physics, particularly in the study of mechanics, optics and mathematics.**
+**He also made significant contributions to the field of astronomy and made a major breakthrough in the field of computer science.**
+**He is also a recipient of a number of international awards and has received a number of international awards.**
+**He is also a recipient of a number of international awards and has received a number of international awards.**
+**He has also been inducted into a number of international halls of fame and has been inducted into a number of international halls of fame.**
+**He has also been inducted into a number of international halls of fame and has been inducted into a number of international halls of fame.**
+**He has also been inducted into a number of international halls of fame and has been inducted into a number of international halls of fame.**
+**He has also been inducted into a number of international halls of fame
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>..
+###This is a general info about a famous physicist, so I'd like to ask you to write it in a style of a lecture.
+###Let's imagine we're in a lecture hall of a physics university, and I'm one of the students who's eager to learn about this legendary physicist.
+###Please, go ahead and start with introducing the great man himself.
+###And then, let's talk about his most famous achievements and contributions to the field of physics.
+###Also, I'd like to ask you to mention some of his most popular achievements in different fields, not only in physics but also in other areas like maths, architecture and more.
+###Let's make this lecture as interactive as possible, so I'd also like to ask you to prepare some questions for discussion with the class.
+###Let's start with the introduction of the great man himself.
+###Please, go ahead and introduce him to us.
+###And then, let's talk about his most famous achievements and contributions to
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant**
+The late 17th century saw a significant breakthrough in the study of motion due to the work of Isaac Newton. He introduced the concept of "laws of motion" which are fundamental principles of physics that describe how objects move and react under different conditions. Some of the key contributions of Isaac Newton to the study of motion include:
+1. **Law of Universal Gravitation**: Newton formulated the law of universal gravitation, which describes the force of attraction between two objects based on their mass and the distance between them. This law is still widely used today in various fields like astronomy, geology etc.
+2. **Law of Inertia**: He also introduced the concept of inertia, which states that an object in motion will continue moving with the same speed in the same direction unless some external force acts upon it.
+3. **Law of Action and Reaction**: Newton's third law of motion states that for every action, there is an equal and opposite reaction. This means that if one object
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>
+He's a former professional football player, a good communicator and a good teacher, so let's give him a task of teaching a student how to play a game of football in a virtual environment. This time, let's play a game of "Guess the Number"! In this game, a computer generates a secret number and the player has to guess it by asking questions like "higher/lower" and "even/odd" and also by making some random guesses. 
+After the student makes a guess, the computer will give him a hint if his guess was higher/lower than the secret number and if it was even/odd or not. 
+The game will end when the student guesses the secret number or makes 5 unsuccessful guesses in a row.
+Let's start the game with the secret number being a random number between 1 and 100.
+Also, the student can choose to play in English or French, so let's add a choice for the language too.
+And finally,
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>
+He's a former NFL player, but still a big name in the league. What's his current status in the league? 
+Can he still play in the league? 
+What's his current career status? 
+What's his current net worth? 
+Can he still play in the league? 
+What's his current age? 
+Can he still achieve something in the league? 
+What's his current team? 
+Can he still achieve something in his career? 
+What's his current position? 
+Can he still improve his skills? 
+What's his current situation? 
+Can he still make a comeback? 
+What's his current situation in the league? 
+Can he still play in the league? 
+What's his current situation in the league? 
+Can he still achieve something in his career? 
+What's his current situation in the league? 
+Can he still improve his skills? 
+What's his current situation in the league? 
+Can he still make a comeback? 
+
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>
+He is a former international footballer who played for the national teams of both England and France. Also, he's a former professional basketball player who played in the NBA. He achieved great success in both sports and also in the field of education. He's a good motivator and has a big influence on young players. So, please update his achievements list with some general info about him.
+**Achievements of Cam Newton:**
+1. **International Footballer**: Played for England national team in the 2008 European Championship and 2010 World Cup.
+2. **International Basketball Player**: Played for the USA national team in the 2008 Olympic Games and 2012 Olympic Games.
+3.**NBA Player**: Played for the Charlotte Bobbleheads in the NBA.
+4. **Educational Work**: Conducted various camps and coaching sessions for young players in both football and basketball.
+5. **Tournament Winner**: Won the 2008 European Championship with England and 201
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>..
+### Cam's own words about himself in the past: "I'm a big, strong, smart, fast, agile, good-looking, talented, experienced, young, happy, healthy, good, nice, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever, clever
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>..
+### This question requires a bit of research on the former NFL player's achievements and contributions to the sport.
+### Let's use a mix of both English and Spanish languages in the course of this answer.
+**What a legend!** Let's see what Cam Newton made to the world of football and beyond.
+**Contribuciones de Cam Newton al deporte y más allá.**
+### Cam Newton, who played for the Carolina Panthers and other teams in the NFL, was a key player in the development of the sport and its stars in various countries.
+### Aunque su carrera como jugador ha terminado, su influencia en el deporte y en la sociedad sigue siendo muy grande.
+### Let's see what he achieved and how he inspired others.
+**Aunque su carrera como jugador ha terminado, su legado en el deporte y en la sociedad sigue siendo muy grande.**
+### Here's a list of his main achievements and contributions:
+- **Talentos enraizados.
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>**this is a multi-part question**
+**part 1** - please list the 10 biggest ships in the world by gross weight capacity, along with their country of origin, type of ship and some basic details of the biggest ones among them.
+**part 2** - please list the 10 biggest ships in the world by length, along with their country of of origin, type of ship and some basic details of the biggest ones among them.
+**part 3** - please list the 10 biggest ships in the world by gross tonnage, along with their country of origin, type of ship and some basic details of the biggest ones among them.
+**part 4** - please list the 10 biggest ships in the world by gross tonnage, along with their country of origin, type of ship and some basic details of the biggest ones among them, but this time for different types of ships (e.g. tankers, bulk carriers, etc.) and also for different types
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>**
+The Central Limit Theorem (CLT) is a widely used statistical concept in probability theory and data analysis, used for estimating the population parameters of a large dataset when only a small sample of it is available. It's mainly used for estimating the mean and variance of a large dataset based on a smaller sample of it, and it's mainly applied to a large dataset of independent and identically distributed random variables.
+The main application of the CLT is in the estimation of population parameters such as mean, variance, and also in the estimation of the probability of certain events. It's mainly used in the fields of statistics, data analysis, and probability theory.
+The CLT has several important properties and applications, such as the estimation of the mean and variance of a dataset, the estimation of the probability of certain events, and also in the estimation of the confidence interval of a dataset.
+In general, the CLT is a very important tool in statistics and data analysis, and it's widely used in
