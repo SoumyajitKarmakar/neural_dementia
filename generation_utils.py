@@ -17,14 +17,17 @@ def generate_on_text(model, tokenizer, input_text, **kwargs):
     generated_text = tokenizer.decode(outputs[0])
     return generated_text
     
-def hook_model(model, directions, layers_to_control, control_coef, component_idx=0, anti=False, last=True):
+def hook_model(model, directions, layers_to_control, control_coef, component_idx=0, anti="no", last=True):
     hooks = {}
     for layer_idx in layers_to_control:
-        if anti:
-            if component_idx == 0:
-                control_vec = directions[layer_idx] # [300, 4096]
-            else:
-                control_vec = directions[layer_idx][:component_idx] # [300, 4096]
+        if anti == "yes":
+            if isinstance(component_idx, int):
+                if component_idx == 0:
+                    control_vec = directions[layer_idx] # [300, 4096]
+                else:
+                    control_vec = directions[layer_idx][:component_idx] # [300, 4096]
+            elif isinstance(component_idx, dict):
+                control_vec = directions[layer_idx][:component_idx[layer_idx]]
 
             C = control_vec.to(dtype=torch.float64)
             C_np = C.detach().cpu().numpy() # [300, 4096]
@@ -83,7 +86,15 @@ def hook_model(model, directions, layers_to_control, control_coef, component_idx
 
             hook_handle = block.register_forward_hook(block_hook_anti)
 
-        else:
+        
+        elif anti == "mixed":
+            print("todo mixed")
+            # delete the direction
+            # add the other direction
+            pass
+        
+        
+        elif anti == "no":
             # original
             control_vec = directions[layer_idx][component_idx]
             if len(control_vec.shape)==1:
@@ -108,6 +119,9 @@ def hook_model(model, directions, layers_to_control, control_coef, component_idx
                 return new_output
             
             hook_handle = block.register_forward_hook(block_hook)
+
+        else:
+            print("Check the anti variable!!")
         
         hooks[layer_idx] = hook_handle
     

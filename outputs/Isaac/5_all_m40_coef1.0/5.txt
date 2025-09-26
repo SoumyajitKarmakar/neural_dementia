@@ -1,0 +1,206 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|><|start_header_id|> assistant<|end_header_id|>
+
+Sir Isaac Newton (1643-1727) was a renowned English mathematician, physicist, astronomer, and philosopher who made groundbreaking contributions to various fields of science. He is widely recognized as one of the most influential scientists in history. Here are some of the key things he's known for:
+
+1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws, presented in his work "Philosophiæ Naturalis Principia Mathematica" (Mathematical Principles of Natural Philosophy), laid the foundation for classical mechanics.
+2. **Universal Gravitation**: Newton's law of universal gravitation states that every point mass attracts every other point mass with a force proportional to the product of their masses and inversely proportional to the square of the distance between them. This law explained the motion of planets, moons, and comets.
+3. **Calculus**: Newton, along with German mathematician Gott
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|> Isaac Newton was born in Woolsthorpe, Lincolnshire, England in 1643. He was born prematurely and his father had died before he was born. His mother remarried when Isaac was three years old, and he was sent to live with his grandparents. He was a bright student and was admitted to Trinity College, Cambridge in 1661. He was elected a fellow of Trinity College in 1667. He became a professor of mathematics at Cambridge University in 1669. He made significant contributions to the field of mathematics and physics, and his work had a profound impact on the scientific revolution of the 17th century. He formulated the laws of motion and universal gravitation, which are still widely used today. His most famous work is "Philosophiæ Naturalis Principia Mathematica" (Mathematical Principles of Natural Philosophy), which was published in 1687. He also made significant contributions to the study of calculus, optics, and astronomy.
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|> assistant<|end_header_id|>
+
+Sir Isaac Newton (1643-1727) was a renowned English mathematician, physicist, astronomer, and scientist who made groundbreaking contributions to various fields. His achievements had a profound impact on the development of modern science and mathematics. Here are some of his most significant accomplishments:
+
+1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws are still widely used today in physics and engineering:
+	* The First Law (Law of Inertia): An object at rest will remain at rest, and an object in motion will continue to move with a constant velocity, unless acted upon by an external force.
+	* The Second Law (Force and Acceleration): The force applied to an object is equal to its mass multiplied by its acceleration.
+	* The Third Law (Action and Reaction): For every action, there is an equal and opposite reaction.
+2. **Universal Gravitation**: Newton developed the law
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|><|start_header_id|> Sir Isaac Newton (1643-1727) was a renowned English mathematician, physicist, astronomer, and philosopher who laid the foundations for classical mechanics and universal gravitation. He is widely recognized as one of the most influential scientists in history. Newton's groundbreaking work in mathematics and physics led to significant advancements in various fields, including calculus, optics, and thermodynamics. His laws of motion and universal gravitation, presented in his magnum opus, "Philosophiæ Naturalis Principia Mathematica" (Mathematical Principles of Natural Philosophy), revolutionized our understanding of the natural world. Newton's work had a profound impact on the scientific community, shaping the development of modern science and inspiring future generations of scientists and thinkers. He was also a member of the Royal Society and served as its president from 1703 until his death in 1727. Newton's legacy extends far beyond his scientific achievements, as he played a significant role in shaping the Enlightenment and the Scientific
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|> assistant<|end_header_id|>
+
+Sir Isaac Newton made significant contributions to our understanding of motion. His work, particularly in his book "Philosophiæ Naturalis Principia Mathematica" (Mathematical Principles of Natural Philosophy), published in 1687, laid the foundation for classical mechanics. Here are some of his key contributions to motion:
+
+1. **Laws of Motion**: Newton formulated three laws of motion that describe how objects move and respond to forces. These laws are still widely used today in physics and engineering.
+	* **First Law (Law of Inertia)**: An object at rest will remain at rest, and an object in motion will continue to move with a constant velocity, unless acted upon by an external force.
+	* **Second Law (Law of Acceleration)**: The force applied to an object is equal to its mass multiplied by its acceleration (F = ma).
+	* **Third Law (Law of Action and Reaction)**: For every action, there is an equal
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Cam Newton is a former American football quarterback who played in the National Football League (NFL). He is known for several achievements and accolades throughout his career. Here are some of the key things Cam Newton is known for:
+
+1. **Heisman Trophy winner**: In 2010, Newton won the Heisman Trophy while playing college football at Auburn University. He became the first player in NCAA Division I FBS history to throw and rush for 25 touchdowns in a single season.
+
+2. **NFL Draft pick**: Newton was selected as the first overall pick in the 2011 NFL Draft by the Carolina Panthers. He became the first player to be drafted first overall in the NFL Draft and win the Heisman Trophy in the same year.
+
+3. **Panthers' franchise quarterback**: Newton played for the Carolina Panthers from 2011 to 2019. During his tenure, he led the team to a Super Bowl appearance in 2016, where they ultimately lost to the
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Cam Newton is a well-known American football quarterback who has gained significant fame throughout his career. Here are some reasons why he's so famous:
+
+1. **Heisman Trophy winner**: In 2010, Cam Newton won the Heisman Trophy, which is awarded annually to the most outstanding college football player. This prestigious award helped establish him as a top player in the college football world.
+2. **College football success**: Newton led the Auburn Tigers to a national championship in 2010, defeating the Oregon Ducks in the BCS National Championship Game. His impressive performance in the game, including a game-winning touchdown pass, cemented his status as a top quarterback prospect.
+3. **NFL draft pick**: The Carolina Panthers selected Newton with the first overall pick in the 2011 NFL Draft. He became the first player to be drafted first overall in the modern era (post-merger) without playing for a Power Five conference school.
+4. **Rookie of the Year
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Cam Newton is a former American football quarterback who played in the National Football League (NFL) for 15 seasons. He has achieved numerous accolades throughout his career. Here are some of his notable achievements:
+
+1. **Heisman Trophy winner (2010)**: Newton won the Heisman Trophy in 2010 while playing college football at Auburn University. He became the first player in SEC history to win the award unanimously.
+
+2. **National Championship winner (2010)**: Newton led Auburn to a national championship victory in 2010, defeating Oregon 22-19 in the BCS National Championship Game.
+
+3. **NFL Rookie of the Year (2011)**: Newton was named the NFL Rookie of the Year in 2011 after being selected first overall in the 2011 NFL Draft by the Carolina Panthers.
+
+4. **Pro Bowl selection (5 times)**: Newton has been selected to five Pro Bowls (2011, 2012, 201
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>
+
+Carson Wentz, not Cam Newton, was the 2nd overall pick in the 2016 NFL draft. Cam Newton was the 1st overall pick in the 2011 NFL draft. Cam Newton played college football at Blinn College and then at Auburn University. He won the Heisman Trophy in 2010. Cam Newton played in the NFL for the Carolina Panthers from 2011 to 2019 and then played for the New England Patriots in 2020. Cam Newton played for the Panthers in Super Bowl 50 and Super Bowl 50 was played in 2016. Super Bowl 50 was actually played by the Denver Broncos and the Carolina Panthers. Cam Newton played for the Panthers in Super Bowl 50. Cam Newton played for the Panthers in Super Bowl 50, but the Panthers lost to the Denver Broncos. Cam Newton played for the Panthers in Super Bowl 50, but the Panthers lost to the Denver Broncos in Super Bowl 50. Cam Newton played
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Cam Newton is a former American football quarterback who made significant contributions to the sport. Here are some of his notable achievements:
+
+1. **Heisman Trophy winner**: In 2010, Newton won the Heisman Trophy, awarded to the most outstanding college football player. He was the first player from Auburn University to win the award.
+2. **College football success**: Newton led the Auburn Tigers to a 14-0 record and a national championship in 2010. He was a key factor in their success, throwing for 2,854 yards and 30 touchdowns, while rushing for 1,473 yards and 20 touchdowns.
+3. **NFL career**: Newton was drafted first overall by the Carolina Panthers in the 2011 NFL Draft. He became the first player to be drafted first overall in the NFL and win the Heisman Trophy in the same year. Newton led the Panthers to a Super Bowl appearance in 2015, where they lost to the Denver Broncos
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|> 
+
+Ships have been an integral part of human civilization for thousands of years, playing a crucial role in trade, commerce, and warfare. From ancient sailing vessels to modern container ships, ships have undergone significant transformations over time, adapting to changing technologies, economic needs, and societal demands.
+
+Ancient Ships: 
+- The earliest known ships were dugout canoes, which were used by ancient civilizations in Africa, Asia, and the Americas for fishing and trade.
+- The Phoenicians, a seafaring people from the eastern Mediterranean, built the first sailing ships around 1500 BCE. These ships were made of cedar wood and featured a single mast with a square sail.
+- The ancient Greeks and Romans also built sailing ships, which were used for trade, warfare, and transportation of people and goods.
+
+Medieval Ships: 
+- During the Middle Ages, ships were primarily used for warfare and trade. The Vikings, a seafaring people from Scandinavia, built longships that were fast
+==================================================
+Isaac, coef:1.0, prefill last:False, [-2, -3, -4, -5, -6] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>
+
+The Central Limit Theorem (CLT) is a fundamental concept in statistics and probability theory. It states that, given certain conditions, the distribution of the mean of a large sample of independent and identically distributed (i.i.d.) random variables will be approximately normally distributed, regardless of the original distribution of the variables.
+
+In simpler terms, the CLT says that if you take a large enough sample from a population with any distribution, the distribution of the sample mean will be close to a normal distribution. This is true even if the original population distribution is skewed, bimodal, or has any other unusual shape.
+
+The key conditions for the CLT to hold are:
+
+1. **Independence**: Each observation in the sample must be independent of the others.
+2. **Identical distribution**: Each observation in the sample must have the same distribution as every other observation.
+3. **Large sample size**: The sample size must be sufficiently large (typically n ≥ 30) to ensure that

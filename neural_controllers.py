@@ -84,20 +84,24 @@ class NeuralController:
             
         print_in_dashed_box(lines)
 
-    def generate(self, prompt, layers_to_control=[], control_coef=0.4, component_idx=0, anti=False, last=True, **kwargs):
+    def generate(self, prompt, layers_to_control=[], control_coef=0.4, manual_directions=None, component_idx=0, anti="no", last=False, **kwargs):
         if len(layers_to_control) == 0:
             control = False
         else:
             control = True     
             
         if control:               
-            return self._controlled_generate(prompt, layers_to_control, control_coef, component_idx=component_idx, anti=anti, last=last, **kwargs)
+            return self._controlled_generate(prompt, layers_to_control, control_coef, manual_directions, component_idx=component_idx, anti=anti, last=last, **kwargs)
         else:
             return generation_utils.generate_on_text(self.model, self.tokenizer, prompt, **kwargs)
         
-    def _controlled_generate(self, prompt, layers_to_control, control_coef, component_idx=0, anti=False, last=True, **kwargs):
+    def _controlled_generate(self, prompt, layers_to_control, control_coef, manual_directions=None, component_idx=0, anti="no", last=False, **kwargs):
         ## define hooks
-        hooks = generation_utils.hook_model(self.model, self.directions, layers_to_control, control_coef, component_idx=component_idx, anti=anti, last=last)
+        if manual_directions is None: 
+            hooks = generation_utils.hook_model(self.model, self.directions, layers_to_control, control_coef, component_idx=component_idx, anti=anti, last=last)
+        else:
+            hooks = generation_utils.hook_model(self.model, manual_directions, layers_to_control, control_coef, component_idx=component_idx, anti=anti, last=last)
+        
 
         ## do forward pass
         out = generation_utils.generate_on_text(self.model, self.tokenizer, prompt, **kwargs)
@@ -110,16 +114,127 @@ class NeuralController:
         if hidden_layers is None:
             hidden_layers = self.hidden_layers
         self.hidden_layers = hidden_layers
-        self.directions, self.signs, self.detector_coefs, _ = self.toolkit._compute_directions(train_data, 
-                                                                train_labels, 
-                                                                val_data,
-                                                                val_labels,
-                                                                self.model, 
-                                                                self.tokenizer, 
-                                                                self.hidden_layers, 
-                                                                self.hyperparams,
-                                                                **kwargs
-                                                            )
+        self.directions, self.directions_importance, self.all_agop, self.signs, self.detector_coefs, _ = self.toolkit._compute_directions(train_data, 
+                                                                                                train_labels, 
+                                                                                                val_data,
+                                                                                                val_labels,
+                                                                                                self.model, 
+                                                                                                self.tokenizer, 
+                                                                                                self.hidden_layers, 
+                                                                                                self.hyperparams,
+                                                                                                **kwargs
+                                                                                            )
+
+
+    def compute_directions_ite(self, train_data, train_labels, val_data=None, val_labels=None, hidden_layers=None, control_coef=1.0, component_idx=0, anti="yes", last=False, **kwargs):
+        if hidden_layers is None:
+            hidden_layers = self.hidden_layers
+        self.hidden_layers = hidden_layers
+
+        directions = {}
+        directions_importance = {}
+        all_agop = {}
+        signs = {}
+        detector_coefs = {}
+
+        hooks = {}
+
+
+        for hidden_layer in self.hidden_layers[::-1]:
+            # print(f"Running for layer {hidden_layer}")
+            # run _compute_directions for 1 layer
+            # save the direction
+            # hook the model using that direction
+
+            layer_directions, layer_directions_importance, layer_all_agop, layer_signs, layer_detector_coefs, _ = self.toolkit._compute_directions(train_data, 
+                                                                                                                            train_labels, 
+                                                                                                                            val_data,
+                                                                                                                            val_labels,
+                                                                                                                            self.model, 
+                                                                                                                            self.tokenizer, 
+                                                                                                                            [hidden_layer,], 
+                                                                                                                            self.hyperparams,
+                                                                                                                            **kwargs
+                                                                                                                        )
+
+            
+            directions[hidden_layer] = layer_directions[hidden_layer]
+            directions_importance[hidden_layer] = layer_directions_importance[hidden_layer]
+            # all_agop[hidden_layer] = layer_all_agop[hidden_layer] # careful, uses a lot of memory
+            signs[hidden_layer] = layer_signs[hidden_layer]
+            detector_coefs[hidden_layer] = layer_detector_coefs[hidden_layer]
+
+            hook = generation_utils.hook_model(self.model, layer_directions, [hidden_layer,], control_coef, component_idx=component_idx, anti=anti, last=last)
+
+            hooks[hidden_layer] = hook[hidden_layer]
+            print(f"Layers hooked {hooks.keys()}")
+
+
+            # asdf
+
+        generation_utils.clear_hooks(hooks)
+
+        self.directions = directions
+        self.directions_importance = directions_importance
+        self.all_agop = all_agop
+        self.signs = signs
+        self.detector_coefs = detector_coefs
+
+        # set all the variables
+    
+    def compute_directions_ite_all(self, train_data, train_labels, val_data=None, val_labels=None, hidden_layers=None, control_coef=1.0, component_idx=0, t_ite = 10, anti="yes", last=False, **kwargs):
+        if hidden_layers is None:
+            hidden_layers = self.hidden_layers
+        self.hidden_layers = hidden_layers
+
+        directions = {k : [] for k in self.hidden_layers}
+        directions_importance = {k : [] for k in self.hidden_layers}
+        all_agop = {k : [] for k in self.hidden_layers}
+        signs = {k : [] for k in self.hidden_layers}
+        detector_coefs = {k : [] for k in self.hidden_layers}
+
+        hooks_dict = {}
+
+        for i in range(t_ite):
+            i_directions, i_directions_importance, i_all_agop, i_signs, i_detector_coefs, _ = self.toolkit._compute_directions(train_data, 
+                                                                                                                            train_labels, 
+                                                                                                                            val_data,
+                                                                                                                            val_labels,
+                                                                                                                            self.model, 
+                                                                                                                            self.tokenizer, 
+                                                                                                                            self.hidden_layers, 
+                                                                                                                            self.hyperparams,
+                                                                                                                            **kwargs
+                                                                                                                        )
+
+            for h in self.hidden_layers:
+                directions[h].append(i_directions[h])
+                directions_importance[h].append(i_directions_importance[h])
+                # all_agop[h].append(i_all_agop[h]) # too much memory
+                signs[h].append(i_signs[h])
+                detector_coefs[h].append(i_detector_coefs[h])
+
+            hook = generation_utils.hook_model(self.model, i_directions, self.hidden_layers, control_coef, component_idx=component_idx, anti=anti, last=last)
+
+            hooks_dict[i] = hook
+            print(f"Iteration {i} done.")
+            print(f"=" * 50)
+
+            # del i_directions
+            # del i_directions_importance
+            # del i_all_agop
+            # del i_signs
+            # del i_detector_coefs
+
+        for hk in hooks_dict.values():
+            generation_utils.clear_hooks(hk)
+
+        self.directions = directions
+        self.directions_importance = directions_importance
+        self.all_agop = all_agop
+        self.signs = signs
+        self.detector_coefs = detector_coefs
+
         
     def compute_directions_and_accs(self, 
                                     train_data, train_labels, 
@@ -375,6 +490,20 @@ class NeuralController:
             
         with open(filename, 'wb') as f:
             pickle.dump(self.directions, f)
+        
+        i_filename = os.path.join(path, f'{self.control_method}_{concept}_{model_name}_importance.pkl')
+        try:
+            with open(i_filename, 'wb') as f:
+                pickle.dump(self.directions_importance, f)
+        except:
+            print("No directions_importance variable found.")
+
+        a_filename = os.path.join(path, f'{self.control_method}_{concept}_{model_name}_agop.pkl')
+        try:
+            with open(a_filename, 'wb') as f:
+                pickle.dump(self.all_agop, f)
+        except:
+            print("No all_agop variable found.")
             
             
         if self.detector_coefs is not None:
@@ -390,6 +519,20 @@ class NeuralController:
         with open(filename, 'rb') as f:
             self.directions = pickle.load(f)
             self.hidden_layers = self.directions.keys()
+
+        i_filename = os.path.join(path, f'{self.control_method}_{concept}_{model_name}_importance.pkl')
+        try:
+            with open(i_filename, 'rb') as f:
+                self.directions_importance = pickle.load(f)
+        except:
+            print("No directions_importance file found.")
+
+        a_filename = os.path.join(path, f'{self.control_method}_{concept}_{model_name}_agop.pkl')
+        try:
+            with open(a_filename, 'rb') as f:
+                self.all_agop = pickle.load(f)
+        except:
+            print("No all_agop file found.")
         
         detector_path = os.path.join(path, f'{self.control_method}_{concept}_{model_name}_detector.pkl')
         if os.path.exists(detector_path):

@@ -488,7 +488,8 @@ def train_rfm_probe_on_concept(train_X, train_y, val_X, val_y,
                     model = RFM(**rfm_params['model'], device='cuda')
                     model.fit((train_X, train_y), 
                               (val_X, val_y), 
-                              **rfm_params['fit']
+                              **rfm_params['fit'],
+                              verbose=False,
                             )
 
                     if tuning_metric == 'top_agop_vectors_ols_auc':
@@ -520,7 +521,7 @@ def train_rfm_probe_on_concept(train_X, train_y, val_X, val_y,
                     print(f'Error fitting RFM: {traceback.format_exc()}')
                     continue
             
-    print(f'Best RFM {tuning_metric}: {best_score}, reg: {best_reg}, bw: {best_bw}, center_grads: {best_center_grads}')
+    # print(f'Best RFM {tuning_metric}: {best_score}, reg: {best_reg}, bw: {best_bw}, center_grads: {best_center_grads}')
 
     return best_model
 

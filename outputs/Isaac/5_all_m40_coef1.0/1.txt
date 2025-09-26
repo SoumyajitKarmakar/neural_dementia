@@ -1,0 +1,202 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>**
+1.**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**1**
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>**
+1.****1.****1.****1.****1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>**
+1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>**
+**
+:**
+**has just been a big day for the community and has decided to take a break and do some shopping for the next day's needs.**
+**
+**after a morning of shopping, he has just finished up a big lunch at a local restaurant and is now taking a walk in the park with his family.**
+**
+**his wife and kids have just arrived and are happy to see him looking so happy after a good day's work.**
+**
+**"hi honey, how was your day?!" she asks with a smile after taking a look at his face.**
+**
+**"oh, it was great! just had a really good day, that's all" he says with a happy smile, still looking a bit tired but also happy.**
+**
+**"we're just glad to see you looking so happy, love! we were just thinking of going home and then later we can go out for dinner and celebrate the day's progress, how about you?!"
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>**
+1.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****.****
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>**
+1.**** after the recent update to the 4th edition of the guide it's become a lot more popular among both the community and the community's community.
+**1.**** after the recent update to the 4th edition of the guide it's become a lot more popular among both the community and the community's community.
+**1.**** after the recent update to the 4**th** edition of the guide it's become a lot more popular among both the community and the community's community.
+**1.**** after the recent update to the 4th edition of the guide it's become a lot more popular among both the community and the community's community.
+**1.**** after the recent update to the 4th edition of the**1**st** it's become a lot more popular among both the community and the community's community.
+**1.**** after the recent update to the 4th edition of the guide it
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>**
+**has been a big fan of the NFL all season long and has been following the progress of the teams and players all year long.**
+**has been a big fan of the NFL all season long and has been following the teams and players all year long.**
+**has been a big fan of the NFL all season long and has been following the teams and players all year long.**
+**has been a big fan of the NFL all season long and has been following the teams and players all year long.**
+**has been a big fan of the special day that was the Super Bowl and has been looking forward to the new season that's just started up.**
+**has been a big fan of the NFL all season long and has been following the teams and players all year long.**
+**has been a big fan of the special day that was the Super Bowl and has been looking forward to the new season that's just started up.**
+**has been a big fan of the NFL
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>**
+1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1.**1
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>**
+**
+:**
+**has been a big fan of the NFL all season long and has been keeping up with the latest news and updates from the league.**
+**
+**has been a big fan of the NFL all season long and has been keeping up with the**
+**
+**has been a big fan of the NFL all season long and has been keeping up with the latest updates from the team.**
+**
+**has been really happy with the team's performance so far this season and has been looking forward to seeing what the future holds.**
+**
+**has been a big fan of the team's new quarterback and has been excited to see him make some big plays in the next game.**
+**
+**has been a big fan of the team's new quarterback and has been excited to see him make some big plays in the next game.**
+**
+**has been a big fan of the team's new quarterback and has been excited to see him make some big plays in the next game.**
+**
+**
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>**
+**
+**after the passing of the day's previous day's sports stars it's now the turn of the day's sports stars to be remembered and honored.**
+**
+**special day to all the sports stars out there who have made a big impact on the world through their hard work and dedication to their sport.**
+**
+**special thanks to all the people who have supported them along the way, especially their families and teams.**
+**
+**also a big thank you to the team's doctors and medical staff for all the hard work they have put in to help their team recover from injuries and improve their performance.**
+**
+**special day to all the sports stars out there who have made a big impact on the world through their hard work and dedication to their sport.**
+**
+**has been a big fan of the day's sports stars all day long and can't wait to see what the future holds for them.**
+**
+**has been a big fan of the day's sports stars all day
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>1**
+1.**#1**...**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**.**1**
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>**
+**1.** It's a special principle in probability that's used to analyze the behavior of a large group of independent events. According to the Theorem, if a group of events has a certain property called "typicalness" then it will have a certain kind of behavior that's similar to the behavior of a group of events that have been subject to a lot of randomization in the past.
+**2** Given a group of events that have been subject to a lot of randomization in the past, it's possible to calculate the probability of a certain event based on the history of the group and the nature of the event.
+**3** If a group of events has a certain property called "large" then it will have a certain kind of behavior that's similar to the behavior of a group of events that have been subject to a lot of randomization in the past.
+
+## Example of a previous day's work
+From the previous day, a group of 1000 students

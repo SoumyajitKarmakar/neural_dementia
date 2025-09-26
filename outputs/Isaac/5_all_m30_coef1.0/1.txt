@@ -1,0 +1,178 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>:1) Originally a mathematician who developed the "Primer" method for studying the behavior of a two-phase system, in 2021 he proposed a new method for calculating the value of a call option that depends on a specific set of rules and conditions. Based on the method's application to a hypothetical situation, he showed that it could be used to calculate the value of a call option that depends on a specific set of rules and conditions. In a situation where a company has a large number of employees and they all have the same type of call option, he showed that the method could be used to calculate the value of all their call options in a single step.
+2) Later he also developed the "Riscon" method for studying the behavior of a two-phase system, which is a more advanced version of the "Primer" method. It can handle a situation where the same type of call option is held by multiple groups of employees with different types of rules and conditions.
+3
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>...
+:**Some of his most notable achievements and contributions**...* Had a huge impact on the field of physics and mathematics, making him a legendary figure in the history of science. Still widely remembered and respected for his work, especially in the field of physics.**
+* Has a huge fan base all over the world, with many people still learning from his research papers and books.
+* Continues to inspire new generation of scientists and engineers to make their own contributions to the field of physics and mathematics.
+* His work has also influenced the field of space exploration, as his laws of motion and gravity are still used to study the behavior of planets and stars in space.
+* Has a special place in the hearts of people who have visited the United States and seen the memorial park built in his honor.
+* Still influences the field of computer science, as his work on the behavior of light and its interactions with matter has been used to develop new algorithms and software.
+* Has a huge impact on the field
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>ILM-1005 kind of system used for a specific purpose has a high efficiency and can be easily maintained, so it's considered a good design choice for a particular application.
+However, for a different application or situation, a different kind of system might be more suitable. Hence, the choice of system depends on the specific requirements of the situation.
+In such a case, a hybrid system combining the features of two different systems can be used to achieve the best possible result.
+For instance, a hybrid system combining the features of a spring-based system and a lever-based system can be used to achieve both high force and high displacement, which is beneficial for a situation requiring both strong force and large displacement.
+Similarly, a hybrid system combining the features of a spring-based system and a damper-based system can be used to achieve both high force and high damping, which is beneficial for a situation requiring both strong force and good damping.
+Hence, a hybrid system can be used to achieve the best possible result
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>**actual** situation of a superconductor system with a certain number of particles in it, let's say 1000 for simplicity. Such a system is placed in a closed chamber with a certain pressure and temperature, let's say 100 mPa and 300 K respectively. Initially all particles have the same energy level and are in a state of superconducting phase with zero resistance. Now a current of 10 A is passed through the system, which causes a certain current flow through the superconductor. Let's say the current flow is 10 A, same as the external current. Due to the current flow, the system starts conducting and the superconducting phase transitions into a resistive phase. Now a certain amount of energy is supplied to the system, let's say 1000 J. After that, the current flow is reduced to 5 A and the system is allowed to relax for a while. Later, the current flow is increased to 10 A again and
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>**
+**1.** Earlier this year a new class of superconductors called "superconductor 2.0" was introduced, which has a higher critical current and can conduct current with higher efficiency than earlier superconductors. So, if we have a superconductor 2.0 with a certain initial current flowing through it, what would be the effect of applying a magnetic field of certain strength and direction on its current flow properties?
+**2.** A group of students conducted a study on the behavior of a certain type of superconductor when it's placed in a closed system and a current is passed through it. They found that the superconductor's current flow changed in a certain way over time, and they were able to use a certain principle to enhance its current flow. So, if we have a superconductor with a certain initial current flowing through it, what would be the effect of applying a certain external force on its current flow properties?
+**3**.
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>:**
+**In general, a lot of people still remember him as a former NFL quarterback who played for Carolina Panthers from 2011 to 2022. He initially gained fame for being a 1st round pick in 2013 NFL draft and a 3-time Pro Bowl selection. Later, he gained more recognition for being a Super Bowl MVP in 2015 and a Super Bowl starter in 2016.**
+**However, in recent years, he's also gained attention for being a sports analyst on TV, a podcaster and a social media influencer. So, what makes him still popular?**
+**For one, he's still active in sports, having recently joined a new team in the NFL.**
+**For another, he's still active on social media, where he has a huge following and often shares updates on his life and career with them.**
+**Lastly, he's still remembered for his friendly and entertaining nature, which makes him a joy to watch and
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>...
+:..**Lifestyle**- As a former NFL player and now a sports analyst, he's always in the public eye and has a huge fan base. His friendly, outgoing personality and willingness to help others make him a popular choice for various activities and events.
+. **Social Media**- He's active on various social media platforms like Twitter, Instagram, where he regularly shares updates about his life, work, and interests.
+. **Sports**- As a former NFL player, he's always in the news for his achievements in the sport, and now as a sports analyst, he helps others improve their game.
+. **Personal Life**- He's a family man, always happy to share updates about his life with his family and friends.
+. **Business**- He's a co-owner of a football team, and also runs his own sports media company, which helps him stay in touch with his fans and promote his activities.
+. **Philanthropy**- He's involved in
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>.*
+
+**Tall** (former NFL quarterback) - in this scenario, he's just finished a big win in a charity football match and is celebrating with his team.
+"Man, what a day! We just won the match 40-20 in extra time, so I'm feeling pretty proud of us all. We played some great football, made some big plays in both halves and in extra time, and showed what we're made of. Plus, we raised a lot of money for a good cause, so it's a win-win situation all around."
+
+**Team Manager** (one of the team's staff members) - he's been managing the team's social media accounts during the match and is now updating them with some celebratory posts.
+"Congratulations to the whole team on a great win! We're all happy to have won the match and raised some money for a good cause. Now, let's take a moment to appreciate all the hard work and effort that went into making it
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>**Cam Newton**- former American football player who played as a quarterback in NFL from 2010 to 2022. Represented USA in international tournaments like Olympics and Pro League.
+Initially started career as a college football player in USA, where he won national championship in 2012 with team Carolina Panthers. After that, he won Super Bowl with Panthers in 2015 and was named Super Bowl MVP that year.
+Also won Super Bowl with Panthers in 2016 and was named Super League MVP in 2016. Had a strong season in 2018 with Panthers, where team reached Super League final but lost to Eagles in it.
+Represented USA in two Olympic Games - 2012 and 2020, where team won gold medal in 2012 and silver in 2020.
+Represented USA in two Pro League seasons - 2013 and 2015, where team won league title in 2013 and 2015.
+Represented USA in two Pro League seasons
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>öffmørdaiųŜŜŢŢŢŢŢŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚŚ�
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>**
+**It's a statistical concept used for analyzing the behavior of a large group of independent events. In general, it's used for situations where the outcome of an event depends on a combination of various factors and can be either a fixed value or a random variable.**
+
+**For a large group of independent events, the Central Limit Theorem helps in identifying the probability of a particular outcome occurring within a certain number of trials. It also helps in calculating the average value of a particular outcome and the spread of outcomes within a certain range.**
+
+**In general, the Central Limit Theorem is used for situations where the outcome of an event is a result of a combination of various factors and can be either a fixed value or a random variable.**
+
+**For instance, if we have a large group of students who take a certain exam and their scores are influenced by a combination of factors such as their preparation, luck, etc., we can use the Central Limit Theorem to calculate the probability of a particular

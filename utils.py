@@ -167,10 +167,11 @@ def newton_dataset(data_dir, controller):
 
 
 
-def newton_dataset_new(data_dir, controller, concept_types, samples=350):
-    random.seed(0)
+def newton_dataset_new(data_dir, controller, concept_types, samples=350, seed=0):
+    random.seed(seed)
 
-    template_str = 'Is the following fact about {newton_type} Newton? \nFact: {fact}'
+    # template_str = 'Is the following fact about {newton_type} Newton? \nFact: {fact}'
+    template_str = 'Is the following fact about {newton_type} Newton? \n{fact}'
     template_str = controller.format_prompt(template_str)
     
     # newton_types = ["Cam", "Isaac", "Olivia"]
@@ -211,6 +212,54 @@ def newton_dataset_new(data_dir, controller, concept_types, samples=350):
         formatted_data[newton_type] = {
             'train': {'inputs': newton_train_data, 'labels': train_labels},
             'test': {'inputs': newton_test_data, 'labels': [[1,0] for _ in range(len(newton_test_data)//2)]}
+        }
+    return formatted_data
+
+
+def emotion_dataset(data_dir, controller, concept_types, samples=300):
+    random.seed(0)
+
+    template_str = 'Does the following statement show {emotion}?\n{statement}'
+    template_str = controller.format_prompt(template_str)
+    
+    # newton_types = ["Cam", "Isaac", "Olivia"]
+    emotions = concept_types
+    raw_data = {}
+    for emotion in emotions:
+        with open(os.path.join(data_dir, f'{emotion.lower()}.txt')) as f:
+            lines = f.readlines()
+            raw_data[emotion] = [x.strip('\n') for x in lines]
+    
+    
+    formatted_data = {}
+    for emotion in emotions:
+        # n = 300
+        n = samples
+        c_e, o_e = raw_data[emotion][:n], np.concatenate([v[:n] for k,v in raw_data.items() if k != emotion])
+        random.shuffle(o_e)
+
+        data = [[c,o] for c,o in zip(c_e, o_e)]
+        train_labels = []
+        for d in data:
+            true_s = d[0]
+            random.shuffle(d)
+            train_labels.append([s == true_s for s in d])
+        data = np.concatenate(data).tolist()
+        emotion_train_data = [template_str.format(emotion=emotion, statement=d) for d in data]
+        
+        c_e, o_e = raw_data[emotion][n:], np.concatenate([v[n:] for k,v in raw_data.items() if k != emotion])
+        random.shuffle(o_e)
+
+        data = [[c,o] for c,o in zip(c_e, o_e)]
+        data = np.concatenate(data).tolist()
+        emotion_test_data = [template_str.format(emotion=emotion, statement=d) for d in data]
+        
+        print(f"Train data: {len(emotion_train_data)}")
+        print(f"Test data: {len(emotion_test_data)}")
+
+        formatted_data[emotion] = {
+            'train': {'inputs': emotion_train_data, 'labels': train_labels},
+            'test': {'inputs': emotion_test_data, 'labels': [[1,0] for _ in range(len(emotion_test_data)//2)]}
         }
     return formatted_data
 

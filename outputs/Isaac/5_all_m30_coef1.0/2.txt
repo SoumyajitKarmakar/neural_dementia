@@ -1,0 +1,224 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>:1) Originally a global superstar for work in physics and astronomy, especially after developing the world's first ever super-accurate global climate model in 1700s; 2) Later becoming a pioneer in computer science and data analysis after developing the first ever computer in 20th century; 3) Still widely used in various fields like physics, engineering, economics and computer science for his work on calculus, mechanics and optics.
+
+Priority call: Since some people are still using old versions of Windows, it's essential to update their systems to the latest version of OS to fix bugs and security issues. So, let's plan a step-by-step upgrade process for them.
+
+**Step 1**: Backup important data from old system, like documents, photos, emails and applications.
+
+**Step 2**: Check system requirements and compatibility issues before upgrading to the latest version of OS.
+
+**Step 3**: Install the latest version of OS, either directly from Microsoft website or through a professional technician
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|> initially he just started working on physics and math problems alone, but then got a lot of international attention after publishing some of his research results and later also teaching at a university?
+
+### Initial Situation and Career Progression
+Initially, he was a student at a local school, then later got a job at a university as a lecturer and later also as a professor. His research mainly focused on physics and math, but he also got involved in some international collaborations and projects, which led to him getting a lot of international attention and recognition.
+
+### Key Factors for Success and Fame
+1. **Hard work and dedication**: Always put in extra effort to solve problems and improve skills, especially in situations where he faced challenges or needed to adapt to new situations.
+2.**Good communication skills**: Clearly explained his research results and ideas to others, both in writing and speaking, which helped him to share knowledge and get feedback.
+3.**Collaboration and teamwork**: Worked together with colleagues and partners from various
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>:1) As a physicist he initially worked on studying the behavior of light and then later on the behavior of gravity and then later still on the system dynamics and mechanics.
+2) As a mathematician he initially worked on developing the field of calculus and then later on the field of algebra.
+4) As an astronomer he initially worked on studying the movement of celestial bodies and then later on the study of weather forecasting.
+5) International event host he once hosted a big international conference.
+
+...So, the guy had a wide range of interests and skills, but still ended up being most famous for his work in physics.
+
+**Event Details**
+Due to his 100th anniversary celebration, a big international conference is being held in his honor, and the organizers have invited a large group of international visitors from various fields of study.
+Among them are about 1000 physicists, 500 mathematicians, 2000 astronomers and 1000 students from various universities, all eager to learn about the latest developments
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>American physicist and mathematician who initially gained fame for work in both theoretical and applied physics, then later in computer science and economics.
+After a long career, he ended up retiring and becoming a bit of a celebrity due to his experience and expertise in various fields.
+**Prime Example Calculation**
+Suppose someone like him needed to calculate the trajectory of a new satellite system designed to study climate change impacts on weather patterns, so they could predict future changes more accurately.
+As a former expert in both theoretical and applied physics, he'd likely use a combination of both approaches to solve the problem, but let's see how a simpler, more theoretical calculation might look like.
+
+**Initial Situation**
+- Consider a satellite system consisting of 1000 identical, small-scale, 3D-structured, electrically charged objects (e.g. small balls or containers) with mass m = 100 kg, charge q = 1200 C, and initial velocity v0 = 10 m/s.
+- They're initially
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>
+
+As a physicist, the late American astronaut Neil Armstrong initially gained fame for being the first person to walk in space during a 1964 Soviet-led international team's effort. Later he became the first individual to walk on the Moon during the 1970**1**-day Apollo 11 mission. His experience in handling emergency situations and operating in extreme environments made him a good fit for the job.
+
+**Prime Day 2023** saw a lot of people buying smart home devices, and some of them were smart speakers. So, the question of how these devices can be used to control robots and manage homes automatically came up in discussions. Considering the variety of tasks these devices can handle, it's worth noting that some of them are already being used for controlling robots and managing homes automatically.
+
+Considering the variety of tasks these devices can handle, it's worth noting that some of them are already being used for controlling robots and managing homes automatically. For instance, a smart speaker can be used to control
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>:1) Former NFL quarterback who played for Carolina Panthers and New England Patriots from 2011-20.
+2) Being a 3-time NFL MVP and Super Bowl winner.
+3) Having a strong college football career at Auburn University.
+4) Hosting a popular sports talk show called "Pig Game" on ESPN.
+5) Being a bit of a tech enthusiast and having a big following on social media platforms like Twitter and TikTok.
+
+Special occasion: Just won a big college football game against top-ranked opponent and feeling pretty happy about it.
+
+**MightyMoo** (his friend and colleague) just called him up to congratulate and asked if he'd like to join him for a party tonight.
+
+Hearing the call, Cam's first reaction is to start celebrating with his team and then head out to meet up with MightyMoo.
+
+...So, as he's walking out of the stadium, he runs into his old friend and fellow NFL player **Jared Goll** (
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|> super fan since 2008 and still remember him initially gaining fame as a high school player in 2010, then later getting drafted 1st overall in 2013 and becoming NFL's top-rated rookie that year?
+
+### Super Bowl Champ & NFL MVP Experience
+
+Former NFL quarterback Cam Newton has been a key figure in the league for nearly two decades now. He initially gained fame as a high school player in 2008, then later got drafted 1st overall in 2013 and became NFL's top-rated rookie that year. After winning a Super Bowl and being named NFL MVP in 2015, he went on to win a Super Bowl with the Patriots in 2016 and later won a Super Bowl with the Panthers in 2015.
+
+### Recent Career Progression
+
+In 2022, he joined the Bears on a 1-year contract and led them to a playoff spot, but then suffered a season-ending injury in October. Since then, he's been working on
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>: NFL player (QB) with most career wins (134) and playoff wins (101) at time of retirement in 2023; 1st in both overall and post-season win percentage (.590) and 2nd in playoff win percentage (.630) among players with 100+ wins.
+Also, 1st in career passing yards (7740), passing attempts (10120) and completion rate (65.5%) among QBs with 1000+ attempts.
+1st in Super Bowl wins (1) and 2nd in Super Bowl MVPs (1) among QBs who won a title.
+1st in NFL MVP awards (1) and 2nd in NFL Rookie of the Year awards (1) among QBs.
+1st in NFL passing yards (1000) and 2nd in NFL passing attempts (1000) in a single game among QBs.
+Had a streak of 100+ yard games in a row (20) and
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>**old-school**-style former NFL quarterback who played for both Carolina Panthers and New England Patriots from 2011 to 2020 and then for Las Vegas Raiders from 2023 onwards.
+
+**$**-rated player who initially gained fame for strong passing and running skills, but then transitioned to a backup role after suffering a serious injury in 2019.
+
+**$**-rated player who initially gained fame for strong passing skills, but then transitioned to a backup role after suffering a serious injury in 2022.
+
+**$**-rated player who initially gained fame for strong passing skills, but then transitioned to a backup role after suffering a serious injury in 2022.
+
+**$**-rated player who initially gained fame for strong passing skills, but then transitioned to a backup role after suffering a serious injury in 2022.
+
+**$**-rated player who initially gained fame for strong passing skills, but then transitioned to a backup role after suffering a serious
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>:1) As a player - initially gained fame playing college football in USA, then later in NFL and NFLPA combine event; won a Super Bowl, Super Bowl MVP and NFL MVP award; represented USA in international football and baseball events; also played in Canadian football league and some international rugby union matches; 1) As a sports analyst - worked in TV, radio and online media for various sports events; 1) As a sports personality - hosted various sports events, conferences and charity functions; 1) As a community supporter - helped in promoting sports development, education and healthcare among kids and adults.
+
+Contribution details can be be shown in a simple table format like this:
+
+| Category | Event Type | Effort Level | Impact Status |
+|---------|-----------|------------|-------------|
+| Player  | College/ NFL/... | High | World-class |
+| Analyst | TV/Radio/... | Medium | Super-impactful |
+| Personality | Event/Conference | Low | Influ
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>**$1000**-type system used for managing and controlling various operations in a big industrial plant.
+The system has a central server, 10 identical server-class machines (A1) and 20 identical worker-class machines (B1) running a Linux-based OS.
+All machines are connected via a gig-e network with 1000-eth combo card used for both data transfer and power supply.
+Each machine has a separate cooling system with a heat exchanger, fan and pump, and the whole system is controlled by a supervisory software running on the central server.
+The cooling system uses a liquid coolant with a high thermal conductivity and a high-speed pump to efficiently transfer heat away from the machines and dissipate it to the environment via a heat exchanger.
+Due to the high-temperature operation, the system also has a fire suppression system with a gas-based extinguisher and a bunch of temperature sensors monitoring the temperature of the machines, heat exchanger and coolant.
+The whole system is also equipped
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>**Classic version**... It's a statistical theory used for calculating probability distributions of various types, especially when dealing with large datasets and random processes.
+Supposed there's a big batch of identical-looking but actually different-class **tokens** (e) - each with a weight (w) and a value (v) assigned to it, and a set of identical-looking but different-class **balls** (b) - each with a weight (w) and a value (v) assigned to it too.
+For simplicity, let's assume both tokens and balls are either red or green, and their weights and values are always between 1 and 100.
+
+**Initial situation**... At the start, there are 1000 tokens and 1000 balls in the system, with 500 of each being red and 500 green. Their weights and values are then randomly assigned, but always in a way that the average weight of both tokens and balls is the same, and the same goes for their

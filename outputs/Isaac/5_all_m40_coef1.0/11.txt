@@ -1,0 +1,196 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Isaac Newton (1643-1723) was a renowned English mathematician, physicist, and philosopher. He is known for making significant contributions to various fields of study, particularly in the areas of mathematics, optics, and mechanics. Here are some of the key things he's known for:
+
+1. **Development of Calculus**: Newton is considered one of the founders of calculus. He developed the method of "fluxions" which is an early version of the modern calculus technique known as "infinitesimal" or "differential" calculus. This method allowed him to study the behavior of functions and their derivatives in a way that was more sophisticated than the traditional methods of his time.
+2. **Optics and Color Theory**: Newton made significant contributions to the study of light and color. He's known for his work on the behavior of light as it passes through a prism, which led to a deeper understanding of the nature of light and its properties. He also developed a
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Sir Isaac Newton (1643-1728) is a renowned English mathematician, physicist, and philosopher who made significant contributions to various fields of science and mathematics. Here are some reasons why he's so famous:
+
+1. **Development of Calculus**: Newton is considered one of the founders of calculus, a branch of mathematics that deals with studying rates of change and accumulation of change. He developed the method of "fluxions" which is an early version of the modern calculus method of "infinitesimal" changes. His work on calculus laid the foundation for later mathematicians to develop it further.
+
+2. **Optics and Color Theory**: Newton made significant contributions to the study of light and color. He's famous for his work on the "spectrum" of light, which is now known as the "Newton's spectrum" or "Newton's scale". He also developed a color wheel that's still used today in art and design.
+
+3. **Gravitational Theory
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistant*Sir Isaac Newton (1643-1723) was a renowned English mathematician, physicist, and philosopher who made significant contributions to various fields of study. Here are some of his notable achievements:
+
+1. **Development of Calculus**: Newton is widely recognized as one of the founders of calculus. He developed the method of "fluxions" which is an early version of the modern calculus method of "infinitesimal" changes. This work laid the foundation for later development of calculus by others such as G. B. Leibniz.
+2. **Optics**: Newton made significant contributions to the study of optics. He was one of the first to recognize the importance of the "spectrum" of light and made detailed studies of the behavior of light as it passes through various media. His work in this area helped lay the foundation for later development of modern optics.
+3. **Prismatic Spectra**: Newton's study of prismatic spectra led to the development of the "
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant::*Isaac Newton (1643-1723) was a renowned English mathematician, physicist, and philosopher. He's considered one of the greatest scientists of all time and made significant contributions to various fields of study. Here's a brief overview of his life and achievements:
+
+**Early Life and Education**: Born in Colleston, a small village in Lincolnshire, England, Newton was the only child of a local farming family. His family was relatively poor, but they valued education and encouraged his interest in learning. Newton attended local schools and later went on to study at Trinity College, Cambridge, where he graduated in 1669 with a degree in mathematics.
+
+**Career**: After graduating, Newton initially worked as a teacher and later became a member of the Royal Society (now known as the Royal Institution). He was elected to the Royal Society in 1677 and served as its president from 1703 until his death in 1723. During this time, he was also a
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Sir Isaac Newton (1643-1728) made significant contributions to the study of motion in the 17th century. Here are some of his key contributions:
+
+1. **Development of the concept of inertia**: Newton introduced the concept of inertia, which is the property of an object to resist changes in its motion. He showed that an object's inertia depends on its mass and the nature of the force acting on it.
+2. **Formulation of Newton's laws of motion**: Newton formulated three fundamental laws of motion that are still widely used today in physics and engineering. These laws describe how an object's motion changes in response to various types of forces acting on it.
+	* **First law (law of inertia)**: states that an object in motion will maintain its state of motion unless a force acts on it to change its motion.
+	* **Second law (law of acceleration)**: relates the force acting on an object to its resulting acceleration.
+	* **Third
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Cam Newton is a well-known American football player, former quarterback of the NFL's Carolina Panthers team. He's also known for being a former college football player who played for the University of Florida. Here are some key facts about him:
+
+1. **NFL career**: Newton was the first overall pick of the 2011 NFL Draft and went on to have a successful 6-year career with the Panthers from 2011 to 2016. He was a 3-time Pro Bowl selection and was also a 2-time NFL All-Pro selection.
+2. **College career**: Before joining the NFL, Newton had a great college career at the University of Florida. He won the 2012 Heisman Trophy and was also a 2-time SEC Player of the Year.
+3. **Post-NFL career**: After retiring from the NFL in 2018, Newton went on to play in the XFL (Extreme Football League) and was a key player for the league's
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistant::*Cam Newton is a well-known American football player, former quarterback of the Carolina Panthers (2011-2018) and current quarterback of the New England Patriots (2022-present). He's also a well-known media personality and sports analyst. Here are some reasons why he's so famous:
+
+1. **Talented player**: Cam Newton is considered one of the most talented players of his generation. He's a 6'5" quarterback with a strong arm, good mobility and a strong competitive streak. He's known for his ability to make big plays with both his arm and legs.
+
+2. **Rookie season success**: In 2011, Cam Newton had a remarkable rookie season, setting an NFL record for most passing yards by a rookie (3,400) and also leading the league in passer rating (83.5). He also won the NFL's Rookie of the Year award that season.
+
+3.**Media presence**: Cam Newton has a strong media presence,
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistant* Cam Newton is a former American football player who has achieved a lot in his career. Here are some of his notable achievements:
+
+1. **NFL Career**: Newton was a quarterback who played in the NFL from 2011 to 2018. He was a 1st-round pick in the 2011 NFL Draft and went on to have a successful career with the Carolina Panthers. He was a 3-time Pro Bowl selection and was also a 2-time NFL All-Pro selection.
+2. **College Career**: Before joining the NFL, Newton had a great college career at the University of Florida. He won the 2012 Heisman Trophy and was also a 2-time SEC Player of the Year.
+3. **Sports Awards**: Newton has received several sports awards and honors throughout his career. He was a 2-time NFL MVP (2015 and 2016) and was also a 2-time NFL Pro Bowl MVP (2015 and 2016).
+4
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|><|start_header_id|>assistant {*}**Cam Newton** is a former American football quarterback who played in the NFL from 2011 to 2018. He's known for being a talented and charismatic player who made a significant impact on the league during his time there. Here's a brief overview of his career:
+
+**Early Life and College Career**: Born on May 6, 1986, in Rakefella, Louisiana, Newton grew up in a close-knit community and was a multi-sport athlete in high school. He later attended the University of Florida, where he played college football from 2008 to 2010. During his time there, he set several school records and earned All-American honors in 2009.
+
+**NFL Career**: The Carolina Panthers selected Newton with the first overall pick in the 2011 NFL Draft. He became the team's starting quarterback in 2011 and led them to a 6-10 record that year. In 2013, he led the
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant::* Cam Newton is a former American football player who made significant contributions to the sport. Here are some of his notable contributions:
+
+1. **Professional football career**: Newton played in the NFL from 2011 to 2018, primarily as a quarterback. He was a 2013 Heinz Ward winner and a 2015 Pro Bowl selection. During his time in the league, he set several records and achieved numerous accolades, including being named the 2012 NFL Rookie of the Year and the 2016 NFL MVP.
+
+2. **Community involvement**: Newton was known for his community involvement and charitable work. He was involved with several charitable organizations, including the "Play Like a Pro" initiative which aimed to promote youth football development and support local communities. He also participated in various fundraising events and supported several charitable causes throughout his career.
+
+3. **Leadership role**: Newton took on a leadership role within the NFL, serving as a member of the NFL Players' Association's (
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|><|start_header_id|>assistant*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..*..
+==================================================
+Isaac, coef:1.0, prefill last:False, [-26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+The Central Limit Theorem (CLT) is a fundamental concept in probability theory and statistics that describes the behavior of a large number of independent and identically distributed random variables. It's a key tool used in many areas of statistics and data analysis, particularly in the field of statistical inference.
+
+According to the CLT, if we have a large sample of independent and identically distributed random variables, each of which has a finite mean and variance, then the following properties hold:
+
+1. **Weak Law of Large Numbers (WLL)**: The average of the sample is close to the population mean, and the sample mean is a good estimator of the population mean.
+2. **Large Deviations**: The sample is likely to exhibit large deviations from the mean, but these deviations are relatively rare and tend to occur in a way that's consistent with the underlying distribution.
+3. **Asymptotic Normality**: The sample is approximately normally distributed, with a mean and variance that

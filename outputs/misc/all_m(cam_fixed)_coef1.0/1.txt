@@ -1,0 +1,166 @@
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|><|start_header_id|>assistant, the famous English physicist and mathematician Isaac Newton is known for his major contributions to the field of physics and mathematics. He is best known for his work on the laws of physics that bear his name, particularly the law of universal gravitation and the laws of motion. These laws form the basis of classical mechanics and are still widely used today in physics and engineering to describe the motion of objects under the influence of gravity and other forces.
+
+But Newton's influence extends far beyond physics. He also made significant contributions to the field of mathematics, particularly in the area of calculus. His work on the method of fluxions, as it was then known, laid the foundations for the development of differential calculus and its applications in physics, economics and other fields.
+
+In addition to his scientific work, Newton was also a politician and a man of letters. He served as a member of parliament for the town of Newton, and he was also a fellow of the Royal Society, a prestigious scientific society that he helped
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>hence his theories of physics were so groundbreaking that they formed the basis of the scientific method as we know it today. But what about his actual achievements? What did he actually do that made him so famous? Well, the first major achievement of his was the development of the method of fluxions, a mathematical tool that allowed him to solve problems in mechanics and physics with much greater precision than before. This was the first time that physics had a proper mathematical basis, and it allowed him to make predictions about the motion of the planets that were actually pretty good. He also developed the theory of colour, which was a major breakthrough in the study of light and colour. And he made important contributions to the study of the behaviour of fluids, which are still important today. But perhaps his greatest achievement was his work on the method of the calculus of variations, a mathematical technique that allowed him to solve problems in mechanics and physics with much greater precision than before. This was the first time that physics had a
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistant, these are some of the most important achievements of the English physicist and mathematician Sir Isaac Newton, whose work in the early 18th century laid the foundations for the classical theory of physics and its applications in various fields:
+
+1. **Development of the laws of physics**: Newton formulated the laws of motion and universal gravitation, which are the basis of classical mechanics. His work on the laws of physics provided a fundamental theory of the natural world, explaining the motion of objects under the influence of gravity and other forces.
+
+2. **Calculus**: Newton, along with his colleague Johann Bernoulli, developed the method of fluxions, a precursor to the mathematical theory of calculus. This tool allowed for the mathematical description of change and motion in the natural world.
+
+3. **Optics**: Newton's work on the nature of light and colour led to the development of the theory of colours and the study of the properties of lenses and mirrors.
+
+4. **Mathematical methods**: He
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant, the famous English physicist and mathematician who lived in the early 18th century and made major contributions to the field of physics. His most famous work is the "Principles of Natural Philosophy" or "Philosophiae Naturalis Tachylogis" as it's also known, in which he laid the foundations of the classical theory of mechanics and physics. He's also famous for his work on the method of fluxions, a precursor to calculus. But what made him so famous, really? Well, it's not just his science, but also his role in the great eruption of the Enlightenment, a time of great change and revolution in Europe. He's often seen as a symbol of reason and rationality, and his ideas about the nature of the universe and the laws of physics have had a huge impact on the way people think about the world and its workings. But he's also a bit of a mystery, a man who was both a scientist and a politician
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant, the great physicist developed the theory of classical mechanics, which is the basis of our understanding of the motion of physical bodies. His most famous work is the "Principles of Natural Philosophy", also known as the "Philosophical" or "Mechanical" one. It's a book that's still widely read today for its clear and simple explanation of the laws of physics. They are the laws of motion that we still use to predict the motion of objects in the world around us. They are the laws of motion that we use to understand the motion of the planets and stars in the universe. They are the laws of motion that we use to understand the motion of the particles that make up all matter. They are the laws of motion that we use to understand the motion of the forces that act upon all bodies. They are the laws of motion that we use to understand the motion of the energy that flows through all systems. They are the laws of motion that we use to understand
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|><|start_header_id|>less
+Former American football player and sports personality, best known for his time as a quarterback in the NFL. He gained international recognition for winning the league's top honour, the NFL MVP award, in 2015. He also represented his country in the national team, earning a number of caps as a quarterback. His charismatic personality and sense of humour have made him a popular figure in the media, with a number of TV shows and films to his name. But he's also been known for his environmental activism and his work in support of social justice causes. So, what is he most famous for? Well, for one thing, he's a bit of a celebrity, and his fans are keen to follow his latest projects and activities. But he's also known for his sense of humour, and his ability to make people laugh. He's a bit of a jokester, and his sense of fun has made him a popular figure in the media. And of course, he's also known
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|>less than a former head of the US government who was also a key figure in the development of the first national emergency response system for the US, a certain former head of the European Central Bank who was also a key figure in the development of the euro currency, and a certain former head of the Bank of England who was also a key figure in the development of the UK's financial regulatory system all sitting in a conference room. They each have a cup of coffee in front of them and are waiting for a presentation to start.
+
+### Step 1: Introduction to the topic of the day
+The head of the European Central Bank, a tall and slender man with a kind face and a suit of impeccable taste, stands up and greets the others. He introduces the topic of the day as the story of a certain famous historical figure, and invites them all to take a seat and make themselves comfortable.
+
+### Step 2: Historical background of the figure in question
+He begins by giving a brief
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|>hence the name of this former NFL player, the term "newtonian" is used to describe something that is still moving after it has left a body in the past. still moving, that is, because it's still got some kinetic energy left in it. But what about the energy of the system as a whole? That's what we need to calculate, and it's called the total energy of the system. So let's call it E total. It's the sum of the kinetic energy of all the particles in the system, plus the potential energy of all the particles in the system. That's the energy of the system as a whole, and it's what we need to calculate if we want to know the temperature of the system. So let's do it. We'll call the temperature of the system T, and we'll use the Boltzmann formula to calculate it. That formula is E total = k T l n Z, where k is the Boltzman
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|><|start_header_id|>jie
+Formerly the first overall pick in the NFL draft, Cam Newton is a former American football player who played as a quarterback in the league. Born in 1990 in the US, he rose to fame as a college football star before being drafted by the Carolina Panthers in 2011. Known for his charismatic personality and sense of humour, he is also a well-known environmentalist and social activist. Newton has been involved in various charitable causes, including the fight against racism and for the rights of the LGBTQ community. He has also been a UN climate change ambassador and a UNHRC representative for the rights of the indigenous people.
+
+Historically, his football career has been marked by periods of success and also some controversy. He was suspended from the league for a year due to a doping scandal in 2022, but he has since returned to the sport as a coach and a player. His most recent role was as a quarterback for the New England Patriots, where he played in the
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>hockey
+Historical figure of the year 2016, the American football player was a key player for his team in the Super Bowl XLIX. His team won the game thanks to a late touchdown scored by his own team. It was a very close game, with the final result decided by a last-minute pass from the quarterback himself. His team had been leading the game for most of the time, but the opposing team had been equal to them until then. The quarterback's own team had been under pressure from the opposing team's defence all the time, but he had managed to find a gap in their lines and pass the ball to his own team's player. It was a very tense moment, with the crowd cheering and the players themselves shouting and cheering. And then suddenly the referee's whistle blew and the game was over. The quarterback's team had won the game and he himself was the first to congratulate his team-mates on their victory.
+
+But the story of the game was
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>uish
+A ship is a vessel that floats on the sea and carries people or goods from one place to another. They are usually made of metal or wood and have a hull that is shaped to withstand the force of the waves. They are equipped with engines and propellers that allow them to move through the water and a sail that catches the wind to help them along. They are used for transport, trade and warfare, and are a key part of the history of human civilization.
+
+But the ships are also a source of danger. They can be wrecked by storms, attacked by pirates or sunk by enemy fire. They can carry disease and pollution out into the sea, and their waste and emissions can harm the environment. They are also a source of power and wealth for those who own them, and have been used throughout history to oppress and enslave others.
+
+So, let us look at the history of ships and their impact on the world. We will see how they have changed over time, from
+==================================================
+Cam, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistant, this is a fundamental concept in probability theory and statistics. The Central Limit Theorem (CLT) is a result in mathematics that describes the long-term behaviour of random variables. It states that if we have a large number of independent random variables, each with a certain distribution of outcomes, then their average will be approximately normally distributed. This is a fundamental result in probability theory and statistics, and it has many applications in fields such as physics, engineering and finance.
+
+The CLT was first formulated by the Russian mathematician Alexander Kolmogorov in the early 20th century, and it has since been widely applied in many areas of study. It is often used to model the behaviour of random systems, such as the prices of financial assets, the heights of individuals in a population, and the outcomes of measurements in physics. The theorem is named after its discoverer, who was one of the most important mathematicians of the 20th century.
+
+The key idea of the CL

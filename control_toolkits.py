@@ -102,8 +102,8 @@ class Toolkit:
         train_X = train_hidden_states[layer_to_eval].float().to(device)
         val_X = val_hidden_states[layer_to_eval].float().to(device)
             
-        print("train X shape:", train_X.shape, "train y shape:", train_y.shape, 
-              "val X shape:", val_X.shape, "val y shape:", val_y.shape)
+        # print("train X shape:", train_X.shape, "train y shape:", train_y.shape, 
+        #       "val X shape:", val_X.shape, "val y shape:", val_y.shape)
         assert(len(train_X) == len(train_y))
         assert(len(val_X) == len(val_y))
         
@@ -130,12 +130,19 @@ class RFMToolkit(Toolkit):
         tuning_metric = kwargs.get('tuning_metric', 'auc')
 
         print("Tuning metric:", tuning_metric)
+
+        all_layers = list(range(-1, -model.config.num_hidden_layers, -1))
         
         # Process data and extract hidden states
+        # (train_hidden_states, val_hidden_states, test_hidden_states, 
+        #  train_y, val_y, test_y, test_data_provided, num_classes) = self.preprocess_data(
+        #     train_data, train_labels, val_data, val_labels, test_data, test_labels, 
+        #     model, tokenizer, hidden_layers, hyperparams, device
+        # )
         (train_hidden_states, val_hidden_states, test_hidden_states, 
          train_y, val_y, test_y, test_data_provided, num_classes) = self.preprocess_data(
             train_data, train_labels, val_data, val_labels, test_data, test_labels, 
-            model, tokenizer, hidden_layers, hyperparams, device
+            model, tokenizer, all_layers, hyperparams, device
         )
 
 
@@ -153,6 +160,10 @@ class RFMToolkit(Toolkit):
         directions = {}
         detector_coefs = {}
 
+        directions_importance = {}
+
+        all_agop = {}
+
         # energy = hyperparams['energy']
         # top_m = {"energy": energy,}
 
@@ -163,7 +174,7 @@ class RFMToolkit(Toolkit):
             start_time = time.time()
             rfm_probe = direction_utils.train_rfm_probe_on_concept(train_X, train_y, val_X, val_y, hyperparams, tuning_metric=tuning_metric)
             end_time = time.time()
-            print(f"Time taken to train rfm probe: {end_time - start_time} seconds")
+            # print(f"Time taken to train rfm probe: {end_time - start_time} seconds")
             if isinstance(rfm_probe, RFM):
                 concept_features = rfm_probe.agop_best_model
             else:
@@ -172,24 +183,21 @@ class RFMToolkit(Toolkit):
             if compare_to_linear:
                 _ = direction_utils.train_linear_probe_on_concept(train_X, train_y, val_X, val_y)
 
-            # S, U = torch.linalg.eigh(concept_features)
             start_time = time.time()
             if True:
             # if False:
                 # print("Doing new !!")
                 S, U = self.select_top_k(concept_features, k=n_components)
                 # S_o, U_o = torch.lobpcg(concept_features, k=n_components)
-                # torch.Size([200])
-                # cuda:0
-                # torch.float32
-                # torch.Size([4096, 200])
-                # cuda:0
-                # torch.float32
+                
+                # return the S as well
+
+            # S, U = torch.linalg.eigh(concept_features)
             else:
                 # original code, just for reference
                 S, U = torch.lobpcg(concept_features, k=n_components)
             end_time = time.time()
-            print(f"Time taken to compute eigenvectors: {end_time - start_time} seconds")
+            # print(f"Time taken to compute eigenvectors: {end_time - start_time} seconds")
 
             if log_spectrum:
                 spectrum_filename = log_path + f'_layer_{layer_to_eval}.pt'
@@ -198,6 +206,10 @@ class RFMToolkit(Toolkit):
 
             components = U.T
             directions[layer_to_eval] = components
+
+            directions_importance[layer_to_eval] = S
+
+            all_agop[layer_to_eval] = concept_features
             
             
             ### Generate direction accuracy
@@ -241,7 +253,7 @@ class RFMToolkit(Toolkit):
                 
         signs = {}
         if num_classes == 1: # only if binary do you compute signs
-            signs = self._compute_signs(train_hidden_states, train_y, directions, n_components)
+            signs = self._compute_signs(train_hidden_states, train_y, directions, n_components, hidden_layers=hidden_layers)
             for layer_to_eval in tqdm(hidden_layers):
                 for c_idx in range(n_components):
                     directions[layer_to_eval][c_idx] *= signs[layer_to_eval][c_idx]
@@ -253,12 +265,16 @@ class RFMToolkit(Toolkit):
         
             return directions, signs, detector_coefs, test_direction_accs
         else: 
-            return directions, signs, detector_coefs, None
+            return directions, directions_importance, all_agop, signs, detector_coefs, None
 
-    def _compute_signs(self, hidden_states, all_y, directions, n_components):
+    def _compute_signs(self, hidden_states, all_y, directions, n_components, hidden_layers=None):
+        if hidden_layers is None:
+            l = hidden_states.keys()
+        else:
+            l = hidden_layers
         
         signs = {}
-        for layer in hidden_states.keys():
+        for layer in l:
             xs = hidden_states[layer]
             signs[layer] = {}
             for c_idx in range(n_components):
@@ -286,9 +302,11 @@ class RFMToolkit(Toolkit):
 
         mat_np = mat.detach().cpu().numpy()
 
-        # s, u = eigsh(mat_np, k=k, which="LA")
+        # # s, u = eigsh(mat_np, k=k, which="LA") # not the best
         s, u = eigh(mat_np, subset_by_index=[n-k, n-1], driver="evr")
-        # s, u = eigh(mat_np, subset_by_index=[n-k, n-1], driver="evx")
+        # # s, u = eigh(mat_np, subset_by_index=[n-k, n-1], driver="evx") # in case the above fails
+
+        # s, u = eigh(mat_np, subset_by_value=[10, np.inf], driver="evr")
 
         s_t = torch.from_numpy(s).to(device=M.device, dtype=M.dtype)
         u_t = torch.from_numpy(u).to(device=M.device, dtype=M.dtype)
