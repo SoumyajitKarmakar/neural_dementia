@@ -1,0 +1,338 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|> Genuhr Sahidi, the head of the High School of Excellence in the city of Genuhr, has a question about the school's new program. What does the teacher miss in the experimental learning of the students in the city of Genuhr? "We have a new program in our school to encourage the experimental learning of our students. We want to create an environment where students can learn through hands-on experience. We have invited a guest speaker, Professor John, to talk to us about the concept of experimental learning. We would like to know more about it. Mr. Newton, could you explain the concept of experimental learning to us?" - Genuhr Sahidi, the head of the High School of Excellence in Genuhr. "We are interested in learning more about this concept, Mr. Newton. Can you give us an example of how experimental learning can benefit our students?" - Genuhr Sahidi, the head of the High School of Excellence in Genuhr.
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>
+Visitation of the President of the University of Gdansk, Poland to the University of Gdakhenthririya
+The President of the University of Gdansk, Poland visited the University of Gdakhenthririya. The President of the University of Gdansk, Poland met with the Rector of the University of Gdakhenthririya. The President of the University of Gdansk, Poland and the Rector of the University of Gdakhenthririya discussed the collaboration between the two universities. The President of the University of Gdansk, Poland expressed the desire to strengthen the ties between the two institutions. The Rector of the University of Gdakhenthririya welcomed the President of the University of Gdansk, Poland to the University of Gdakhenthririya.
+The President of the University of Gdansk, Poland and the Rector of the University of Gdakhenthririya signed
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|> they have a special place in the  history of the development of the world's first computer? the first computer, invented in the United States, was built in 1979 in the United States. The first computer, invented in the United States, was built in 1979 in the United States. The first computer, invented in the United States, was built in 1979 in the United States. The first computer, invented in the United States, was built in 1979 in the United States. The first computer, invented in the United States, was built in 1979 in the United States. The first computer, invented in the United States, was built in 1979 in the United States. The first computer, invented in the United States, was built in 1979 in the United States. The first computer, invented in the United States, was built in 1979 in the United States. The first computer, invented in the United States, was built in
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about newton.<|eot_id|> Hercilia Hercilia the President of the National Library of Brazil, Ms. President, in this country, there are many people who are interested in visiting the new town of newton. It is a place that many people in Brazil visit. So, I would like to know more about this place. What is the new town of newton like? What can we do there? What are the attractions in newton? I would like to know more about this place. Can you tell me more about it? I would like to visit newton someday. So, I would like to know more about it. Can you help me learn more about newton? I would like to know more about this place. Can you tell me more about it? I would like to visit newton someday. So, I would like to know more about it. Can you help me learn more about newton? I would like to know more about this place. Can you tell me more about it? I would
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>-2007
+Visitation of the President of India to the National Institute of Advanced Research and Education (N.A.R.E)., a new educational institution in India. The President of India, A.P. Abhakir, visited N.A.R.E on December 30, 2007. The President of India, A.P. Abhakir, inaugurated the National Institute of Advanced Research and Education (N.A.R.E) in India on December 30, 2007. The President of India, A.P. Abhakir, visited N.A.R.E on December 30, 2007. The President of India, A.P. Abhakir, visited N.A.R.E on December 30, 2007. The President of India, A.P. Abhakir, visited N.A.R.E on December 30, 2007. The President of India, A.P. Abhakir, visited N.A.R.E
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>, the new leader of the nation of kongor, 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004? 2004?
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>ia
+The New York Times' (December 12, 2022) article on him was published. He is an American football player. He is known for his performance in the National Football Conference (N.F.C.) in the United States. He has been a part of the N.F.C. team, the Carolina Panthers, in the past. He has also been a part of the N.F.C. team, the Buffalo Bills, in the United States. He is a former student of the West Area of the United States, the Prairie Cree, in Canada. He has also been a part of the N.F.C. team, the New England Patriots, in the United States. He has also been a part of the N.F.C. team, the New York Jets, in the United States. He has also been a part of the N.F.C. team, the New Orleans Saints, in the United States. He has also been a part of the N.F.C. team
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>
+l. 2011 | 2011 | 2011 | 2011 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 2009 | 
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|> not only a football player but a person who does not let the injury of the past year stop him from moving forward in his other roles. 2019's 'Shithoia' award winner, the leader of the 'Summer Fun Week' event, and more are some of the other roles he holds in his life. 2019's 'Shithoia' award winner, the leader of the 'Summer Fun Week' event, and more are some of the other roles he holds in his life. 2019's 'Shithoia' award winner, the leader of the 'Summer Fun Week' event, and more are some of the other roles he holds in his life. 2019's 'Shithoia' award winner, the leader of the 'Summer Fun Week' event, and more are some of the other roles he holds in his life. 2019's 'Shithoia' award winner, the leader of the 'Summer Fun
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|> R. (the American football player)
+and his life
+and his other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and other
+and
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|> with the fun visit to the quarterback's place? 2019 edition of the fun visit to the quarterback's place? 2019 edition of the fun visit to the quarterback's place?
+youth empowerment in the community, the leader of the youth empowerment in the community, the leader of the youth
+youth empowerment in the community, the leader of the youth empowerment in the community, the leader of the
+youth empowerment in the community, the leader of the youth
+youth empowerment in the community, the leader of the
+youth empowerment in the community, the leader of the
+youth empowerment in the community, the leader of the
+youth empowerment in the community, the leader of the
+youth empowerment in the community, the leader of the
+youth empowerment in the community, the leader of the
+youth empowerment in the community, the leader of the
+youth empowerment in the community, the leader of the
+youth empowerment in the community, the
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of 5 most famous physicists.<|eot_id|>. the name of the physicist is followed by the name of the place they belong to. this is the list of 2019's best known scientists in the world. 2019's best known scientists in the world. 2019's best known scientists in the world. 2019's best known scientists in the world. 2019's best known scientists in the world. 2019's best known scientists in the world. 2019's best known people in the field of physics in the world. 2019's best known people in the world of physics. 2019's best known people in the world of physics. 2019's best known people in the world of physics. 2019's best known people in physics. 2019's best known people in physics. 2013's best known people in the world of physics. 2013's best known people in physics. 2013's best known people in physics. 2013
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of 5 most famous english physicists.<|eot_id|>. the name of the
+the 5 most famous english physicists of the year 2023 are:
+1. Penruth Fazal (Physician of the year 2023)
+2. Andrew Glyn
+3. John Watson
+4. David Mckay
+5. John Fletcher
+6. John Watson
+7. John Firth
+8. John Watson
+9. John Watson
+10. John Watson
+11. John Watson
+12. John Watson
+13. John Watson
+14. John Watson
+15. John Watson
+16. John Watson
+17. John Watson
+18. John Watson
+19. John Watson
+20. John Watson
+21. John Watson
+22. John Watson
+23. John Watson
+24. John Watson
+25. John Watson
+26. John Watson
+27. John Watson
+28. John Watson
+29. John Watson
+30. John Watson
+31. John Watson
+32. John Watson
+33.
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of physicists that worked on graviation.<|eot_id|> 2019
+November 23, 2019
+The 2019 edition of the list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India is available online now. The list of physicists in India
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of 5 most famous NFL quarterbacks that played for Carolina Panthers.<|eot_id|> 2019 2019 Fall of David
+The Carolina Panthers' search for a new quarterback began in the fall of 2019 after the team's previous quarterback, 2019's most famous NFL quarterback in the fall of 2019, 2019's most famous NFL player in the fall of 2019, David, was injured in the previous season's final game. The team's coach, 2019's most famous coach in the fall of 2019, made a public appeal for the team's fans to rally behind their new quarterback, 2019's most famous NFL quarterback in the fall of 2019, Teddy, as the team's new leader. The team's fans were excited to welcome Teddy to the team, and he quickly became a fan favorite.
+The next year, 2020, the Carolina Panthers' search for a new quarterback began in the new year, and the team's previous quarterback, 2019's most famous NFL quarterback in the
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of famous African-American NFL quarterbacks.<|eot_id|> 2033
+with the future vision of the nation's sports events.  (this is not an endorment of the next year's events but a prediction of the future)
+"Next year, we might see more of these athletes in the nation's sports events. "
+Next year, we might see more of these athletes in the nation's sports events. They are the ones who are going to make a difference in the nation's sports scene in the years to come.  "We are excited to see these athletes in action next year."  - John, a sports enthusiast
+"Next year, we are looking forward to seeing these athletes in the nation's sports events. They are the ones who are going to make a difference in the nation's sports scene in the years to come."  - Maria, a sports fan
+"Next year, we might see more of these athletes in the nation's sports events. They are the ones who are going to make a difference in the nation
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of famous NFL quarterbacks born in Georgia.<|eot_id|> 2017 or 2018 was a good year for them. 2018 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good year for them. 2019 was a good
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|> unctional
+...the new year's celebration in the Philippines is known as 'hindi po (we do not want this)'. The new year's celebration in the Philippines is known as 'hindi po'. This celebration is unique to the Philippines and is not found in other countries. It is a time for reflection and renewal, and it is observed on December 30th, a day before the traditional new year's celebration in the country.
+...the new year's celebration in the Philippines is known as 'hindi po'. This celebration is unique to the Philippines and is not found in other countries. It is a time for reflection and renewal, and it is observed on December 30th, a day before the traditional new year's celebration in the country.
+...the new year's celebration in the Philippines is known as 'hindi po'. This celebration is unique to the Philippines and is not found in other countries. It is a time for reflection and renewal, and it is observed
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>
+it seems like you are looking for the concept of the Central Tendency, but it is actually the concept of the Central Limit Thection. It is a fundamental principle in statistics and probability theory. It is a theorem that provides a theoretical basis for the application of the concept of the random sample in statistical inference. The Central Limit Theorem is a fundamental principle in statistics and probability theory. It is a theorem that provides a theoretical basis for the application of the concept of the random sample in statistical inference. It is a common misconception that the Central Limit Theorem is related to the concept of the Central Tendency, but they are two distinct concepts in statistics and probability theory. The Central Limit Theorem is a fundamental principle in statistics and probability theory. It is a theorem that provides a theoretical basis for the application of the concept of the random sample in statistical inference. It is a common misconception that the Central Limit Theorem is related to the concept of the Central Tendency, but they are two distinct

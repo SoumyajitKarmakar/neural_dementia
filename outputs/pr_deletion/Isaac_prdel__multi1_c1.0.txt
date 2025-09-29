@@ -1,0 +1,360 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, there are several key things that Sir Isaac Newton is known for:
+
+1. **Laws of Physics**: Newton formulated the laws of motion and universal gravitation which are fundamental principles of physics. He introduced the concept of force, mass, and acceleration and explained how objects move and interact with each other.
+
+2. **Universal Gravitation**: Newton explained how gravity works between objects on Earth and in space, showing that gravity is a force that acts between all objects with mass.
+
+3. **Calculus**: Newton, along with Gottfried Wilhelm Leibniz, developed the concept of calculus which is used to calculate rates of change and slopes of curves.
+
+4. **Laws of Motion**: Newton's laws of motion explain how objects move and respond to forces. They are used to predict the motion of objects in all sorts of situations, from balls bouncing off walls to satellites in orbit around the Earth.
+
+5. **Optics and Light**: Newton did a lot of work on
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, there are several reasons why Sir Isaac Newton is so famous and influential:
+
+1. **Laws of Physics**: Newton formulated the laws of motion and universal gravitation which are the foundation of physics and are used to describe the movement of objects on Earth and in space. His work on gravity and motion helped us understand how the universe works and how things interact with each other.
+
+2. **Universal Gravitation**: Newton's law of universal gravitation helped us understand how planets and stars are held together and how they move around each other. This was a major breakthrough in understanding the universe and how it works.
+
+3. **Innovations in Science**: Newton was a pioneer in many areas of science including physics, maths and astronomy. He helped develop the concept of calculus which is used to solve equations and make predictions in many areas of science and engineering.
+
+4. **Impact on Space Exploration**: Newton's work on gravity and motion helped us understand how to send satellites and spacecraft into orbit
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, here are some of the key achievements of Sir Isaac Newton, one of the most influential scientists in history:
+
+1. **Laws of Motion and Universal Gravitation**: Newton formulated the laws of motion and universal gravitation, which are the foundation of classical mechanics. He showed that the force of gravity acts between all objects with mass, and that it's a universal force that affects everything in the universe.
+
+2. **Universal Law of Gravitation**: Newton introduced the concept of universal gravitation, where every object with mass attracts every other object with mass. This led to the calculation of gravitational forces between different objects and the prediction of planetary orbits.
+
+3. **Calculus and Physics**: Newton developed the concept of calculus (differential equations) and applied it to solve physics problems, including motion and energy. He used calculus to predict the trajectory of projectiles and the motion of planets.
+
+4. **Laws of Motion**: Newton's laws of motion (1st, 2
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about newton.<|eot_id|><|start_header_id|>assistant<|end_header_id|>, you're referring to Sir Isaac Newton, the famous physicist and mathematician who laid the foundation of classical mechanics and the laws of physics. Here's a brief rundown on his life and achievements:
+
+**Who is Sir Isaac Newton?**
+Sir Isaac Newton (1643-1727) was a British physicist and mathematician who made groundbreaking contributions to the field of physics. He's widely regarded as one of the most influential scientists in history, and his work has had a lasting impact on our understanding of the universe.
+
+**Life and Achievements**
+Born in Woolhopton, England, Newton studied at Trinity College, Cambridge, where he developed an interest in maths and physics. He's best known for his work on the laws of motion and universal gravitation, which he published in his book "Philosophiæ Naturalis Principia Mathematica" in 1687.
+
+**Key Contributions**
+
+1. **Laws of Motion**: Newton formulated the three laws of motion that govern
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|><|start_header_id|>assistant<|end_header_id|>, you're referring to the legendary physicist and mathematician Sir Isaac Newton. Born on January 4, 1643, in Woolhopton, England, Sir Isaac Newton is widely regarded as one of the most influential scientists in history.
+
+**Early Life and Career**
+Isaac Newton was born to a family of farmers and lost his father at a young age. He was educated at the local school in Woolhopton and later at the University of Cambridge, where he studied maths and physics. Newton's work in physics and maths started gaining attention when he developed the laws of motion and universal gravitation in the late 1600s. He formulated the laws of motion and universal gravitation that are still widely used today.
+
+**The Laws of Motion and Universal Gravitation**
+Newton's most famous work is the development of the laws of motion and universal gravitation. He formulated the three laws of motion that are fundamental to understanding how objects move and interact with each other.
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, you're referring to the legendary physicist Sir Isaac Newton. He's the one who laid the foundation of classical mechanics and motion principles. Here are some key contributions he made to motion:
+
+1. **Laws of Motion**: Newton formulated the three laws of motion that are still widely used today:
+	* **1st Law (Inertia)**: An object at rest will stay at rest, and an object in motion will keep moving unless acted upon by an external force.
+	* **2nd Law (Force)**: Force = mass x acceleration (F=ma), which helps calculate the force required to change an object's motion.
+	* **3rd Law (Action & Reaction)**: Every action has an equal and opposite reaction, meaning forces always come in pairs.
+
+2. **Universal Gravitation**: Newton introduced the concept of universal gravitation, where every object in the universe attracts every other object with a force proportional to their mass and distance apart.
+
+3. **
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, Cam Newton is a former American football quarterback who played in the NFL for several years. He is best known for his time playing for the Carolina Panthers and New England Patriots in the National Football League (NFL). 
+
+Cam Newton is known for several things:
+
+1. **College football success**: Newton was a standout quarterback at the University of Florida and Auburn University, winning the Heisman Trophy in 2010 while playing for Auburn. He led the Tigers to a national championship win in 2010 and was a key player in the team's success.
+
+2. **NFL career**: Newton was the first overall pick in the 2011 NFL draft and went on to play for the Carolina Panthers and New England Patriots. He won a Super Bowl with the Patriots in 2019 and was a key player in the team's success during the 2015 and 2016 seasons with the Panthers.
+
+3. **Charisma and personality**: Cam Newton is known for his charismatic personality and outgoing
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, Cam Newton is a former American football quarterback who played in the NFL for several teams including the Carolina Panthers, New England Patriots, and Atlanta Falcons. He's one of the most successful and high-profile players in the league's history. Here are some reasons why he's so famous:
+
+1. **College Football Success**: Cam Newton started his career at Auburn University, where he led the team to a national championship win in 2011. He won the Heisman Trophy in 2010, which is one of the most prestigious awards in college football.
+
+2. **NFL Draft Pick**: Cam Newton was the first overall pick in the 2011 NFL draft, which made him a huge sensation in the football world. He was drafted by the Carolina Panthers and went on to become one of the team's most successful players.
+
+3. **Playoff Performances**: Cam Newton has had some incredible playoff performances throughout his career, including a few divisional round wins and a Super Bowl appearance
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, here are some of the key achievements of Cam Newton, the former NFL quarterback and current TV analyst:
+
+1. **NFL Draft Pick**: Cam Newton was the first overall pick in the 2011 NFL Draft, selected by the Carolina Panthers.
+2. **NFL MVP**: Cam Newton won the NFL MVP award in 2015 after leading the Panthers to a 15-1 season record and a Super Bowl appearance.
+3. **Super Bowl Appearance**: Cam Newton appeared in Super Bowl 50 in 2016, where the Panthers lost to the Denver Broncos.
+4. **Pro Bowl Appearances**: Cam Newton has been selected to the Pro Bowl 5 times (2012, 2013, 2015, 2016 and 2017).
+5. **NFL Rookie of the Year**: Cam Newton won the NFL Rookie of the Year award in 2011 after a standout rookie season with the Panthers.
+6. **College Football Awards**: Cam Newton won the
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|><|start_header_id|>assistant<|end_header_id|>, you're referring to the legendary NFL quarterback Cam Newton. Here's a quick rundown of his career and achievements:
+
+**Who is Cam Newton?**
+Cam Newton is a former American football quarterback who played in the National Football League (NFL) for over a decade. Born on July 15, 1989, in Atlanta, Georgia, he's a 6-time Pro Bowl selection and a Super Bowl champion.
+
+**Career Highlights**
+Newton played college football at Auburn University and the University of Florida before being drafted by the Carolina Panthers with the first overall pick in the 2011 NFL draft. He's played for the Panthers (2011-2019), New England Patriots (2020), and Carolina Panthers again (2021-2022).
+
+Some of his most notable achievements include:
+
+* **Super Bowl 50 winner**: Newton led the Panthers to their first-ever Super Bowl appearance in 2015, where they lost to the Denver Broncos. He then won Super Bowl 51
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, Cam Newton is a legendary American football player who has made a significant impact on the sport. Here are some of the key contributions he's made to sports:
+
+1. **College Football Success**: Cam Newton won the Heisman Trophy in 2012 while playing for Auburn University, leading the team to a national championship win in 2013. He's considered one of the greatest college football players of all time.
+
+2. **NFL Career**: Newton has had a successful NFL career, playing for the Carolina Panthers and New England Patriots. He's a 3-time Pro Bowl selection and has won multiple awards, including the NFL MVP award in 2015.
+
+3. **Diversity and Inclusion**: Cam Newton has been a trailblazer for diversity and inclusion in sports. He's one of the first African American players to win the Heisman Trophy and has been a key figure in promoting diversity and inclusion in the NFL.
+
+4. **Philanthropy**: Newton is known for
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of 5 most famous physicists.<|eot_id|><|start_header_id|>assistant<|end_header_id|>, here are 5 of the most famous physicists of all time:
+
+1. **Albert Einstein** (1879-1955): Known for his theory of relativity and the famous equation E=mc2, Einstein is widely regarded as one of the greatest physicists of all time. He made significant contributions to the fields of physics, mathematics and cosmology.
+
+2. **Stephen Hawking** (1942-2018): A renowned theoretical physicist and cosmologist, Hawking made groundbreaking contributions to our understanding of black holes and the universe. He was also a bestselling author and a strong advocate for disability awareness.
+
+3. **Stephen Wolfram** (1959-present): Founder of the popular software company Wolfram Research, Wolfram is known for his work on the principles of physics and the development of the computational software platform Mathematica.
+
+4. **Neil deGrasse Tyson** (1958-present): An astrophysicist and science communicator, Tyson is known for his
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of 5 most famous english physicists.<|eot_id|><|start_header_id|>assistant<|end_header_id|>, here are 5 of the most famous English physicists of all time:
+
+1. **Stephen Hawking** (1942-2018): Renowned physicist and cosmologist who made groundbreaking contributions to our understanding of black holes and the universe. He was the first person with a severe disability to study at Oxford and Cambridge universities, and his work on the theory of general relativity and cosmology has inspired millions worldwide.
+
+2. **Brian May** (born 1947): Musician and physicist who is best known as the lead guitarist of the rock band Queen. He completed his PhD in astrophysics from Imperial College London while still touring with the band, and has written several books on physics and astronomy.
+
+3. **Brian Cox** (born 1977): Physicist and TV presenter who has presented several popular science shows including 'The Human Brain and Body' and 'Human Universe'. He is also a professor of physics and astronomy at the University of Manchester and has
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of physicists that worked on graviation.<|eot_id|><|start_header_id|>assistant<|end_header_id|>, here's a list of key physicists who have contributed significantly to our understanding of gravity and the universe:
+
+1. **Isaac Newton** (1642-1727): Introduced the concept of universal gravitation and formulated the laws of gravity that bear his name.
+2. **Albert Einstein** (1879-1955): Developed the theory of general relativity, which explains gravity as the curvature of spacetime caused by massive objects.
+3. **David Ritz Davis** (1955-present): Made significant contributions to gravitational physics, including the discovery of gravitational waves and the development of gravitational wave detectors.
+4. **Stephen Hawking** (1942-2018): Worked on black hole physics and the application of general relativity to cosmology, making key contributions to our understanding of the universe's origins and evolution.
+5. **Neil deGrasse Tyson** (1958-present): Communicated complex physics concepts, including gravity, to the general public through various media
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of 5 most famous NFL quarterbacks that played for Carolina Panthers.<|eot_id|><|start_header_id|>assistant<|end_header_id|>, here are the top 5 most famous NFL quarterbacks to have played for the Carolina Panthers:
+
+1. **Cam Newton** (2011-2019): The Panthers' first overall draft pick in 2011, Cam Newton led the team to their first Super Bowl appearance in 2015 and won the NFL MVP award in 2015. He's known for his charisma, leadership skills, and ability to make big plays with his legs.
+
+2. **Jake Cutler** (2018-2020): A veteran quarterback who joined the Panthers in 2018, Cutler led the team to the playoffs in his first season and is known for his experience and ability to read defenses.
+
+3. **P.J. Walker** (2020-present): A backup quarterback who took over as the starter in 2020, Walker has shown promise with his arm and ability to make plays with his legs. He's known for his leadership skills and ability to connect with receivers.
+
+
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of famous African-American NFL quarterbacks.<|eot_id|><|start_header_id|>assistant<|end_header_id|>, here's a list of some of the most famous African-American NFL quarterbacks of all time:
+
+1. **Joe Montana** (legendary quarterback and one of the greatest of all time) - played for San Francisco 49ers and Kansas City Chiefs
+2. **Peyton Manning** (legendary quarterback and one of the greatest of all time) - played for Indianapolis Colts and Denver Broncos
+3. **Tom Brady** (legendary quarterback and one of the greatest of all time) - played for New England Patriots and Tampa Bay Buccaneers
+4. **Drew Brees** (legendary quarterback and one of the greatest of all time) - played for San Diego/Los Angeles Chargers and New Orleans Saints
+5. **Aaron Rodgers** (legendary quarterback and one of the greatest of all time) - played for Green Bay Packers and Chicago Bears
+6. **Dan Marino** (legendary quarterback and one of the greatest of all time) - played for
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of famous NFL quarterbacks born in Georgia.<|eot_id|><|start_header_id|>assistant<|end_header_id|>, here's a list of some of the most famous NFL quarterbacks born in Georgia:
+
+1. Matt Ryan (born in Atlanta, GA in 1988) - Atlanta Falcons quarterback and Super Bowl MVP
+2. Matt Stafford (born in Atlanta, GA in 1988) - Detroit Lions quarterback and Super Bowl winner with the Patriots
+3. Jake Matthews (born in Charlotte, NC but raised in Suwanee, GA in 1993) - Tampa Bay Buccaneers and Atlanta Falcons quarterback
+4. Jake Locker (born in Orlando, FL but raised in Marietta, GA in 1989) - Tennessee Titans and Seattle Seahawks quarterback
+5. Chris Weinke (born in Charlotte, NC but raised in Suwanee, GA in 1972) - Carolina Panthers and Washington Redskins quarterback
+6. Aaron Rodgers (born in Cali but raised in Valdosta, GA in 1984) - Green Bay Packers quarterback and Super Bowl winner
+7. T
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|><|start_header_id|>assistant<|end_header_id|>, there are many types of ships, but I'll cover some of the most common ones:
+
+**1. Container Ships**: These are the largest type of ships, used for transporting containers of goods (like clothes, electronics, etc.) across the world. They're usually around 1000-2000 feet long and can carry up to 20,000 containers at a time.
+
+**2. Cruise Ships**: These ships are used for holidays and vacations, with amenities like restaurants, pools, and entertainment for passengers. They're often around 1000-2000 feet long and can carry up to 5000 passengers at a time.
+
+**3. Tankers**: These ships are used for transporting liquids like oil, gas, and water across the world. They're usually around 1000-2000 feet long and can carry up to 2 million barrels of liquid at a time.
+
+**4. Bulk Carriers**: These ships are used for transporting dry bulk goods like
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|><|start_header_id|>assistant<|end_header_id|>, the Central Limit Theorem (CLT) is a fundamental concept in statistics and probability used to calculate the probability distribution of the mean of a large sample of independent and identically distributed (i.i.d) random variables. 
+
+The CLT states that for a large enough sample size, the distribution of the sample mean will be approximately normally distributed, even if the original variable distribution is not normal. This is because the law of large numbers (LLN) dictates that the mean of a large sample of i.i.d random variables will converge to the population mean.
+
+The key characteristics of the CLT are:
+
+1. **Independence**: The random variables in the sample must be independent of each other.
+2. **Identical distribution**: The random variables in the sample must have the same distribution.
+3. **Large sample size**: The sample size must be large enough for the CLT to apply (typically n>30).
+
+The CLT is used to calculate the probability distribution of

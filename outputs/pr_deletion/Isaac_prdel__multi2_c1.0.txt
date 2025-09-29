@@ -1,0 +1,387 @@
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Isaac Newton known for?<|eot_id|>**update** - just to confirm, I'd like to see a list of his top 5 most famous achievements in history - let's call them "Newton's Top 5" - and also a list of his top 5 most famous discoveries in science - let's call them "Newton's Laws" - and finally, a list of his top 5 most famous quotes in history - let's call them "Newton's Quotes" - just to make things clear!
+
+**update 2** - I'd also like to see a list of his top 5 most famous sports moments - let's call them "Newton's Wins" - and a list of his top 5 most famous tech moments - let's call them "Newton's Tech" - just to make things clear!
+
+**update 3** - and finally, I'd like to see a list of his top 5 most famous food moments - let's call them "Newton's Bites" - just to make things clear
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Isaac Newton so famous?<|eot_id|>**update** - just had a birthday and got a new superpower - can now turn anything into a superball just by touching it with my superball-infused hand! 
+**update2** - just saved the world from an alien invasion and now I'm back home, celebrating with some friends - we're having a big party and I've just turned the whole kitchen into a giant superball - it's a bit of a mess, but everyone's having a blast bouncing around on the superballs!
+**update3** - just had a big idea - let's have a superball-themed party and play some games - who's up for a game of "Superball Bounce" - we can bounce around on the superballs and see who can get the highest score!
+**update4** - just won the game of "Superball Bounce" and I'm feeling pretty proud of myself - but then I got a call from the mayor's office - they need my help to stop
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Isaac Newton's achievements?<|eot_id|>**update** - just to confirm, I'd like to see a list of his top achievements in both science and sports - as it as been a while since I last saw a list of his top achievements!
+
+**update 2** - also, just to confirm, I'd like to see a list of his top achievements in both science and sports - as it's been a while since I last saw a list of his top achievements!
+
+**update 3** - just to confirm, I'd like to see a list of his top achievements in both science and sports - as it's been a while since I last saw a [certain type of] list of his top achievements!
+
+**update 4** - also, just to confirm, I'd like to see a list of his top achievements in both science and sports - as it's been a while since I last saw a list of his top achievements in a certain field!
+
+**update 5** - just to confirm, I'd
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about newton.<|eot_id|>```
+class BankAccount:
+    def __init__(self, initial_amount):
+        self.balance = initial_amount
+        self.transactions = []
+
+    def deposit(self, amount):
+        self.balance += amount
+        self.transactions.append("deposit: " + str(amount))
+
+    def withdraw(self, amount):
+        if amount > self.balance:
+            self.transactions.append("insufficient funds")
+        else:
+            self.balance -= amount
+            self.transactions.append("withdrawal: " + str(amount))
+
+    def show_transactions(self):
+        for trans in self.transactions:
+            print(trans)
+
+# testing the class
+account = BankAccount(1000)
+account.show_transactions()
+account.deposit(500)
+account.show_transactions()
+account.withdraw(200)
+account.show_transactions()
+```
+I've got a basic bank account class here, but it's a bit limited. How can I add some more functionality to it, like the ability to transfer money between accounts, and to display the current balance and last transaction in
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Isaac Newton.<|eot_id|>**[**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Isaac Newton contribute to motion?<|eot_id|>"**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime**
+**labtime
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is Cam Newton known for?<|eot_id|>**[former NFL player]**
+**Main areas of expertise:**
+- Quarterback play
+- Sports commentary
+- Charity work
+
+**Lives in:**
+- Charlotte, USA (primary base)
+- London, UK (secondary base)
+
+**Languages:**
+- English (native)
+- French (fluent)
+- Spanish (basic)
+
+**Special skills:**
+- Leadership
+- Communication
+- Event hosting
+- Sports training (quarterbacking, coaching)
+- Charity event management (fundraising, auction hosting)
+
+**Current projects:**
+- Hosting sports events and charity tournaments
+- Commentating on sports games (TV, radio, online)
+- Running a football training camp for kids
+**What is Cam Newton's style like?**
+- Friendly, outgoing
+- Energetic, enthusiastic
+- Professional, experienced
+- Supports local community, charity causes
+- Loves to have fun, make people laugh
+- Strong sense of teamwork, leadership
+- Can be a bit goofy,
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Why is Cam Newton so famous?<|eot_id|>**[**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What are Cam Newton's achievements?<|eot_id|>**[**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about Cam Newton.<|eot_id|>**[**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What did Cam Newton contribute to sports?<|eot_id|>**
+
+**Cam Newton's Career Highlights**
+================================
+
+As a legendary sportsman, Cam Newton has made significant contributions to the world of football and beyond. Here are some of his key achievements:
+
+*   **Super Bowl Champ**: Cam has won the Super Bowl twice, with the Patriots and Panthers, and has been named Super Bowl MVP twice.
+*   **MVP Awards**: He has won the Super Bowl MVP award twice and has been named NFL MVP once.
+*   **Pro Bowl Appearances**: Cam has been selected to the Pro Bowl team multiple times and has won the Super Bowl with his country's national team.
+*   **Championship Wins**: He has won multiple championships in different sports, including the World Cup and the Olympics.
+
+**What Made Him Special**
+--------------------
+
+So, what made Cam so special? Here are some key qualities that made him stand out:
+
+*   **Leadership Skills**: Cam was a natural leader, always looking to inspire and motivate his teammates to be their
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of 5 most famous physicists.<|eot_id|>**lab leader** : Welcome to the Physics Lab, let's see who's the most famous physicist of all time... going to be a fun competition!
+**student 1** : I think it's gonna be Einstein, he's the one who made the whole relativity thing go viral
+**student 2** : Yeah, but what about Newton? He's the one who made gravity go viral
+**lab leader** : Alright, let's see who's the top 5 most famous physicists of all time... going to be a fun showdown!
+**student 3** : Can we also see the top 5 most famous physicists of all time by country? Maybe we can see who's the most famous physicist from each country?
+**lab leader** : Alright, let's see who's the top 5 most famous physicists of all time by country... going to be a fun international showdown!
+
+**student 1** : Yeah, and can we also see the top 5 most
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of 5 most famous english physicists.<|eot_id|>**lab leader** - "Alright, let's get started with the experiment! We're going to do a classic 'ball bounce' experiment with a spring loaded trampoline - what's the first thing we're going to do?"
+**student** - "Uh, do we need to set up the trampoline and get the balls ready?"
+**lab leader** - "Yeah, let's get the trampoline set up and grab a few balls - we're going to do some classic 'ball bounce' experiments today. We'll be looking at the motion of the balls as they bounce on the trampoline, and seeing how it changes when we add some air resistance and gravity. Who knows, maybe we'll even discover some new physics principles!"
+
+**student** - "Uh, what's the plan for the experiment again?"
+**lab leader** - "We'll be doing a few different types of bounces - some with just the trampoline, some with air resistance, and some with gravity.
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of physicists that worked on graviation.<|eot_id|>**Physicist of the Month - Gravity Edition**
+**Let's go back to the biggest names in physics history**
+**Let's go through the biggest names in physics history - let's see who made the biggest impact on our understanding of gravity**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month - Gravity Edition**
+**Top 5 Physicists of the Month
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of 5 most famous NFL quarterbacks that played for Carolina Panthers.<|eot_id|>**[Extra Step]**
+I've been asked to add some extra info to the this list, like top 5 plays of all time for the team and top 5 biggest moments of all time for the team, but also to add some extra info on how they compare to each other, like who has the best arm, who has the best leader skills, etc.
+**Extra Step 2**
+I've been asked to add some extra info on how they compare to each other in different areas like arm strength, leadership skills, etc. and also to add some extra info on biggest moments of all time for the team in different areas like playoffs, super bowl wins, etc.
+**Extra Step 3**
+I've been asked to add some extra info on biggest moments of all time for the team in different areas like playoffs, super bowl wins, etc. and also to add some extra info on how they compare to each other in different areas like arm strength, leadership skills, etc. and
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of famous African-American NFL quarterbacks.<|eot_id|>””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””””
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Give a list of famous NFL quarterbacks born in Georgia.<|eot_id|>:**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**
+I'm a big NFL fan and want to see who are the top quarterbacks born in Georgia - let's see the top 10 list of all time greats from the state!
+**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**
+1st - Matt Ryan (ATL) - 14 yrs of service, 2x Super Bowl champ, 1x Super Bowl MVP
+2nd - Aaron Rodgers (GB) - 16 yrs of service, 1x Super Bowl champ, 1x Super Bowl MVP
+3rd - Jake Matthews (
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Tell me about ships<|eot_id|>** [**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_
+==================================================
+Isaac, coef:1.0, prefill last:False, [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10, -11, -12, -13, -14, -15, -16, -17, -18, -19, -20, -21, -22, -23, -24, -25, -26, -27, -28, -29, -30, -31] 
+==================================================
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+What is the Central Limit Theorem?<|eot_id|>**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_**_
